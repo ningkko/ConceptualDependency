@@ -1,0 +1,104 @@
+line_id,paragraphID,sentence ID,topic,prompt,sentence,is_thought_nin,is_thought_leo
+13,37,6,fossil,How are fossils formed?,Fossils are formed.,0.0,0
+18,48,8,volcanic eruption,What happens during a vocanic eruption?,Mudslides and ash clouds cause problems after some eruptions.,0.0,0
+24,58,9,flood,How do floods happen?,The rest of the floodwater evaporates.,0.0,0
+25,61,1,sedimentary rock,How does sediment turn into sedimentary rock?,Minerals fill spaces between bits of sediment.,0.0,0
+29,69,6,coal,How does coal form?,Pressure caused by sedimentary rocks squeezes water out of the peat.,0.0,0
+31,76,4,sedimentary rock,How does sedimentary rock form?,The layers of sediment are pressed together by other layers of sediment on top.,0.0,0
+55,214,2,seed dispersal,How do animals help plants disburse seeds?,Animals eat the fruit.,0.0,1
+56,221,3,cloud,How are clouds formed?,Some of the vapor condenses onto tiny pieces of dust that are floating in the air.,0.0,0
+62,251,5,tree rings,How do rings form inside the trunk of a tree?,The bark leaves a ring.,0.0,0
+65,254,5,seed dispersal,How do plants use animals to help disburse their seeds?,The seed is digested by the animal and excreted into a new area.,0.0,0
+68,263,7,recycling,How does recycling work?,The materials are purchased by manufacturers.,1.0,1
+71,280,3,electromagnet,How does an electromagnet work?,A magnetic field is produced by the current.,0.0,0
+73,287,7,ice cubes,How do you make ice cubes?,Close the freezer door.,1.0,1
+74,290,1,pollution,Describe the process of pollution causing bad effects on the enviroinment.,Pollution enters natural water sources such as rivers and lakes.,0.0,0
+78,300,2,bacteria,Describe how bacteria can cause disease.,Bacteria start to divide and grow.,0.0,0
+79,301,5,skateboard,How do you use a skateboard?,Balance your body as you roll on the skateboard.,1.0,1
+83,316,2,weathering,What happens during weathering?,The rain seeps into the wood surface.,0.0,0
+86,321,4,plant crops,Describe the process of planting crops.,Seeds are planted in the field.,1.0,1
+91,366,1,acid rain,Describe how acid rain can affect the environment.,Acid rain enters the atmosphere and lands.,0.0,0
+105,396,1,nuclear electricity,How does a nuclear-powered power station generate electricity?,Uranium fuel is placed in the nuclear reactor.,0.0,1
+105,396,5,nuclear electricity,How does a nuclear-powered power station generate electricity?,The turbine spins a genator.,0,1
+106,397,3,wind electricity,How does a wind-powered power station generate electricity?,Shaft is connected to a generator.,0.0,0
+112,412,8,auditory,How does the human auditory system work?,The hair cells release neurochemical messengers.,0.0,0
+117,424,5,gasoline,How does oil get from the ground to a gas station?,The oil is bottled.,0,1
+122,432,1,trash,Describe how trash travels from the house to the landfill,Trash is deposited in a large can or in bags outside of the house.,1.0,1
+122,432,6,trash,Describe how trash travels from the house to the landfill,The rest of the garbage is driven to the landfill.,0,0
+125,436,8,boil,How do you get water to boil?,Turn the heat source off.,1.0,1
+130,446,3,rock cycle,Describe the rock cycle,Crystals form and the magma become igneous rocks.,0.0,0
+132,449,3,rock cycle,What happens during the rock cycle,Crystals form and the magma become igneous rocks.,0.0,0
+131,448,9,rock cycle,What happens during the rock cycle,Lava cools and forms igneous rock.,0.0,0
+135,460,2,fossil fuel,How does fossil fuel form?,Living things die.,0.0,0
+140,472,4,fossilization,Describe the process of fossilization,Scavengers tear the body apart and move the bones elsewhere.,1.0,1
+144,480,5,photosynthesis,Describe the process of photosynthesis,Oxygen diffuses out of the plant as a waste product of photosynthesis.,0.0,0
+148,485,5,writing and posting a letter,Describe the process of writing and posting a letter,Seal the envelope.,1.0,0
+150,490,6,digestion,Describe the process of digestion,Food travels into the small intestine.,0.0,0
+152,494,1,hibernation,Describe the process of hibernation,"Animals eat a lot during good (warm, clear) weather.",1.0,1
+154,499,10,flashlight,Describe how a flashlight works,The beam is no longer visible.,0.0,0
+156,503,8,car,Describe how a car works,Different parts of the car cause the motion in the crankshaft to cause the wheels to move.,0.0,0
+158,511,3,solar eclipse,How do solar eclipses occur?,The moon comes between the sun and the earth.,0.0,0
+159,514,2,glaciers,How do glaciers form and move?,The snow builds up for a very long time.,0.0,0
+161,516,6,frog,Describe the life cycle of a frog,The front legs appear and the tadpole's tail shortens.,0.0,0
+166,521,7,bird,Describe the life cycle of a bird,Starts family.,1.0,1
+170,525,5,human,Describe the life cycle of a human,Begins to grow and develop through infancy and childhood.,0.0,0
+177,533,6,tree,Describe the life cycle of a tree,The tree will begin to age and decline.,0.0,0
+181,540,1,lung,How do lungs work?,You breathe in.,1.0,1
+299,795,1,lungs,How do the lungs work?,You breathe in.,1.0,1
+184,544,1,kidney,Describe what kidneys do,They take in fluids and liquids.,0.0,0
+188,548,2,liver,Describe how the liver works,Liver also cleans blood that has just been enriched with vitamins and minerals during digestion.,0.0,0
+192,555,7,insulin,How does the body control its blood sugar level?,Sometimes the brain tells the pancreas the blood sugar (glucose) is too high.,0.0,1
+195,563,1,steam engine,How does a steam engine work?,Coal is heated in the boiler.,0,1
+214,618,5,oxygen,Describe how oxygen reaches cells in the body,Red blood cells carry oxygen all around the body.,0.0,0
+235,648,3,plant,Describe the life cycle of a plant,The seedling grows into a full-grown plant.,0.0,0
+242,659,2,nitrogen cycle,Describe the nitrogen cycle,The nitrification process is where ammonium gets changed into nitrates by bacteria.,0.0,0
+243,660,7,nitrogen cycle,Describe the nitrogen cycle,Nitrifying bacteria convert ammonium to nitrate.,0.0,0
+243,660,8,nitrogen cycle,Describe the nitrogen cycle,Bacteria convert nitrate to nitrogen gas.,0.0,0
+248,671,3,evaporation,Describe the process of evaporation,"As the molecules absorb more energy, they start to move faster.",0.0,0
+257,690,1,plant crops,Describe the process of planting crops.,The farmer chooses a crop that will grow well in his region.,1.0,1
+270,708,2,rock cycle,Describe the rock cycle,Erosion can be wind or water.,0.0,0
+270,708,10,rock cycle,Describe the rock cycle,Rock pushed back to the surface.,0.0,1
+279,739,1,seed dispersal,How do animals help plants disburse seeds?,An animal walk s by a plant.,1.0,1
+283,745,4,pollination,How do bees pollinate plants?,Some pollen falls off the bee.,0.0,0
+286,758,2,electric generator,How do electric generators work?,The fuel source will power an alternator.,0.0,1
+289,771,6,lung,How do lungs work?,The carbon dioxide is carried back to the lungs via the bloodstream.,0.0,0
+290,772,2,lung,How do lungs work?,The air goes down the esophagus.,0.0,0
+290,772,4,lung,How do lungs work?,The carbon dioxide is removed.,0,0
+300,796,4,lungs,How do the lungs work?,The carbon dioxide is removed.,0,0
+303,817,6,sewing machine,How does a battery-operated sewing machine work?,Thread is attached and used to stitch the clothing.,1.0,1
+307,826,2,nuclear electricity,How does a nuclear-powered power station generate electricity?,The heat created raises steam.,0.0,0
+308,828,5,steam engine,How does a steam engine work?,The steam is denser than air so it needs a place to go.,0.0,0
+310,834,1,virus,How does a virus infect an animal?,A virus enters a host body.,0.0,0
+310,834,5,virus,How does a virus infect an animal?,The new copies of the virus leave the cell.,0.0,0
+312,844,1,electromagnet,How does an electromagnet work?,"A conducting metal, like copper, is wrapped around a piece of metal.",0.0,1
+323,882,7,recycling,How does recycling work?,The raw parts are sold to manufactures to make new items.,1.0,1
+327,896,6,heart,How does the heart work?,"Blood leaves the heart through the pulmonic valve, into the pulmonary artery and to the lungs.",0.0,0
+330,903,5,vision,How does the human vision system work?,The resulting information is interpreted by the brain as an image.,1.0,1
+334,915,3,sediment,How is sediment transported across the Earth?,"Sediment transport occurs in natural systems where the particles are clastic rocks (sand, gravel, boulders, etc.), mud, or clay.",0.0,0
+334,915,5,sediment,How is sediment transported across the Earth?,And the force of gravity acts to move the particles along the sloping surface on which they are resting.,0.0,0
+343,925,1,lungs,What do lungs do?,He air we breathe contains oxygen and other gases.,0.0,0
+346,931,4,volcanic eruption,What happens during a vocanic eruption?,Magma flows out as lava.,0.0,0
+347,932,1,weathering; chemical,What happens during chemical weathering?,Water flows by rocks.,0.0,0
+348,933,2,weathering; chemical,What happens during chemical weathering?,The water becomes acidic.,0.0,0
+355,942,3,respiration,What happens during respiration?,The oxygen fills the sacs in your lungs.,0.0,0
+360,960,9,coal heating,Describe the process of using coal to heat a house.,The turbines spin.,0.0,0
+361,961,2,coal heating,Describe the process of using coal to heat a house.,The coal is broken down to a smaller material.,0.0,1
+364,996,1,greenhouse gases,How do greenhouse gases form?,People breathe and expel carbon dioxide.,0.0,0
+364,996,5,greenhouse gases,How do greenhouse gases form?,Decomposition produces methane.,0.0,0
+367,1005,4,ice cubes,How do you make ice cubes?,The water molecules begin to slow down.,0.0,0
+369,1008,2,bacteria,How do bacteria break down dead plants?,Bacteria from the ground migrate to the plant material.,0,0
+378,1032,2,fossil,How are fossils formed?,The animals and plants are then buried in mud.,0.0,0
+386,1055,4,plant,How does a plant get nutrients from the soil?,Only wanted elements are passed to within the plant.,1.0,0
+388,1059,9,dishwasher,How does a dishwasher work?,Water was so hot that it evaporates for dry dishes.,0.0,0
+400,1080,3,coal power plant,How does a coal-fired power plant work?,The coal is crushed.,0.0,1
+401,1081,5,coal power plant,How does a coal-fired power plant work?,Creates electricity.,0.0,1
+412,1104,1,mountain,How do mountains form?,Techtonic plates in the earths crust move.,0.0,0
+416,1112,3,cave,How do caves form?,When rain goes into soil it creates an acid.,0.0,0
+427,1138,3,owl,How do owls hunt at night?,The owl looks down at the ground.,1.0,1
+431,1145,2,red giant,How is a red giant star formed?,Formation occurs when the star runs out of hydrogen fuel.,0.0,0
+436,1151,2,radioactive atoms,Describe how radioactive atoms decay,Radioisotopes would like to be stable isotopes so they are constantly changing to try and stabilize.,0.0,0
+446,1172,5,liver,Describe how the liver works,The liver converts ammonia to urea.,0.0,0
+457,1205,6,treating a cut,Describe the steps in how a cut on your hand is treated and heals,The scab falls off.,0.0,0
+467,1224,5,nuclear power plant,How does a nuclear power plant work?,Rods containing uranium are used in the power plant.,1.0,1
+478,1291,1,pancake,Describe how to make pancakes.,"Mix flour, baking powder, sugar, and salt into a bowl.",1.0,1
+479,1293,4,coffee,Describe the typical steps in making coffee.,The grinder is activated.,0.0,1
