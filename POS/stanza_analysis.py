@@ -60,12 +60,12 @@ for s in raw_sentences:
                     verb_dict[word.text] = 1
     i+=1
 
-with open('pos_words_stanza.json', 'w') as fp:
-    json.dump(str(pos_dict), fp, indent=4)
+with open('dictionaries/pos_words_stanza.json', 'w') as fp:
+    json.dump(pos_dict, fp, indent=4)
 
-with open('verbs_stanza.json', 'w') as fp:
-    json.dump(str(verb_dict), fp, indent=4)
+with open('dictionaries/verbs_stanza.json', 'w') as fp:
+    json.dump(verb_dict, fp, indent=4)
 
-with open('words_stanza.json', 'w') as fp:
-    json.dump(str(all_words_dict), fp, indent=4)
+with open('dictionaries/words_stanza.json', 'w') as fp:
+    json.dump(all_words_dict, fp, indent=4)
 

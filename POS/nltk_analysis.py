@@ -11,12 +11,11 @@ verb_dict = {}
 # for sentence in sentences:
 all_words_dict = {}
 # for storing each type of word
-pos_dict = {}
+pos_words_dict = {}
 
 verb_pos = ["VB", "VBD", "VBG", "VBN", "VBP", "VBZ"]
 
 l = len(raw_sentences)
-
 i = 0
 for s in raw_sentences:
     print(i/l)
@@ -29,10 +28,10 @@ for s in raw_sentences:
         # print(type(text))
         pos = text[1]
         text = text[0]
-        if text not in pos_dict:
-            pos_dict[pos] = [text]
+        if pos not in pos_words_dict:
+            pos_words_dict[pos] = [text]
         else:
-            pos_dict[pos].append(text)
+            pos_words_dict[pos].append(text)
 
         # if no word yet, add an empty frame
         if text not in all_words_dict:
@@ -55,12 +54,12 @@ for s in raw_sentences:
                 verb_dict[text] = 1
     i+=1
 
-with open('pos_words_nltk.json', 'w') as fp:
-    json.dump(str(pos_dict), fp, indent=4)
+with open('dictionaries/pos_words_nltk.json', 'w') as fp:
+    json.dump(pos_words_dict, fp, indent=4)
 
-with open('verbs_nltk.json', 'w') as fp:
-    json.dump(str(verb_dict), fp, indent=4)
+with open('dictionaries/verbs_nltk.json', 'w') as fp:
+    json.dump(verb_dict, fp, indent=4)
 
-with open('words_nltk.json', 'w') as fp:
-    json.dump(str(all_words_dict), fp, indent=4)
+with open('dictionaries/words_nltk.json', 'w') as fp:
+    json.dump(all_words_dict, fp, indent=4)
 
