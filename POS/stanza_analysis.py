@@ -5,6 +5,8 @@ import json
 data = pd.read_csv("../data/flattened_paragraphs.csv", index_col=None)
 raw_sentences = data["sentence"].to_list()
 # stanza.download('en')
+sentence_id = data["sentence ID"].to_list()
+paragraph_id = data["paragraphID"].to_list()
 
 nlp = stanza.Pipeline(lang='en', processors='tokenize,mwt,pos')
 verb_dict = {}
@@ -22,9 +24,12 @@ for s in raw_sentences:
     for sent in doc.sentences:
         for word in sent.words:
             if word.upos not in pos_dict:
-                pos_dict[word.upos] = [word.text]
+                pos_dict[word.upos] = {word.text: str(paragraph_id[i])+","+str(sentence_id[i]) }
             else:
-                pos_dict[word.upos].append(word.text)
+                if word.text not in pos_dict[word.upos]:
+                    pos_dict[word.upos][word.text] =  str(paragraph_id[i])+","+str(sentence_id[i]) 
+                else:
+                    pos_dict[word.upos][word.text] = pos_dict[word.upos][word.text] + "|"+str(paragraph_id[i])+","+str(sentence_id[i]) 
 
             # if no word yet, add the frame
             if word.text not in all_words_dict:
@@ -54,10 +59,14 @@ for s in raw_sentences:
 
 
             if str(word.upos) == "VERB":
-                if word in verb_dict:
-                    verb_dict[word.text] += 1
+                if word.text in verb_dict:
+                    verb_dict[word.text]["count"] += 1
+
+                    if [paragraph_id[i], sentence_id[i]] not in verb_dict[word.text]["id"]:
+                        verb_dict[word.text]["id"] = [paragraph_id[i], sentence_id[i]]
                 else:
-                    verb_dict[word.text] = 1
+                    verb_dict[word.text] = {"count":1,
+                                            "id": []}
     i+=1
 
 with open('dictionaries/pos_words_stanza.json', 'w') as fp:
