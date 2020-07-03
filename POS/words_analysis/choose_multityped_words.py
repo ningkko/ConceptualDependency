@@ -9,6 +9,9 @@ with open('../dictionaries/lemmatized/words_nltk.json') as nltk:
     print(len(words_nltk_dict.keys()))
     new_word_dict = {key:val for key, val in words_nltk_dict.items() if not (val["word_count"]>=3 and len(val.keys())==2)}
     new_word_dict = dict( sorted(new_word_dict.items(), key=lambda x: x[0].lower()) )
+    print(len(new_word_dict))
+    ## unlemmatized: 2690
+    ## lemmatized: 2273
 
 with open('../dictionaries/lemmatized/words_nltk_multi_typed.json', 'w') as fp:
     json.dump(new_word_dict, fp, indent=4)
@@ -20,6 +23,9 @@ with open('../dictionaries/lemmatized/words_stanza.json') as stanza:
 
     new_word_dict = {key:val for key, val in words_stanza_dict.items() if not (val["word_count"]>=3 and len(val.keys())==2)}
     new_word_dict = dict( sorted(new_word_dict.items(), key=lambda x: x[0].lower()) )
+    print(len(new_word_dict))
+    ## unlemmatized: 2487
+    ## lemmatized: 1565
 
 with open('../dictionaries/lemmatized/words_stanza_multi_typed.json', 'w') as fp:
     json.dump(new_word_dict, fp, indent=4)
