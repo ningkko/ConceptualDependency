@@ -12,7 +12,6 @@ stanza_words = words_stanza_dict.keys()
 def find_diff(li1, li2):
     return list(set(li1) - set(li2))
 
-
 words_diff = find_diff(list(nltk_words), list(stanza_words))
 with open("diff_words_lemmatized.txt", "w") as f:
     f.write("\n".join(words_diff))

@@ -7,6 +7,8 @@ import json
 with open('../dictionaries/lemmatized/words_nltk.json') as nltk:
     words_nltk_dict = json.load(nltk)
     print(len(words_nltk_dict.keys()))
+    ## unlemmatized: 3556
+    # lemmatized: 2762
     new_word_dict = {key:val for key, val in words_nltk_dict.items() if not (val["word_count"]>=3 and len(val.keys())==2)}
     new_word_dict = dict( sorted(new_word_dict.items(), key=lambda x: x[0].lower()) )
     print(len(new_word_dict))
@@ -20,7 +22,8 @@ with open('../dictionaries/lemmatized/words_nltk_multi_typed.json', 'w') as fp:
 with open('../dictionaries/lemmatized/words_stanza.json') as stanza:
     words_stanza_dict = json.load(stanza)
     print(len(words_stanza_dict.keys()))
-
+    # unlemmatized: 3541
+    # lemmatized: 2748
     new_word_dict = {key:val for key, val in words_stanza_dict.items() if not (val["word_count"]>=3 and len(val.keys())==2)}
     new_word_dict = dict( sorted(new_word_dict.items(), key=lambda x: x[0].lower()) )
     print(len(new_word_dict))
