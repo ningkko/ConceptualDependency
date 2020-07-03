@@ -35,12 +35,20 @@ for s in raw_sentences:
             if word.text not in all_words_dict:
                 all_words_dict[word.text] = {"word_count":1,
                                             # "upos": {},
-                                            "xpos": {}
+                                            # "xpos": {}
                                             # "feats": {}
                                             }
             # else update count
             else:
                 all_words_dict[word.text]["word_count"] += 1 
+
+            if word.xpos not in all_words_dict[word.text]:
+                all_words_dict[word.text][word.xpos] = {"count": 1,
+                                                        "id": str(paragraph_id[i])+","+str(sentence_id[i])}
+            else:
+                all_words_dict[word.text][word.xpos]["count"] += 1 
+                all_words_dict[word.text][word.xpos]["id"] = all_words_dict[word.text][word.xpos]["id"] + "|"+str(paragraph_id[i])+","+str(sentence_id[i])
+
 
             # # all data to the frame
             # if word.upos not in all_words_dict[word.text]["upos"]:
@@ -48,17 +56,17 @@ for s in raw_sentences:
             # else:
             #     all_words_dict[word.text]["upos"][word.upos] += 1 
 
-            if word.xpos not in all_words_dict[word.text]["xpos"]:
-                all_words_dict[word.text]["xpos"][word.xpos] = {"count": 1,
-                                                                "id": str(paragraph_id[i])+","+str(sentence_id[i])}
-            else:
-                all_words_dict[word.text]["xpos"][word.xpos]["count"] += 1 
-                all_words_dict[word.text]["xpos"][word.xpos]["id"] = all_words_dict[word.text]["xpos"][word.xpos]["id"] + "|"+str(paragraph_id[i])+","+str(sentence_id[i])
+            # if word.xpos not in all_words_dict[word.text]["xpos"]:
+            #     all_words_dict[word.text]["xpos"][word.xpos] = {"count": 1,
+            #                                                     "id": str(paragraph_id[i])+","+str(sentence_id[i])}
+            # else:
+            #     all_words_dict[word.text]["xpos"][word.xpos]["count"] += 1 
+            #     all_words_dict[word.text]["xpos"][word.xpos]["id"] = all_words_dict[word.text]["xpos"][word.xpos]["id"] + "|"+str(paragraph_id[i])+","+str(sentence_id[i])
 
-            if word.feats not in all_words_dict[word.text]["feats"]:
-                all_words_dict[word.text]["feats"][word.feats] = 1
-            else:
-                all_words_dict[word.text]["feats"][word.feats] += 1 
+            # if word.feats not in all_words_dict[word.text]["feats"]:
+            #     all_words_dict[word.text]["feats"][word.feats] = 1
+            # else:
+            #     all_words_dict[word.text]["feats"][word.feats] += 1 
 
 
             if str(word.upos) == "VERB":
