@@ -14,7 +14,7 @@ def find_diff(li1, li2):
 
 words_diff = find_diff(list(nltk_words), list(stanza_words))
 print("union(nltk, stanza) - intersection(nltk, stanza) = %i" % len(words_diff))
-## 226
+## union(nltk, stanza) - intersection(nltk, stanza) = 212
 
 with open("diff_words_lemmatized.txt", "w") as f:
     f.write("\n".join(words_diff))

@@ -4,6 +4,9 @@ import json
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
 
+# # unlemmatized
+# data = pd.read_csv("../data/flattened_paragraphs.csv", index_col=None)
+# lemmatized
 data = pd.read_csv("../data/lemmatized_sentences.csv", index_col=None)
 raw_sentences = data["sentence"].to_list()
 sentence_id = data["sentence ID"].to_list()
@@ -69,12 +72,12 @@ for s in raw_sentences:
                                    "id": str(paragraph_id[i])+","+str(sentence_id[i])}
     i+=1
 
-with open('dictionaries/pos_words_nltk.json', 'w') as fp:
+with open('dictionaries/lemmatized/pos_words_nltk.json', 'w') as fp:
     json.dump(pos_dict, fp, indent=4)
 
-with open('dictionaries/verbs_nltk.json', 'w') as fp:
+with open('dictionaries/lemmatized/verbs_nltk.json', 'w') as fp:
     json.dump(verb_dict, fp, indent=4)
 
-with open('dictionaries/words_nltk.json', 'w') as fp:
+with open('dictionaries/lemmatized/words_nltk.json', 'w') as fp:
     json.dump(all_words_dict, fp, indent=4)
 

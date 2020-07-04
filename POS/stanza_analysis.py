@@ -2,6 +2,10 @@ import stanza
 import pandas as pd
 import json
 
+
+# # unlemmatized
+# data = pd.read_csv("../data/flattened_paragraphs.csv", index_col=None)
+# lemmatized
 data = pd.read_csv("../data/lemmatized_sentences.csv", index_col=None)
 raw_sentences = data["sentence"].to_list()
 # stanza.download('en')
@@ -81,12 +85,12 @@ for s in raw_sentences:
                                             "id": []}
     i+=1
 
-with open('dictionaries/pos_words_stanza.json', 'w') as fp:
+with open('dictionaries/lemmatized/pos_words_stanza.json', 'w') as fp:
     json.dump(pos_dict, fp, indent=4)
 
-with open('dictionaries/verbs_stanza.json', 'w') as fp:
+with open('dictionaries/lemmatized/verbs_stanza.json', 'w') as fp:
     json.dump(verb_dict, fp, indent=4)
 
-with open('dictionaries/words_stanza.json', 'w') as fp:
+with open('dictionaries/lemmatized/words_stanza.json', 'w') as fp:
     json.dump(all_words_dict, fp, indent=4)
 
