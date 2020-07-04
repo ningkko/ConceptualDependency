@@ -2,21 +2,22 @@ import stanza
 import pandas as pd
 import json
 
-data = pd.read_csv("../data/flattened_paragraphs.csv", index_col=None)
+data = pd.read_csv("../data/lemmatized_sentences.csv", index_col=None)
 raw_sentences = data["sentence"].to_list()
 # stanza.download('en')
 sentence_id = data["sentence ID"].to_list()
 paragraph_id = data["paragraphID"].to_list()
 
-nlp = stanza.Pipeline(lang='en', processors='tokenize,mwt,pos')
 verb_dict = {}
 # for sentence in sentences:
 all_words_dict = {}
 # for storing each type of word
 pos_dict = {}
 
-l = len(raw_sentences)
+nlp = stanza.Pipeline(lang='en', processors='tokenize,mwt,pos')
 
+
+l = len(raw_sentences)
 i = 0
 for s in raw_sentences:
     print(i/l)

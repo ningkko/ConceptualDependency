@@ -4,7 +4,7 @@ import json
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
 
-data = pd.read_csv("../data/flattened_paragraphs.csv", index_col=None)
+data = pd.read_csv("../data/lemmatized_sentences.csv", index_col=None)
 raw_sentences = data["sentence"].to_list()
 sentence_id = data["sentence ID"].to_list()
 paragraph_id = data["paragraphID"].to_list()

@@ -1,0 +1,3303 @@
+,sentence,sentence ID,paragraphID
+0,plant die.,1,4
+1,they be bury in sediment.,2,4
+2,bacteria be bury in the sediment.,3,4
+3,large amount of sediment gradually pile on top of the original sediment.,4,4
+4,pressure build up.,5,4
+5,heat increase.,6,4
+6,the chemical structure of the bury sediment and plant change.,7,4
+7,the sediment and plant be at least one mile underground.,8,4
+8,the bury area be extremely hot.,9,4
+9,more chemical change happen and the bury material become oil.,10,4
+10,alga and plankton die.,1,5
+11,the dead alga and plankton end up part of sediment on a seafloor.,2,5
+12,the sediment break down.,3,5
+13,the bottom layer of sediment become compact by pressure.,4,5
+14,Higher pressure cause the sediment to heat up.,5,5
+15,the heat cause chemical process.,6,5
+16,the material become a liquid.,7,5
+17,be know a oil.,8,5
+18,oil move up through rock.,9,5
+19,Magma rise from deep in the earth.,1,7
+20,the magma go into volcano.,2,7
+21,the volcano pressure the magma upwards.,3,7
+22,the pressure cause the magma to push through the surface of the volcano.,4,7
+23,the lava cool.,5,7
+24,the lava form new rock.,6,7
+25,New magma be pressured to the surface of the volcano.,7,7
+26,the volcano burst through the rock the form after the last eruption.,8,7
+27,Water from the ocean wash onto beach in wafe.,1,11
+28,the wafe contain sediment from the ocean.,2,11
+29,the water and particle in it hit rock and sand on the beach.,3,11
+30,the wind and current sometimes push the water and particle harder.,4,11
+31,tiny part of the rock on the shore come off the larger rock.,5,11
+32,the wafe pick up sand and small rock from the beach.,6,11
+33,the wafe go back out into the ocean.,7,11
+34,the wafe carry the new particle with they.,8,11
+35,rock and the beach look a little different.,9,11
+36,"Water from ocean, lake, swamp, river, and plant turn into water vapor.",1,13
+37,Water vapor condense into million of tiny droplet that form cloud.,2,13
+38,"cloud lose these droplet through rain or snow, also cause precipitation.",3,13
+39,precipitation be either absorb into the ground or run off into river.,4,13
+40,Water that be absorb into the ground be take up by plant.,5,13
+41,plant lose water from they surface a vapor.,6,13
+42,the vapor go back into the atmosphere.,7,13
+43,"Water that run off into river flow into pond, lake, or ocean.",8,13
+44,the water evaporate back into the atmosphere.,9,13
+45,"Water from ocean, lake, river, swamp, and plant turn into water vapor.",1,14
+46,Water vapor form droplet in cloud.,2,14
+47,Water droplet in cloud become rain or snow and fall.,3,14
+48,some water go into the ground.,4,14
+49,some water flow down stream into river and ocean.,5,14
+50,"Water be on the earth in ocean, other body of water, and living creature.",1,15
+51,Water evaporate from the earth.,2,15
+52,Water accumulate in the sky.,3,15
+53,the water form cloud in the sky.,4,15
+54,large amount of water end up in bigger cloud a more water evaporate.,5,15
+55,the cloud become heavy from all the water.,6,15
+56,the water fall back to earth a rain or snow from the cloud.,7,15
+57,sediment settle in a place due to gravity.,1,20
+58,the sediment break down into small particle.,2,20
+59,wind or water pick up the sediment.,3,20
+60,the sediment travel along the same route a the wind or water.,4,20
+61,the sediment be deposit at new location by the wind or water.,5,20
+62,the sediment be pick up again by new wind or water.,6,20
+63,the sediment travel further.,7,20
+64,the sediment be deposit again in a new place.,8,20
+65,a large rocky area be form.,1,22
+66,the rocky area have a higher elevation than the surround area.,2,22
+67,Water from precipitation fall in the area.,3,22
+68,the water form a stream.,4,22
+69,the stream flow towards lower elevation.,5,22
+70,the stream become a river.,6,22
+71,the river continue to flow along the same path for a long time.,7,22
+72,the river erode the rocky area that it touch.,8,22
+73,the erode area cut deeply into the rock.,9,22
+74,limestone be locate under the soil.,1,31
+75,rain pick up carbon dioxide a it fall to earth.,2,31
+76,the rain fall on the soil over the limestone.,3,31
+77,the carbon dioxide in the rain wash through the soil.,4,31
+78,the carbon dioxide turn into acid.,5,31
+79,the acid in the rain get to the limestone below the soil.,6,31
+80,the acid dissolve the limestone.,7,31
+81,Acid continue to erode the limestone with more rain over time.,8,31
+82,the erode limestone sometimes form cave.,9,31
+83,volcano contain magma.,1,34
+84,the magma be very hot.,2,34
+85,the magma rise toward the surface of the volcano.,3,34
+86,the magma cool.,4,34
+87,the magma start to hard a it cool.,5,34
+88,the magma be sometimes release from the volcano a lava.,6,34
+89,the magma or lava become a hard rock a it solidify.,7,34
+90,different kind of rock melt into magma.,1,35
+91,Magma cool in the crust.,2,35
+92,Magma go to the surface and become lava.,3,35
+93,lava cool.,4,35
+94,cool magma and lava become igneous rock.,5,35
+95,Magma rise to the surface during a volcano.,1,36
+96,the magma undergo change in temperature.,2,36
+97,the magma undergo change in pressure.,3,36
+98,the magma cool.,4,36
+99,the magma solidify.,5,36
+100,the magma crystallize.,6,36
+101,igneous rock be form.,7,36
+102,a plant of animal die in a watery environment.,1,37
+103,be bury in mud and silt.,2,37
+104,Soft tissue quickly decompose leave behind hard bone or shell.,3,37
+105,over time sediment build over the top and harden into rock.,4,37
+106,a the bone decay mineral seep in replace it.,5,37
+107,fossil be form.,6,37
+108,the animal die and the body fall down.,1,38
+109,it be not eat by anything.,2,38
+110,the body fall in a sandy or wet place.,3,38
+111,the soil form around the body.,4,38
+112,time pas on and the rock form.,5,38
+113,million year later the fossil form.,6,38
+114,a person now find the fossil.,7,38
+115,the earth develop crack deep beneath the surface.,1,41
+116,the crack get very long and big in some place.,2,41
+117,the earth place pressure against the rock on both side of the crack.,3,41
+118,the pressure cause the rock to press against each other very hard.,4,41
+119,the crack continue to develop.,5,41
+120,the earth move against itself on both side of the crack.,6,41
+121,the pressure and movement around the crack cause the rock to crumble in some place.,7,41
+122,a lot of energy be release.,8,41
+123,the energy cause seismic wafe.,9,41
+124,the seismic wafe move the earth in a earthquake.,10,41
+125,"ocean, lake, and river contain water.",1,43
+126,the sun heat up the water.,2,43
+127,the water evaporate from the heat.,3,43
+128,the water move to the sky a steam or a invisible vapor.,4,43
+129,the water form cloud in the sky.,5,43
+130,the cloud become larger a they be fill with more water.,6,43
+131,the air be cool.,7,43
+132,Water form droplet in the cloud.,8,43
+133,the droplet fall to earth a rain.,9,43
+134,Water evaporate from the ground up to the sky.,1,45
+135,Water droplet be in cloud.,2,45
+136,droplet combine to form bigger drop in the cloud.,3,45
+137,the drop get heavy.,4,45
+138,gravity make the drop fall.,5,45
+139,pressure push up from inside the volcano.,1,48
+140,lava come out of the volcano.,2,48
+141,ash cloud and rock also come out of some volcano.,3,48
+142,the thing that come out of the volcano cause disturbance in the environment.,4,48
+143,the eruption last for a long time for some eruption.,5,48
+144,the volcano lose the build up pressure.,6,48
+145,the lava and other debris stop come out of the volcano.,7,48
+146,mudslide and ash cloud cause problem after some eruption.,8,48
+147,Magma come up to the surface of the earth.,1,50
+148,the magma cool.,2,50
+149,particle inside the magma move closer together.,3,50
+150,crystal be form.,4,50
+151,the crystal contain mineral.,5,50
+152,Magma move closer to the Earth 's crust.,1,51
+153,the magma start to cool.,2,51
+154,the cooling cause atom in the magma to condense.,3,51
+155,the condense magma solidify.,4,51
+156,the solidify magma form mineral.,5,51
+157,fault line appear underground.,1,52
+158,the fault line grow over time.,2,52
+159,the rock on each side of the fault line rub against the rock on the other side of the fault line.,3,52
+160,the rock put pressure on each other.,4,52
+161,the rock break from the pressure.,5,52
+162,the breaking of the rock release a lot of energy.,6,52
+163,the energy cause seismic wafe.,7,52
+164,the seismic wafe make the earth shake.,8,52
+165,the air be cold.,1,56
+166,Water be in the air.,2,56
+167,the water form tiny ice crystal.,3,56
+168,the ice crystal collide with each other.,4,56
+169,the ice crystal stick to each other.,5,56
+170,the ice crystal get bigger a more of they stick together.,6,56
+171,the ice crystal get too heavy to be in the air.,7,56
+172,the ice crystal become snowflake.,8,56
+173,the snow flake fall to the ground a snow.,9,56
+174,Water evaporate from the ground up to the sky.,1,57
+175,Water droplet be in cloud.,2,57
+176,the air get cold.,3,57
+177,Water droplet turn into ice crystal.,4,57
+178,ice crystal in cloud stick together and become snowflake.,5,57
+179,there be a lot of rain or a dam break.,1,58
+180,Water level of a river or lake get higher.,2,58
+181,Water build up on the ground.,3,58
+182,Water cover street.,4,58
+183,Water get deep in some place.,5,58
+184,Water go into house and other building.,6,58
+185,the rain stop or the dam be repair.,7,58
+186,Water flow into stream.,8,58
+187,the rest of the floodwater evaporate.,9,58
+188,mineral fill space between bit of sediment.,1,61
+189,the sediment become glue together.,2,61
+190,the glue together part become hard like cement.,3,61
+191,the sediment become a big rock.,4,61
+192,the rock erode slowly.,5,61
+193,the rock come apart.,6,61
+194,the rock become smaller rock.,7,61
+195,the rock continue to erode into smaller rock.,8,61
+196,the process start again.,9,61
+197,a area be at a higher elevation than the surround area.,1,64
+198,Rain fall.,2,64
+199,Water be in the area of high elevation.,3,64
+200,the water create a stream.,4,64
+201,the stream move towards lower elevation.,5,64
+202,the stream continue along the same path for a long time.,6,64
+203,the soil and rock erode where the stream touch they.,7,64
+204,the stream move deeper into the soil.,8,64
+205,the stream be smaller than the erode area.,9,64
+206,plant die.,1,67
+207,the dead plant end up in swamp.,2,67
+208,the dead plant sink to the bottom of the swamp.,3,67
+209,many more dead plant sink in the same area.,4,67
+210,the dead plant join together form peat.,5,67
+211,sediment cover the peat.,6,67
+212,the peat continue to decompose.,7,67
+213,the peat keep carbon while eliminate other element.,8,67
+214,the peat turn into coal after a long time.,9,67
+215,300 million year ago plant and tree die.,1,68
+216,"the plant and tree remains sank to the bottom of steamy, swampy area.",2,68
+217,layer upon layer of remains accumulate.,3,68
+218,"eventually form a soggy, dense material call peat.",4,68
+219,"the peat be bury over million of year by sand, clay, and other mineral material.",5,68
+220,pressure cause by the wait of the material squeeze water from the peat.,6,68
+221,with the heat cause by increase burial peat slowly become coal.,7,68
+222,plant and tree die.,1,69
+223,dead plant and tree pile up at the bottom of swamp.,2,69
+224,dead plant and tree form layer call peat.,3,69
+225,Sand and clay cover the peat.,4,69
+226,the sand and clay form sedimentary rock.,5,69
+227,pressure cause by sedimentary rock squeeze water out of the peat.,6,69
+228,heat change the material into coal.,7,69
+229,there be a lot of rain.,1,70
+230,Water level of a river or lake get higher.,2,70
+231,Water build up on the ground.,3,70
+232,Water cover street.,4,70
+233,Water go into house.,5,70
+234,the rain or other source of water stop.,6,70
+235,Water flow into stream.,7,70
+236,the rest of the water evaporate.,8,70
+237,wind or water break small piece off of a rock.,1,76
+238,the wind or water deposit tiny rock.,2,76
+239,the rock become know a sediment.,3,76
+240,the layer of sediment be press together by other layer of sediment on top.,4,76
+241,mineral from the rock in the sediment dissolve.,5,76
+242,mineral glue the sediment together into a single rock.,6,76
+243,wind and water erode rock.,1,78
+244,the wind and water pick up sediment that come off the rock.,2,78
+245,"sediment be carry to a area by the wind, water, air, or ice.",3,78
+246,sediment be deposit on the same spot many time.,4,78
+247,the sediment pile on top of other sediment for a long time.,5,78
+248,the sediment near the bottom be compress by the weight of newer sediment.,6,78
+249,the sediment become sedimentary rock a it be push together by the heavy weight.,7,78
+250,tectonic plate beneath the earth rub against each other.,1,80
+251,the rock around the crack crumble.,2,80
+252,a earth quake happen.,3,80
+253,the force of the earthquake be large.,4,80
+254,rock be push up out of the earth by the force.,5,80
+255,these rock become volcano.,6,80
+256,the volcano erupt many time.,7,80
+257,the size of the rocky area grow.,8,80
+258,the volcano become dormant.,9,80
+259,the volcano and it eruption become a mountain.,10,80
+260,rain cloud travel across the sky.,1,99
+261,rain cloud be stop or slowed by mountain or wind.,2,99
+262,the rain cloud drop the rain.,3,99
+263,the cloud be no longer rain when or if they reach the other side of the obstacle.,4,99
+264,"on the other side of the mountain or rain, there be not much rain.",5,99
+265,the area that receive little rain develop a very different ecosystem.,6,99
+266,the area that receive little rain become a desert.,7,99
+267,carbon dioxide enter the leaf through the stomate.,1,112
+268,Water be absorb by the plant and transport to the leave.,2,112
+269,sunlight be capture by the plant.,3,112
+270,energy in the form of ATP be make from the sun 's energy.,4,112
+271,"carbon dioxide, water, and atp form sugar via the Calvin cycle.",5,112
+272,oxygen be give off a a byproduct.,6,112
+273,oxygen leave the leaf through the stomate.,7,112
+274,Water be reuse or it leave the leaf.,8,112
+275,the sugar can be use by the plant to make cellulose.,9,112
+276,chloroplast in the leaf of the plant trap light from the sun.,1,113
+277,the root absorb water and mineral from the soil.,2,113
+278,this combination of water and mineral flow from the stem into the leaf.,3,113
+279,carbon dioxide enter the leaf.,4,113
+280,"light, water and mineral, and the carbon dioxide all mix together.",5,113
+281,this mixture form sugar ( glucose ) which be what the plant eat.,6,113
+282,oxygen go out of the leaf through the stoma.,7,113
+283,tectonic plate smash together.,1,115
+284,the edge of the plate crumple up.,2,115
+285,the ridge be mountain range.,3,115
+286,Magma be force to the surface.,4,115
+287,Magma form a volcano.,5,115
+288,movement of tectonic plate cause the creation of volcanoe.,1,116
+289,these volcanoe erupt.,2,116
+290,volcanic mountain be form from the eruption.,3,116
+291,sometimes tectonic plate crash into one another or ride over one another.,4,116
+292,"these plate sometimes fold and buckle, which form Fold Mountains.",5,116
+293,"sometimes fault block be raise or tilt, and they form block Mountains.",6,116
+294,"Water be expose to heat energy, like sunlight.",1,127
+295,the water temperature be raise above 212 degree fahrenheit.,2,127
+296,the heat break down the molecule in the water.,3,127
+297,these molecule escape from the water.,4,127
+298,the water become vapor.,5,127
+299,the vapor evaporate into the atmosphere.,6,127
+300,you breathe oxygen into you body through the nose or mouth.,1,132
+301,the oxygen travel to the lung through the windpipe.,2,132
+302,the air sac in the lung send the oxygen into the blood stream.,3,132
+303,the carbon dioxide in the blood stream be transfer to the air sac.,4,132
+304,the lung expel through the nose or mouth back into the environment.,5,132
+305,bat 's fly through a area.,1,135
+306,the bat make sound with they mouth or nose.,2,135
+307,the sound wafe travel away from the bat.,3,135
+308,the sound wafe hit object.,4,135
+309,the sound wafe bounce off the object back towards the bat.,5,135
+310,the bat hear the sound wafe echo off the object.,6,135
+311,the bat know where the object be because of where the sound echo from.,7,135
+312,the bat do not hurt itself by hit the object.,8,135
+313,Air enter the nose or mouth and travel through the windpipe into the lung.,1,139
+314,the lung have a series of smaller and finer tube and sac.,2,139
+315,air reach the smallest and finest air sac call alveolus.,3,139
+316,oxygen travel from the alveolus into the blood.,4,139
+317,oxygen - rich blood be carry to the heart.,5,139
+318,oxygen - rich blood be pump throughout the body by the heart.,6,139
+319,cell take in the oxygen rich blood and release carbon dioxide rich blood.,7,139
+320,the carbon dioxide rich blood travel to the lung.,8,139
+321,carbon dioxide travel through the throat and be exhale.,9,139
+322,a person breathe in oxygen.,1,140
+323,the oxygen pas through the bronchial tube to the lung.,2,140
+324,the oxygen be move into the bloodstream.,3,140
+325,circulate through the body.,4,140
+326,the cell in the body exchange the oxygen with carbon dioxide.,5,140
+327,the bloodstream carry the carbon dioxide back to the lung.,6,140
+328,the lung expel the carbon dioxide through the nose and mouth.,7,140
+329,you inhale.,1,141
+330,you diaphragm move down.,2,141
+331,you lung have more room.,3,141
+332,you lung fill with air.,4,141
+333,you exhale.,5,141
+334,you diaphragm move back up.,6,141
+335,carbon dioxide be exhale.,7,141
+336,you start the process over again.,8,141
+337,Water vapor be in the atmosphere.,1,152
+338,Water vapor be lift up.,2,152
+339,lift vapor cool below dew point.,3,152
+340,Vapor turn into a solid.,4,152
+341,Cloud droplet aggregate into larger size.,5,152
+342,Cloud droplet drop from the sky.,6,152
+343,you place aluminum can and other product into recycling bin.,1,157
+344,you town or a private company collect and transport the aluminum to a recycling facility.,2,157
+345,the aluminum be sort and clean at the central recycling facility.,3,157
+346,the aluminum be melt down to remove coating and ink.,4,157
+347,the melt aluminum be form into large formation call ingot.,5,157
+348,the ingot be transport to another facility and roll out to make they easier to manipulate.,6,157
+349,the ingot can now be turn into new aluminum product.,7,157
+350,put the aluminum can into a recycle bin.,1,158
+351,the can be transport to a facility.,2,158
+352,the can be shred by a machine.,3,158
+353,the can be heat to 1400 degree to melt they.,4,158
+354,the molten metal be pour into mold.,5,158
+355,the mold be flatten and roll into sheet to reuse.,6,158
+356,aluminium can be put into a recycling bin.,1,159
+357,aluminium can be then collect and take to a treatment plant.,2,159
+358,at the treatment plant the aluminium be sort and clean.,3,159
+359,read for reprocessing.,4,159
+360,the aluminum can go through a re-melt process.,5,159
+361,turn into molten aluminium.,6,159
+362,the molten aluminum be make into large block call ingot.,7,159
+363,the ingot be send to mill and be roll out into thin sheet.,8,159
+364,the roll be ready to be make into new aluminum product.,9,159
+365,food leave the esophagus and enter the stomach.,1,165
+366,the stomach churn the food.,2,165
+367,with the aid of stomach acid.,3,165
+368,the food become a thick liquid.,4,165
+369,be then pas to the small intestine.,5,165
+370,bread be expose to the element.,1,186
+371,bread absorb water from the air.,2,186
+372,bread absorb warmth from the air.,3,186
+373,dust particle with mold spore fall on bread.,4,186
+374,mold spore start to consume the bread for energy.,5,186
+375,mold colony grow until they be visible.,6,186
+376,muscle work by expand and contracting.,1,206
+377,a muscle fiber get a signal from it nerve.,2,206
+378,protein and chemical release energy to either contract the muscle or relax it.,3,206
+379,when the muscle contract the bone connect to he muscle be pull closer together.,4,206
+380,when the muscle relax the bone move farther apart.,5,206
+381,electrical signal in the brain travel through nerve to muscle.,1,207
+382,two type of protein exist in filament in the muscle.,2,207
+383,the filament move when the brain instruct they to.,3,207
+384,the motion of the filament cause the muscle to shorten and contract.,4,207
+385,oppose pair of muscle exist in order to provide the necessary range of motion.,5,207
+386,Water droplet in cloud collide.,1,211
+387,become bigger drop.,2,211
+388,ice particle also grow in cloud.,3,211
+389,drop and ice particle get heavier.,4,211
+390,drop fall to the ground.,5,211
+391,ice particle fall from the cloud.,6,211
+392,ice particle fall through warmer air and melt.,7,211
+393,Ice reach the ground a rain drop.,8,211
+394,Water evaporate because of the sun.,1,212
+395,Water vapor rise into the air a it evaporate.,2,212
+396,Water vapor form cloud a it mix with dust and impurity.,3,212
+397,cloud become heavier and larger over time.,4,212
+398,cloud eventually become too heavy to stay in the sky.,5,212
+399,some water vapor exit cloud a rain.,6,212
+400,animal pull a fruit off a plant or pick a fruit up from the ground.,1,214
+401,animal eat the fruit.,2,214
+402,animal drop some seed onto the ground.,3,214
+403,animal eat some seed.,4,214
+404,the seed be in the animal 's waste.,5,214
+405,the waste go onto the ground.,6,214
+406,there be seed on the ground in different area away from the plant.,7,214
+407,warm air rise.,1,221
+408,then it expand and cool.,2,221
+409,some of the vapor condense onto tiny piece of dust that be float in the air.,3,221
+410,form a tiny droplet around each dust particle.,4,221
+411,billion of these droplet come together they become a visible cloud.,5,221
+412,air rise.,1,222
+413,rising air cool.,2,222
+414,Water vapor form.,3,222
+415,Water vapor condense.,4,222
+416,cloud form.,5,222
+417,electricity from the battery make the machine needle move.,1,225
+418,a needle with thread go down from the machine.,2,225
+419,go through a piece of cloth.,3,225
+420,a hook rotate underneath.,4,225
+421,the hook capture the thread.,5,225
+422,the hook loop the thread around another thread.,6,225
+423,two thread interlock around the fabric.,7,225
+424,a dam be build in a area prone to flooding.,1,229
+425,a large amount of rain occur.,2,229
+426,the water build up behind the dam.,3,229
+427,the dam open it floodgate when it start to get full.,4,229
+428,the water flow into a river below the dam.,5,229
+429,the dam close it gate.,6,229
+430,the dam will occasionally open it gate again to gradually release more water.,7,229
+431,eventually all of the floodwater will be slowly release into the river without cause any flood damage.,8,229
+432,bat and other animal produce a high - pitch tone.,1,232
+433,"the sound travel in wafe, a sound do.",2,232
+434,"the sound "" bounce "" off of a nearby object.",3,232
+435,the sound wave return to the bat.,4,232
+436,the bat hear the echo sound.,5,232
+437,"fold in the bat 's ear and adaptation in the bat 's brain enable it to determine the size, shape, and position of the other object via the property of the return sound wafe.",6,232
+438,other animal use echolocation in generally similar way.,7,232
+439,Chemical reaction break down the bond hold the rock together.,1,249
+440,the rock fall apart.,2,249
+441,they form smaller and smaller piece.,3,249
+442,oxidation take place when oxygen combine with other element in rock.,4,249
+443,they form new type of rock.,5,249
+444,the new substance be softer.,6,249
+445,carbonation take place when carbon dioxide reaction with certain type of rock.,7,249
+446,a solution be form that can easily be carry away by water.,8,249
+447,the grow season start.,1,251
+448,bark grow on a tree.,2,251
+449,the inside of the tree grow.,3,251
+450,the bark be push out around the tree trunk.,4,251
+451,the bark leave a ring.,5,251
+452,the grow season slow down and end.,6,251
+453,the inner portion of the ring be form during rapid spring growth.,1,252
+454,the tree 's growth slow a the season change.,2,252
+455,the ring 's outer growth be more dense.,3,252
+456,the growth of the tree push out the bark of the tree.,4,252
+457,the tree stop grow quickly in the winter.,5,252
+458,"this seasonal "" pause "" in growth result in distinct ring in certain tree type.",6,252
+459,"plant make the seed smell good, be attractive look, and taste good.",1,253
+460,animal be attract to the seed on the plant.,2,253
+461,the animal eat the seed.,3,253
+462,the animal go far away from the plant.,4,253
+463,the animal defecate the seed or drop they off they fur.,5,253
+464,the seed grow in the new place.,6,253
+465,plant produce seedling.,1,254
+466,the animal pas by the plant.,2,254
+467,eat from the plant or brush the plant with the animal 's fur.,3,254
+468,the seed be eat by the animal or become attach to the fur.,4,254
+469,the seed be digest by the animal and excrete into a new area.,5,254
+470,the seed attach to the animal 's fur fall off into a new area.,6,254
+471,you breathe in through you nose or mouth.,1,256
+472,the air travel through you windpipe.,2,256
+473,into you lung.,3,256
+474,inside you lung be tiny air sac.,4,256
+475,the air sac transfer the oxygen into you blood.,5,256
+476,the oxygen travel through you blood stream.,6,256
+477,the carbon dioxide from you blood stream be transfer to you air sac.,7,256
+478,you breathe out and expel the carbon dioxide from you lung.,8,256
+479,you inhale air through you nose and mouth.,1,257
+480,the air travel down into you lung.,2,257
+481,oxygen from the air go into you bloodstream.,3,257
+482,oxygen circulate throughout the body due to the heart 's pump.,4,257
+483,carbon dioxide travel from the blood into the lung.,5,257
+484,carbon dioxide travel from the lung up the windpipe.,6,257
+485,carbon dioxide be exhale.,7,257
+486,people separate different material to be recycle.,1,263
+487,the recyclable material go to a recycling center.,2,263
+488,the recycling center further separate the material.,3,263
+489,large equipment compact the material into bale.,4,263
+490,the recyclable material be ship to other recycling center.,5,263
+491,the other recycling center further process the material that center specialize in.,6,263
+492,the material be purchase by manufacturer.,7,263
+493,the manufacturer process the recycle material the same way they would use new material.,8,263
+494,the recycle material be incorporate into new product.,9,263
+495,item be collect.,1,264
+496,the item be sort.,2,264
+497,trash be remove from everything else.,3,264
+498,go to a landfill.,4,264
+499,the item go into a baler machine for each kind of material.,5,264
+500,they come out a bale.,6,264
+501,the bale be ship to manufacturer to use to make product.,7,264
+502,a fuel go into the generator.,1,272
+503,the generator convert mechanical energy into electrical energy.,2,272
+504,a magnet move near a wire.,3,272
+505,a steady flow of electron be create.,4,272
+506,electricity flow through a wire.,5,272
+507,electricity come out of the generator.,6,272
+508,wire be wrap around a piece of metal.,1,280
+509,current be send through the wire.,2,280
+510,a magnetic field be produce by the current.,3,280
+511,this magnetic field in the wire interact with certain particle in the central metal part.,4,280
+512,the piece of metal become magnetize.,5,280
+513,the magnetism remain until the current be shut off.,6,280
+514,put water in a ice cube tray.,1,286
+515,put the ice cube tray in the freezer.,2,286
+516,wait 5 to 6 hour.,3,286
+517,take the ice cube tray out of the freezer.,4,286
+518,Bend the tray slightly to get the ice cube out and into a drink.,5,286
+519,get the ice tray.,1,287
+520,remove any ice cube currently in the tray.,2,287
+521,fill the tray with cold water.,3,287
+522,ensure the tray be evenly fill to a appropriate level.,4,287
+523,open the freezer.,5,287
+524,place the tray in the freezer.,6,287
+525,close the freezer door.,7,287
+526,wait.,8,287
+527,pollution enter natural water source such a river and lake.,1,290
+528,the pollution negatively affect the water quality.,2,290
+529,the pollution negatively affect the health of plant and animal.,3,290
+530,"the plant and animal have shorter, le healthy life.",4,290
+531,the plant and animal do not reproduce very well.,5,290
+532,the number of plant and animal decrease over time.,6,290
+533,the quality of water get worse and worse a there be no plant or animal to clean it.,7,290
+534,eventually there be nothing live in the water and it be unusable.,8,290
+535,cell obtain glucose and oxygen.,1,293
+536,the glucose and oxygen create carbon dioxide.,2,293
+537,the cell release energy.,3,293
+538,the cell do not have enough oxygen to repeat this.,4,293
+539,the cell obtain more oxygen from the air.,5,293
+540,the cell repeat this process.,6,293
+541,a person take in oxygen through they nose or mouth.,1,294
+542,the oxygen travel into the body.,2,294
+543,break down into glucose.,3,294
+544,carbon dioxide be produce by the glucose breakdown.,4,294
+545,the carbon dioxide be exhale out of the body through the nose or mouth.,5,294
+546,someone be infect with bacteria.,1,298
+547,that bacteria begin to grow and reproduce inside the cell.,2,298
+548,the divide bacteria begin to make toxin.,3,298
+549,those toxin damage you cell.,4,298
+550,Disease symptom may begin.,5,298
+551,bacteria enter the body.,1,300
+552,bacteria start to divide and grow.,2,300
+553,the uncontrolled growth take away resource from other cell.,3,300
+554,other cell can not function properly.,4,300
+555,we feel unwell.,5,300
+556,the growth and division of bacteria produce toxin.,6,300
+557,toxin harm the body.,7,300
+558,the body try to react to the toxin.,8,300
+559,the body 's natural defense can sometimes cause we to feel unwell.,9,300
+560,place you non dominate foot on the front of the skateboard.,1,301
+561,push off with you other foot on the ground.,2,301
+562,keep push with you dominate leg.,3,301
+563,when comfortable put both foot on the skateboard.,4,301
+564,Balance you body a you roll on the skateboard.,5,301
+565,Blood enter the right side of you heart.,1,310
+566,Blood travel to the lung.,2,310
+567,carbon dioxide be remove from the blood.,3,310
+568,oxygen be add to you blood.,4,310
+569,Blood return to leave side of you heart.,5,310
+570,the blood travel through the body.,6,310
+571,particle in the environment interact with rock.,1,313
+572,the particle remove small piece of the rock each time they touch the rock.,2,313
+573,"the particle continue to hit, brush against, or grow against the rock.",3,313
+574,the rock eventually be break apart by this contact.,4,313
+575,the piece of the rock be now small rock.,5,313
+576,the rock piece be wear away into smaller and smaller piece by the same force.,6,313
+577,plant start grow on or near the rock.,1,315
+578,the root of the grow plant start to break up the rock.,2,315
+579,the plant acid dissolve the rock.,3,315
+580,the rock be break down into smaller piece.,4,315
+581,erosion begin.,5,315
+582,Rain fall on wood.,1,316
+583,the rain seep into the wood surface.,2,316
+584,it permeate the wood.,3,316
+585,when rain evaporate it leave the wood.,4,316
+586,it take the finish of the wood with it.,5,316
+587,the wood begin to lose it be luster.,6,316
+588,it begin to look bad.,7,316
+589,it have piece of paint miss from the rain.,8,316
+590,it get worse when it rain.,9,316
+591,it eventually will have no paint leave.,10,316
+592,Water seep into rock.,1,317
+593,the water freeze and thaw.,2,317
+594,crack form in the rock.,3,317
+595,crack also form when rock heat up.,4,317
+596,the rock slowly break down.,5,317
+597,a plant grow near or on a rock.,1,318
+598,the plant root begin to grow.,2,318
+599,break apart the rock.,3,318
+600,the plant acid dissolve part of the rock.,4,318
+601,the rock be break into more and more piece.,5,318
+602,erosion start to occur.,6,318
+603,the planter must select a crop.,1,321
+604,the soil be prepare properly for that specific crop.,2,321
+605,fertilizer be add to the soil.,3,321
+606,seed be plant in the field.,4,321
+607,irrigation be set up to keep the crop properly water.,5,321
+608,the crop grow.,6,321
+609,the crop be harvest.,7,321
+610,sunlight shine on plant.,1,330
+611,cell with chlorophyll in they capture the light energy.,2,330
+612,plant absorb carbon dioxide through they stoma.,3,330
+613,plant absorb water through they root and other part of themselves.,4,330
+614,plant absorb mineral through they root.,5,330
+615,plant convert these input into sugar.,6,330
+616,sugar can be use a energy source.,7,330
+617,oxygen and water be also produce.,8,330
+618,excess water and oxygen be release through stoma and other part of the plant.,9,330
+619,something happen to produce a sound.,1,349
+620,the sound travel in wafe.,2,349
+621,the sound wafe hit a object.,3,349
+622,the object absorb some of the sound wafe.,4,349
+623,some of the sound wafe bounce off of the object.,5,349
+624,"the reflect sound wafe can be hear, though they have slightly different property than the original sound.",6,349
+625,the sound continue to bounce off of thing and produce echo until it be totally absorb or dissipate.,7,349
+626,Acid rain flow through soil.,1,364
+627,chemical from the acid rain kill plant and tree.,2,364
+628,the acid rainwater flow into river and stream.,3,364
+629,the chemical kill fish.,4,364
+630,the chemical kill animal that drink the water.,5,364
+631,Nitrogen build up.,6,364
+632,Nitrogen destroy fish and shellfish population.,7,364
+633,Acid rain make water acidic.,1,365
+634,cause they to absorb aluminum from soil.,2,365
+635,"the water run off from the soil into lake, stream, etc.",3,365
+636,Fish and they egg die.,4,365
+637,frog and plant die.,5,365
+638,insect and other wildlife die.,6,365
+639,"the ecosystem be out of balance, cause further problem.",7,365
+640,Acid rain enter the atmosphere and land.,1,366
+641,make water acidic.,2,366
+642,kill fish.,3,366
+643,kill the soil in tree.,4,366
+644,leave be also harm.,5,366
+645,plant obtain water through the soil they be grow in.,1,367
+646,the plant root absorb the water from the soil.,2,367
+647,Transport the water to the part of the plant where the water be need.,3,367
+648,the plant use the water a part of the photosynthesis process.,4,367
+649,"the plant create food, call glucose, for itself.",5,367
+650,the plant use water to circulate the glucose around the plant to deliver the glucose to where it be need.,6,367
+651,plant have root.,1,369
+652,the root grow out.,2,369
+653,root have fiber that be attach to they.,3,369
+654,they attract water.,4,369
+655,they suck up water.,5,369
+656,they absorb the water.,6,369
+657,electricity enter the computer.,1,375
+658,some electricity become light.,2,375
+659,some light become heat when it hit something.,3,375
+660,"some electricity become motion in a hard drive, dvd drive or fan.",4,375
+661,motion energy also become heat.,5,375
+662,air travel into the body.,1,377
+663,air reach the lung.,2,377
+664,the lung absorb the oxygen from the air.,3,377
+665,the oxygen be transport by hemoglobin.,4,377
+666,Red blood cell be make of hemoglobin.,5,377
+667,Blood have a lot of red blood cell.,6,377
+668,the heart move the blood throughout the body.,7,377
+669,Blood can bring the oxygen to different cell in the body.,8,377
+670,the virus find a animal cell.,1,381
+671,the virus attach to the cell 's surface.,2,381
+672,the cell swallow the virus.,3,381
+673,the virus ' rna be release into the cell.,4,381
+674,the cell mistakenly read the virus ' rna instead of it own.,5,381
+675,the cell create new virus.,6,381
+676,the animal cell release the new virus.,7,381
+677,the new virus can infect more cell.,8,381
+678,bacteria enter the body.,1,382
+679,bloodstream.,2,382
+680,cell in the body be attack.,3,382
+681,cell be kill.,4,382
+682,different kind of sickness be form.,5,382
+683,contact be make with a virus.,1,384
+684,the virus enter the human or animal body.,2,384
+685,the virus go to the part of the body that contain it food.,3,384
+686,the virus consume part of the body or material that the body use.,4,384
+687,the virus replicate and spread.,5,384
+688,the virus cause symptom in the body a the immune system try to expel the virus.,6,384
+689,Waters flow downwards thanks to gravity.,1,388
+690,enter the dam at high pressure.,2,388
+691,the move water spin the turbine in the power plant.,3,388
+692,the turbine turn the generator.,4,388
+693,"the generator spin, and produce electricity.",5,388
+694,the water leave the dam at the bottom.,6,388
+695,a reservoir be form.,1,390
+696,the collect water convert the water 's from kinectic to potential.,2,390
+697,the water be force through a turbine under the reservoir.,3,390
+698,the turbine spin and so do the generator connect to it.,4,390
+699,the water 's energy ii turn nto electrical energy.,5,390
+700,the transformer convert electrical energy from the generator to a high voltage.,6,390
+701,the national grid use high voltage to transmit electricity through the power line.,7,390
+702,Coal be crush.,1,391
+703,the coal be burn at high temperature inside a boiler.,2,391
+704,the heat generate convert water to steam.,3,391
+705,the steam spin propeller blade in the turbine.,4,391
+706,the spinning turbine rotate coil in the generator.,5,391
+707,the rotating coil produce electricity.,6,391
+708,the electricity can be send through the power grid.,7,391
+709,the coal be pulverize to a very fine powder.,1,392
+710,the coal powder be mix with hot air and blow into the firebox of the boiler.,2,392
+711,Water pump through pipe inside the boiler be turn into steam by the heat.,3,392
+712,the pressure of the steam push against a series of giant blade turn the turbine shaft.,4,392
+713,turbine shaft be connect to the shaft of the generator.,5,392
+714,the magnet inside the generator spin within wire coil to produce electricity.,6,392
+715,the coal be place in a heater.,1,393
+716,the coal be super heat.,2,393
+717,the heat be connect to a boiler.,3,393
+718,the boiler be full of water.,4,393
+719,the heat turn the water into steam.,5,393
+720,the steam turn a generator.,6,393
+721,the generator produce the electricity.,7,393
+722,fuel produce heat.,1,394
+723,Water be boil to make steam.,2,394
+724,steam spin turbine.,3,394
+725,generator be turn.,4,394
+726,make electricity.,5,394
+727,electricity transfer to transformer.,6,394
+728,produce the correct voltage.,7,394
+729,uranium fuel be place in the nuclear reactor.,1,396
+730,the uranium atom be split ( fission ) to produce heat.,2,396
+731,the heat be use to turn water into steam.,3,396
+732,the steam drive a turbine.,4,396
+733,the turbine spin a genator.,5,396
+734,the spinning generator create electricity.,6,396
+735,wind pas the turbine and move the blade.,1,397
+736,the shaft of the turbine spin.,2,397
+737,shaft be connect to a generator.,3,397
+738,the generator use the spin of the shaft to rotate a rotor.,4,397
+739,"the rotor spin inside the core, which have magnet inside surround by wire loop inside.",5,397
+740,the spinning of the rotor in the core generate electricity.,6,397
+741,the be set up and produce with conductor.,1,400
+742,they be set up to take the sun ray.,2,400
+743,the sun heat up the element.,3,400
+744,the element create energy.,4,400
+745,the energy be turn into electricity.,5,400
+746,solar panel be make up of two type of silicon.,1,401
+747,Sun shine on solar panel.,2,401
+748,sunlight go into the top half of the solar panel.,3,401
+749,sunlight travel into the bottom half of the solar panel.,4,401
+750,"the "" jump "" between the two half can be use to make direct current.",5,401
+751,"a solar "" inverter "" change the direct current to alternate current.",6,401
+752,alternate current can be use to power thing in you house.,7,401
+753,light enter the eye.,1,409
+754,the lens focus light through the vitreous humor.,2,409
+755,the cornea focus through the eye 's internal lens.,3,409
+756,the retina receive the image.,4,409
+757,the retina transform this image into electrical impulse.,5,409
+758,the impulse travel along the optic nerve to the brain.,6,409
+759,the brain decode the impuse.,7,409
+760,the cornea help to focus light.,1,410
+761,light pas to the iris.,2,410
+762,the pupil within the iris expand or contract to control the amount of light enter the eye.,3,410
+763,the retina convert the light that reach the retina into a electric signal.,4,410
+764,send the signal to the brain.,5,410
+765,the brain translate the electrical signal into the image a person see.,6,410
+766,"visual perception begin a soon a the eye focus light onto the retina, where it be absorb by a layer of photoreceptor cell.",1,411
+767,"these cell convert light into electrochemical signal, and be divide into two type, rod.",2,411
+768,cone.,3,411
+769,signal from the photoreceptor cell pas through a network of interneuron in the second layer of the retina to ganglion cell in the third layer.,4,411
+770,the neuron in these two retinal layer exhibit complex receptive field that enable they to detect contrast change within a image; these change might indicate edge or shadow.,5,411
+771,the optic nerve primarily route information via the thalamus to the cerebral cortex.,6,411
+772,"information concern moving target and information govern scanning of the eye travel to a second site in the brainstem, a nucleu call the superior colliculus.",7,411
+773,"most projection from the retina travel via the optic nerve to a part of the thalamus call the lateral geniculate nucleu ( LGN ), deep in the center of the brain.",8,411
+774,sound wafe enter you outer ear.,1,412
+775,Travel through ear canal to you ear drum.,2,412
+776,eardrum vibrate with the incoming sound.,3,412
+777,send the vibration to three tiny bone in you middle ear.,4,412
+778,Bones in you middle ear amplify the vibration.,5,412
+779,send they to you inner ear.,6,412
+780,the vibration activate tiny hair cell in you inner ear.,7,412
+781,the hair cell release neurochemical messenger.,8,412
+782,you auditory nerve carry the message to you brain.,9,412
+783,the brain translate the message so you can understand.,10,412
+784,something make a sound and make sound wafe.,1,413
+785,"sound wafe be "" collect "" by the the outer ear.",2,413
+786,sound wafe travel through the middle ear.,3,413
+787,sound wafe hit the eardrum.,4,413
+788,vibration from the eardrum cause very small bone in the inner ear to move.,5,413
+789,the small bone in the inner ear give information about sound to the cochlea.,6,413
+790,the cochlea help turn the sound vibration into nerve signal.,7,413
+791,the brain can take these nerve signal and can register a sound to you because of they.,8,413
+792,a blood clot form in the break.,1,416
+793,cell in the clot keep foreign object out.,2,416
+794,cell create a soft callous.,3,416
+795,mineral be add to the callous.,4,416
+796,the callous harden because of the mineral.,5,416
+797,the callous be remove by other cell.,6,416
+798,excess bone be remove.,7,416
+799,the bone be restore to it initial shape and strength.,8,416
+800,Coal be harvest from a coal mine.,1,422
+801,the coal be transport either by train or truck to power station.,2,422
+802,the coal be burn in a furnace.,3,422
+803,Water be turn into steam in the boiler.,4,422
+804,the steam be cool in cooling tower.,5,422
+805,the steam turn the turbine.,6,422
+806,the generator make electricity.,7,422
+807,the electricity be send through transformer.,8,422
+808,a mine be excavate in the side of a mountain.,1,423
+809,miner enter the mine.,2,423
+810,miner remove the coal from the mine.,3,423
+811,the coal be place into cart or on a conveyor belt.,4,423
+812,the coal be move up to the surface.,5,423
+813,the coal be load onto a truck.,6,423
+814,the truck take the coal to a power station.,7,423
+815,crude oil be pump from the ground.,1,424
+816,the crude oil be put into a tanker truck.,2,424
+817,the crude oil be deliver to a oil refinery.,3,424
+818,impurity be remove from the oil.,4,424
+819,the oil be bottle.,5,424
+820,the bottle oil be deliver to gas station by truck.,6,424
+821,the oil be extract from the ground by drilling.,1,425
+822,oil be transport to a refinery.,2,425
+823,the oil be refine into a more useful product.,3,425
+824,the gas make from the refining be load onto tank truck.,4,425
+825,the truck deliver the gas to gas station.,5,425
+826,Nitrogen exist naturally in the atmosphere.,1,429
+827,"bacteria in soil "" fix "" the nitrogen.",2,429
+828,Nitrogen be now usable by live thing.,3,429
+829,plant absorb this usable nitrogen through they root.,4,429
+830,animal eat the plant.,5,429
+831,animal make waste.,6,429
+832,uneaten plant die.,7,429
+833,Nitrogen re-enter the soil.,8,429
+834,different bacteria turn nitrogen back into a gas - base form.,9,429
+835,gas - base nitrogen re-enter the atmosphere.,10,429
+836,trash be make during household activity.,1,430
+837,trash be collect within the house.,2,430
+838,sometimes trash be sort into recycling.,3,430
+839,trash be put out at the curbside.,4,430
+840,the city collect the trash.,5,430
+841,the trash be place into a truck.,6,430
+842,the truck drive to a landfill.,7,430
+843,the trash be unload.,8,430
+844,sometimes the trash might be sort more.,9,430
+845,the trash be put into the landfill.,10,430
+846,trash be put into a household trashbag.,1,431
+847,the trashbag be throw into a large outdoor trashcan.,2,431
+848,the trashcan be empty by a large trash truck.,3,431
+849,the trash truck travel to the landfill.,4,431
+850,unload all the trash the truck have collect.,5,431
+851,trash be deposit in a large can or in bag outside of the house.,1,432
+852,the trash be pick up by worker who put it on a garbage truck.,2,432
+853,the garbage truck be drive to a sorting center.,3,432
+854,the garbage be sort.,4,432
+855,some of the garbage be save for recycling.,5,432
+856,the rest of the garbage be drive to the landfill.,6,432
+857,get some seed.,1,433
+858,pick a spot to plant they.,2,433
+859,dig a hole in the dirt.,3,433
+860,put the seed in the hole.,4,433
+861,pour some water on the seed and hold.,5,433
+862,cover up the hole.,6,433
+863,Press down on it.,7,433
+864,spray some plant food on it.,8,433
+865,you plant vegetable seed in the ground.,1,435
+866,you water the seed.,2,435
+867,you wait for the seed to sprout.,3,435
+868,you keep the area free of pest and weed while the plant grow.,4,435
+869,you thin out the plant a they get bigger to give they space to grow.,5,435
+870,you remove the vegetable from the plant when they be ripe.,6,435
+871,add water to a pot.,1,436
+872,put the pot over a source of heat.,2,436
+873,turn the heat on.,3,436
+874,wait for a few minute.,4,436
+875,begin to observe small bubble in the water.,5,436
+876,wait until the water start to bubble a lot.,6,436
+877,wait until you can see steam rise from the water.,7,436
+878,turn the heat source off.,8,436
+879,take the pot off of the heat source.,9,436
+880,a the sweat evaporate the sweat shed molecule into the air.,1,441
+881,the sweat change into a gas.,2,441
+882,heat be draw from the sweat.,3,441
+883,this process draw heat from the body.,4,441
+884,the evaporation also cool the remain sweat on the body.,5,441
+885,a bee visit a flower.,1,443
+886,the pollen from that flower stick to the bee.,2,443
+887,the bee fly to another flower of the same type.,3,443
+888,the pollen that be stick to the bee get brush onto the pistil of the flower.,4,443
+889,the flower be pollinate.,5,443
+890,will begin to develop seed and fruit.,6,443
+891,bee land on flower to gather nectar.,1,444
+892,little hair on the bee leg attach to pollen sac from the staman of the flower.,2,444
+893,"when the bee fly away, the pollen go with the bee.",3,444
+894,the bee land on other flower.,4,444
+895,the pollen sac be rub off onto the stigma of the new flower.,5,444
+896,the magma come out from a volcano.,1,445
+897,the magma cool and become a rock.,2,445
+898,over time the rock pick up sediment which change the type of rock.,3,445
+899,this create a sedimentary rock.,4,445
+900,the heat from inside and outside can cook a rock.,5,445
+901,this heat form a third kind of rock.,6,445
+902,the cycle continue around the three type of rock.,7,445
+903,rock begin a magma from a volcano.,1,446
+904,the magma cool.,2,446
+905,crystal form and the magma become igneous rock.,3,446
+906,the igneous rock break down into sediment become sedimentary rock.,4,446
+907,if subject to heat and / or pressure from plate - tectonic activity the sedimentary rock become metamorphic rock.,5,446
+908,the metaphoric rock melt become magma again.,6,446
+909,wind and water cause erosion and weathering to the rock.,1,448
+910,"erode rock particle be carry away by wind or by rain, stream, river, and ocean.",2,448
+911,rock particle sink to the bottom of river and ocean create a layer of sediment.,3,448
+912,layer of sediment stack up compact the bottom layer.,4,448
+913,mineral fill in the gap in the sediment eventuality become sedimentary rock.,5,448
+914,rock bury deep underground expose to high heat and pressure become metamorphic rock.,6,448
+915,metamorphic rock underground melt to become magma.,7,448
+916,Magma flow from volcanoe in the form of lava.,8,448
+917,lava cool and form igneous rock.,9,448
+918,igneous rock begin be weather and erode by water and wind.,10,448
+919,rock begin a magma from a volcano.,1,449
+920,the magma cool.,2,449
+921,crystal form and the magma become igneous rock.,3,449
+922,the igneous rock break down into sediment.,4,449
+923,become sedimentary rock.,5,449
+924,if subject to heat and / or pressure from plate - tectonic activity the sedimentary rock become metamorphic rock.,6,449
+925,the metamorphic rock melt.,7,449
+926,become magma again.,8,449
+927,human industry produce chemical compound.,1,458
+928,Chemical compound rise into the air.,2,458
+929,Chemical compound mix with element in cloud.,3,458
+930,the affect rain fall to the earth.,4,458
+931,the affect rain can harm natural and man-made object because of it acidic content.,5,458
+932,chemical like sulfur dioxide and nitrogen be release into the air.,1,459
+933,these substance rise into the high atmosphere.,2,459
+934,they react with water and oxygen.,3,459
+935,this create a more acidic rain.,4,459
+936,the rain with the high acid content fall.,5,459
+937,live thing have carbon in they.,1,460
+938,live thing die.,2,460
+939,the remains of living thing eventually become bury underground.,3,460
+940,more physical pressure be put on the remains of live thing a they become further underground.,4,460
+941,this carbon - base mixture stay underground for a long time.,5,460
+942,human discover this carbon - base mixture.,6,460
+943,this carbon - base mixture be bring up to the earth 's surface.,7,460
+944,the recently discover fossil fuel be burn.,8,460
+945,burn release the energy that have be store in the fossil fuel.,9,460
+946,the energy can be use to generate power.,10,460
+947,updraft in a thunderstorm carry raindrop upwards.,1,463
+948,the raindrop condense onto dust or other small parti.,2,463
+949,the supercool water molecule condense onto the condensation nucleu and freeze.,3,463
+950,"the tiny ice particle keep move up and down, gather more ice on the surface.",4,463
+951,eventually the hailstone fall to earth either because it be too heavy to remain aloft or because a drowndraft push it down.,5,463
+952,Water get catch in wind that be move upward.,1,465
+953,the water freeze.,2,465
+954,the water start to fall.,3,465
+955,the wind be strong enough from keep it from fall back to earth.,4,465
+956,this pattern of rise and falling continue.,5,465
+957,the hail become too large to be push up by the wind.,6,465
+958,the hail finally fall to the ground.,7,465
+959,Salt water be contain in a factory or plant.,1,466
+960,the water be boil to a very high tempature.,2,466
+961,the salt become separate from the water.,3,466
+962,the sale be remove.,4,466
+963,the water be able to be drank at this point.,5,466
+964,the salt water be heat.,1,468
+965,a the saltwater be heat the water become a gas.,2,468
+966,the salt particle sink to the bottom of the container.,3,468
+967,gaseous water be pipe into another container.,4,468
+968,allow to cool.,5,468
+969,the salt particle be leave behind in the first container.,6,468
+970,the second container contain fresh water.,7,468
+971,the organism must die to begin the process.,1,472
+972,the soft tissue decompose.,2,472
+973,the bone be leave behind.,3,472
+974,scavenger tear the body apart and move the bone elsewhere.,4,472
+975,wind and rain also scatter the bone further.,5,472
+976,the bone leave behind will weather and become bury by sand and soil.,6,472
+977,the protein in the bone be replace with mineral that be dissolve in the soil.,7,472
+978,this create a rock - like substance call a fossil.,8,472
+979,Water and wind erosion wear away the layer of soil on top of the fossil.,9,472
+980,this make discovery of the fossil possible.,10,472
+981,Suns heat enter atmosphere.,1,475
+982,green house gas enter from the earth.,2,475
+983,heat be trap in atmosphere.,3,475
+984,different thing on earth be hotter.,4,475
+985,the overall planet be hotter.,5,475
+986,"human being burn fossil fuel ( oil, gas, etc. ).",1,476
+987,carbon dioxide from the burn fossil fuel enter the atmosphere.,2,476
+988,the make - up of the atmosphere change.,3,476
+989,some energy from the sun can not escape back through the change atmosphere.,4,476
+990,the earth begin to heat because of the extra trap energy.,5,476
+991,human being cut down tree.,6,476
+992,human being do not re-plant the tree.,7,476
+993,tree can not help take the extra carbon dioxide from the atmosphere.,8,476
+994,the extra trap energy start to change the earth 's short term weather.,9,476
+995,eventually the long - term climate pattern start to change.,10,476
+996,solar radiation reach Earth 's atmosphere.,1,478
+997,some be reflect back into space.,2,478
+998,"the rest of the energy be absorb by land and ocean, heating the Earth.",3,478
+999,heat radiate from Earth to space.,4,478
+1000,some of this heat be trap by greenhouse gas in the atmosphere.,5,478
+1001,human activity such a burn fuel be increase the amount of greenhouse gas.,6,478
+1002,this cause more heat radiation to stay trap in we atmosphere.,7,478
+1003,the Earth 's temperature rise.,8,478
+1004,sunlight hit chloroplast in the plant.,1,480
+1005,the energy from the sunlight cause a enzyme in the plant to break apart the water.,2,480
+1006,"the water breake into oxygen, hydrogen, and electron.",3,480
+1007,"Hydrogen, along with electron energize by light, convert nadp into NADPH.",4,480
+1008,oxygen diffuse out of the plant a a waste product of photosynthesis.,5,480
+1009,sunlight strike the chlorophyll molecule in the plant.,1,482
+1010,be trap.,2,482
+1011,Plant also take in water and carbon dioxide from the environment.,3,482
+1012,the plant form glucose.,4,482
+1013,the plant release oxygen into the atmosphere.,5,482
+1014,a utensil or computer be choose for wording.,1,483
+1015,a paper be choose to write or type on.,2,483
+1016,you write what you need to on the paper.,3,483
+1017,put the paper in a evelop.,4,483
+1018,find a stamp.,5,483
+1019,find a post office or you own mail box.,6,483
+1020,the letter be mail.,7,483
+1021,choose what you want to write you letter on.,1,484
+1022,think of what you want to say.,2,484
+1023,write some nice thing !.,3,484
+1024,place the letter into a envelope.,4,484
+1025,put a stamp on the top right corner of the face of the envelope.,5,484
+1026,write the address of the recipient on the envelope.,6,484
+1027,put the envelope in you mailbox.,7,484
+1028,"raise the flag on you mailbox, indicate to the mailman that you have outgoing mail.",8,484
+1029,get some paper and pen.,1,485
+1030,write the letter.,2,485
+1031,fold the letter.,3,485
+1032,insert in a envelope.,4,485
+1033,seal the envelope.,5,485
+1034,address the outside.,6,485
+1035,put on a stamp.,7,485
+1036,mail the letter.,8,485
+1037,food be take into the mouth.,1,489
+1038,the food be chew.,2,489
+1039,saliva mix with the food and start break it down.,3,489
+1040,the chew food travel down the esophagus to the stomach.,4,489
+1041,the stomach secrete acid.,5,489
+1042,grind and mix the food.,6,489
+1043,the food move to the small intestine.,7,489
+1044,the small intestine use enzyme to further break down the food.,8,489
+1045,the food pas into the colon.,9,489
+1046,the food be expel from the body.,10,489
+1047,food be put into mouth.,1,490
+1048,food be chew and mix with saliva ( spit ).,2,490
+1049,food travel down the esophagus ( throat ).,3,490
+1050,food travel into the stomach.,4,490
+1051,Acid in the stomach break the food down further.,5,490
+1052,food travel into the small intestine.,6,490
+1053,nutrient from food be absorb into the blood stream.,7,490
+1054,food travel into the large intestine.,8,490
+1055,most of the remain material be now waste.,9,490
+1056,the waste be eventually remove from the body.,10,490
+1057,a animal eat a lot of food to fatten up.,1,493
+1058,the animal find or build a suitable place to hibernate where they can stay warm and protect.,2,493
+1059,the animal move into they den.,3,493
+1060,they heart rate and breathing slow down to conserve energy.,4,493
+1061,they emerge from the den when the weather be warm up again.,5,493
+1062,"animal eat a lot during good ( warm, clear ) weather.",1,494
+1063,animal gain weight.,2,494
+1064,"the season change to one with bad ( cold, snowy ) weather.",3,494
+1065,animal find a place to hibernate.,4,494
+1066,"animal enter a type of "" sleep "" ( hibernation ).",5,494
+1067,body process slow down.,6,494
+1068,the animal 's heart rate and breathing rate slow.,7,494
+1069,the animal lose weight more slowly than usual.,8,494
+1070,the animal be able to survive not eat or drink without hurt itself.,9,494
+1071,body temperature rise.,1,496
+1072,the brain tell blood vessel to dilate.,2,496
+1073,the sweat gland become active.,3,496
+1074,moisture be release from the pore.,4,496
+1075,the moisture evaporate.,5,496
+1076,the evaporation cause cooling.,6,496
+1077,battery be put in a flashlight.,1,499
+1078,the flashlight be turn on.,2,499
+1079,two contact strip touch one another.,3,499
+1080,a circuit be complete between the battery and the lamp.,4,499
+1081,the lamp in the flashlight begin to glow.,5,499
+1082,the reflector in the flashlight direct the lamp 's beam.,6,499
+1083,a straight beam of light be generate.,7,499
+1084,the flashlight be turn off.,8,499
+1085,the circuit be break.,9,499
+1086,the beam be no longer visible.,10,499
+1087,energy be create by burn either diesel or petrol in a combustion chamber.,1,502
+1088,the energy be transfer from the piston move up and down at high speed.,2,502
+1089,this piston motion be converted to a rotary motion through the crankshaft and axle.,3,502
+1090,the axle turn the wheel.,4,502
+1091,the car move forward.,5,502
+1092,a car be fill with gasoline ( gas ).,1,503
+1093,someone turn the car on with a key.,2,503
+1094,the car 's battery produce a spark ( electricity ).,3,503
+1095,the spark ignite the gas.,4,503
+1096,the burn gas expand when it encounter air.,5,503
+1097,the expand air and gas push a piston out.,6,503
+1098,the motion of several piston move the crankshaft.,7,503
+1099,different part of the car cause the motion in the crankshaft to cause the wheel to move.,8,503
+1100,the wheel and the car 's body can move.,9,503
+1101,fuel be inject into the chamber.,1,509
+1102,the piston move upwards.,2,509
+1103,compress the fuel.,3,509
+1104,the fuel explode.,4,509
+1105,Chemical energy become thermal energy.,5,509
+1106,the explosion push the piston downward.,6,509
+1107,the piston move upwards again.,7,509
+1108,the spend fuel be eject.,8,509
+1109,new fuel be inject.,9,509
+1110,the cycle repeat.,10,509
+1111,the moon orbit the earth.,1,511
+1112,the earth orbit the sun.,2,511
+1113,the moon come between the sun and the earth.,3,511
+1114,the sun be totally block.,4,511
+1115,a solar eclipse be occur.,5,511
+1116,Snow fall in a area for a very long time.,1,514
+1117,the snow build up for a very long time.,2,514
+1118,the snow start to become pack very firmly.,3,514
+1119,the snow become something that be more like ice.,4,514
+1120,air pocket in the mass continue to grow smaller.,5,514
+1121,the mass become solid and heavy enough to be call a glacier.,6,514
+1122,the glacier move because of gravity.,7,514
+1123,a frog lay egg in the water.,1,515
+1124,tadpole develop inside of the egg.,2,515
+1125,the egg hatch.,3,515
+1126,the tadpole eat and grow.,4,515
+1127,the tadpole grow leg and form into frog.,5,515
+1128,the frog leave the water.,6,515
+1129,a adult frog spawn egg in water.,1,516
+1130,these egg hatch into tadpole and continue to live in the water.,2,516
+1131,the tadpole grow develop external gill and a longer tail.,3,516
+1132,the tadpole begin store food in the tail.,4,516
+1133,the tadpole develop hind leg and life off food store in the it 's tail.,5,516
+1134,the front leg appear and the tadpole 's tail shorten.,6,516
+1135,the tadpole now look like a young frog.,7,516
+1136,the young frog continue to grow to adulthood.,8,516
+1137,the frog egg hatch.,1,517
+1138,the tadpole break free.,2,517
+1139,"slowly, the gill disappear over the next 6 week.",3,517
+1140,the hind leg begin to form at 8 week.,4,517
+1141,the front leg form at 12 week.,5,517
+1142,the tail shrink.,6,517
+1143,the mouth grow larger.,7,517
+1144,the tadpole can live on land a a frog.,8,517
+1145,a adult fish lay egg.,1,518
+1146,the egg incubate for a few week or month before hatch.,2,518
+1147,the young fish remain where they hatch until they be big enough to venture into the open water.,3,518
+1148,the fish continue to grow.,4,518
+1149,the fish reach adulthood.,5,518
+1150,reproduce continue the cycle.,6,518
+1151,Fish start a egg.,1,519
+1152,the egg hatch.,2,519
+1153,a larva emerge.,3,519
+1154,the larva mature and grow.,4,519
+1155,"the larva become a "" adolescent "" fish ( or fry ).",5,519
+1156,the adolescent fish grow.,6,519
+1157,"the fish might go through several sub-stage, depend on it specie or type.",7,519
+1158,the fish be now a mature adult.,8,519
+1159,the adult fish can lay more egg.,9,519
+1160,a female fish lay egg.,1,520
+1161,larva hatch from the egg.,2,520
+1162,the larva eat and grow.,3,520
+1163,the larva form into juvenile fish.,4,520
+1164,the juvenile fish grow into adult fish.,5,520
+1165,the adult fish mate.,6,520
+1166,the female fish lay egg.,7,520
+1167,two bird meet each other.,1,521
+1168,Egg be produce after fertilziation.,2,521
+1169,mother sit on egg until it hatch.,3,521
+1170,bird hatch.,4,521
+1171,grow up.,5,521
+1172,flee the next.,6,521
+1173,start family.,7,521
+1174,die.,8,521
+1175,a male and female bird mate.,1,522
+1176,the female lay egg.,2,522
+1177,"the egg be incubate by the parent, by sit on they, for week.",3,522
+1178,the bird hatch from a egg.,4,522
+1179,the parent feed they a the continue to grow.,5,522
+1180,develop flight feather.,6,522
+1181,the parent teach they to fly.,7,522
+1182,after learn to fly they leave the nest to live on they own.,8,522
+1183,the next year they breed begin the cycle again.,9,522
+1184,a bird lay egg in a nest.,1,523
+1185,the parent ( s ) incubate the egg.,2,523
+1186,the egg hatch.,3,523
+1187,the mother ( and sometimes the father ) bird take care of the baby bird.,4,523
+1188,the baby bird grow up and get they flight feather.,5,523
+1189,the young bird learn to fly and leave the nest.,6,523
+1190,the adult bird find mate and mate.,7,523
+1191,there be a fetus in the womb.,1,524
+1192,they be bear and be a baby.,2,524
+1193,the baby grow into a child.,3,524
+1194,Puberty turn the child into a adolescent.,4,524
+1195,the adolescent become a adult.,5,524
+1196,a adult become a elderly person.,6,524
+1197,the elderly person die.,7,524
+1198,a man and woman mate.,1,525
+1199,embryo be create.,2,525
+1200,embryo grow and develop into a fetus inside the woman 's womb.,3,525
+1201,the fetus be bear.,4,525
+1202,begin to grow and develop through infancy and childhood.,5,525
+1203,in the teenage year the human experience puberty.,6,525
+1204,reach sexual maturity.,7,525
+1205,at 18 the human become a adult.,8,525
+1206,adult may procreate continue the cycle.,9,525
+1207,human be bear a baby.,1,526
+1208,Babies become infant.,2,526
+1209,infant become child.,3,526
+1210,Children learn skill.,4,526
+1211,Children become teenager.,5,526
+1212,teenager undergo puberty.,6,526
+1213,teenager become adult.,7,526
+1214,adult have child.,8,526
+1215,adult become elderly.,9,526
+1216,elderly human die.,10,526
+1217,a male and female rabbit mate.,1,528
+1218,the female rabbit become pregnant.,2,528
+1219,baby rabbit form inside of the mother rabbit.,3,528
+1220,the female rabbit give birth to a litter.,4,528
+1221,the newborn rabbit grow up to become adult.,5,528
+1222,the adult rabbit find mate.,6,528
+1223,baby rabbit be bear alive.,1,529
+1224,rabbit be ( only occasionally ) nurse by they mother.,2,529
+1225,many of the baby do not survive.,3,529
+1226,larger and stronger rabbit do manage to survive.,4,529
+1227,rabbit quickly become able to have baby of they own.,5,529
+1228,the rabbit lifecycle continue.,6,529
+1229,the amount of rabbit stay reasonable because of predator and low survival rate for they young.,7,529
+1230,plant start off a a seed.,1,530
+1231,the seed germinate.,2,530
+1232,the plant get nutrition from the environment.,3,530
+1233,the plant grow from the nutrient.,4,530
+1234,the plant produce flower.,5,530
+1235,the flower produce fruit.,6,530
+1236,the fruit release seed.,7,530
+1237,the seed become new plant.,8,530
+1238,the original plant die at some point.,9,530
+1239,a seed or seed plant into the ground.,1,531
+1240,the seed become a seeding and grow with water.,2,531
+1241,the sun.,3,531
+1242,the seeding grow into a mature plant.,4,531
+1243,become a flower.,5,531
+1244,the seed germinate.,1,532
+1245,the plant grow.,2,532
+1246,the plant flower.,3,532
+1247,produce fruit.,4,532
+1248,the fruit release seed.,5,532
+1249,the plant die.,6,532
+1250,a seed come from a adult tree.,1,533
+1251,it sprout from the soil.,2,533
+1252,"it grow into a small seedling, a tree 's infancy.",3,533
+1253,"it grow bigger and become a sapling, a juvenile tree.",4,533
+1254,"it reach maturity, this make take many year depend on the type of tree.",5,533
+1255,the tree will begin to age and decline.,6,533
+1256,eventually rot and decay after it die.,7,533
+1257,a seed be plant.,1,534
+1258,the seed become a small tree.,2,534
+1259,the small tree become larger and grow.,3,534
+1260,some tree bear fruit.,4,534
+1261,Flowers.,5,534
+1262,after awhile the tree will stop grow.,6,534
+1263,eventually die.,7,534
+1264,Blood be full of different waste.,1,536
+1265,Blood travel through the body.,2,536
+1266,the blood enter the kidney.,3,536
+1267,the kidney filter the blood.,4,536
+1268,the waste be separate.,5,536
+1269,the urine contain the waste.,6,536
+1270,the urine be expel from the body.,7,536
+1271,they expand to take the air in.,1,539
+1272,the cell of the lung hold the air.,2,539
+1273,they take in the air and remove the oxygen.,3,539
+1274,they inflate and all the bad air leave through the mouth.,4,539
+1275,they do it all over again.,5,539
+1276,you breathe in.,1,540
+1277,diaphragm and other muscle expand to allow room for you lung to fill.,2,540
+1278,the air flow into the narrow bronchiole in the lung.,3,540
+1279,from the bronchiole to the alveolus.,4,540
+1280,the oxygen enter into the bloodstream.,5,540
+1281,be switch with the carbon dioxide in the bloodstream.,6,540
+1282,the carbon dioxide enter through the alveolus.,7,540
+1283,through the narrow bronchiole.,8,540
+1284,into the lung.,9,540
+1285,the carbon dioxide be exhale out of the body.,10,540
+1286,waste build up in the blood.,1,542
+1287,Blood enter the kidney.,2,542
+1288,Blood pas through nephron in the kidney.,3,542
+1289,different kind of waste be momentarily trap in the kidney.,4,542
+1290,clean blood flow out of the kidney.,5,542
+1291,filter waste accumulate in liquid form ( urine ).,6,542
+1292,urine flow out of the kidney into the bladder.,7,542
+1293,Blood be carry into the kidney by the renal artery.,1,543
+1294,kidney filter that blood tiny filter inside the kidney call nephron.,2,543
+1295,remove the waste from the blood.,3,543
+1296,the waste that be collect combine with water to become urine.,4,543
+1297,"a each kidney make urine, the urine slide down a long tube call the ureter.",5,543
+1298,collect in the bladder.,6,543
+1299,the filter blood be send back into the body.,7,543
+1300,they take in fluid and liquid.,1,544
+1301,they process the fluid.,2,544
+1302,they take out the toxin.,3,544
+1303,produce urine.,4,544
+1304,urine be release.,5,544
+1305,the nutrient be return to the body.,6,544
+1306,fluid.,1,545
+1307,waste enter the kidney.,2,545
+1308,a processing moment in the kidney let waste and fluid pas.,3,545
+1309,prevent larger molecule to pas.,4,545
+1310,fluid go back to the bloodstream.,5,545
+1311,bad waste be remove.,6,545
+1312,the final product be turn into urine.,7,545
+1313,the kidney receive blood from the renal artery.,1,546
+1314,they process it with million of tiny nephron.,2,546
+1315,remove all the waste.,3,546
+1316,the kidney return the blood back to the body through the renal artery.,4,546
+1317,send the urine with the waste to the bladder through the ureter.,5,546
+1318,the kidney receive blood through the renal artery.,1,547
+1319,the blood be pas through the nephron in the kidney.,2,547
+1320,the kidney filter the waste from the blood.,3,547
+1321,the clean blood be circulate out of the kidney.,4,547
+1322,excess water and waste be expel from the kidney in the form of urine.,5,547
+1323,the liver remove toxin from the blood.,1,548
+1324,liver also clean blood that have just be enrich with vitamin and mineral during digestion.,2,548
+1325,liver process the good stuff into form that the rest of the body can use.,3,548
+1326,waste or stuff you body do not need can be carry by bile back into the intestine or into the kidney.,4,548
+1327,the liver also produce a digestive juice call bile that help the body absorb fat into the bloodstream.,5,548
+1328,the liver also store extra carbohydrate a glycogen for the body to use a fuel when need.,6,548
+1329,Blood be send to the liver.,1,550
+1330,the liver use chemical and protein to treat the blood.,2,550
+1331,the blood be clean.,3,550
+1332,energy be produce.,4,550
+1333,the blood leave the liver clean.,5,550
+1334,food.,1,551
+1335,Water enter the body.,2,551
+1336,bloodstream.,3,551
+1337,food and water enter the pancrea.,4,551
+1338,the pancrea break down carb.,5,551
+1339,help digest other food and liquid.,6,551
+1340,food enter the body.,1,552
+1341,food begin to be process by the digestive system.,2,552
+1342,the pancrea release enzyme to aid digestion.,3,552
+1343,digest food affect the amount of sugar in the blood.,4,552
+1344,the pancrea release one hormone to lower the blood sugar ( glucose ) level.,5,552
+1345,the pancrea release another hormone to raisethe blood sugar ( glucose ) level.,6,552
+1346,food enter the body.,1,555
+1347,the food be break down.,2,555
+1348,sugar from the food enter the bloodstream.,3,555
+1349,Blood sugar must be within a particular range to avoid damage many organ.,4,555
+1350,sometimes the brain tell the pancrea the blood sugar ( glucose ) be too low.,5,555
+1351,the pancrea release glucagon to change the blood sugar to a better level.,6,555
+1352,sometimes the brain tell the pancrea the blood sugar ( glucose ) be too high.,7,555
+1353,the pancrea release insulin to change the blood sugar to a better level.,8,555
+1354,sugar enter the body.,1,556
+1355,bloodstream.,2,556
+1356,the pancrea.,3,556
+1357,insulin lower sugar level.,4,556
+1358,Bloo sugar go back to normal.,5,556
+1359,grape be grow.,1,557
+1360,a selection of grape be gather.,2,557
+1361,the grape be wash.,3,557
+1362,the stem be remove from the grape.,4,557
+1363,the grape be crush and add to a fermation container.,5,557
+1364,yeast be add to the container.,6,557
+1365,"the yeast eat the sugar in the yeast, release alcohol.",7,557
+1366,Coal be heat in the boiler.,1,563
+1367,the water tank over the boiler be heat.,2,563
+1368,create steam.,3,563
+1369,the steam be funnel to the piston.,4,563
+1370,Piston use the steam a energy.,5,563
+1371,the piston cause the crankshaft to move.,6,563
+1372,Coal be load into the firebox.,1,565
+1373,the boiler produce steam under high pressure.,2,565
+1374,the steam generate in the boiler flow down into a cylinder.,3,565
+1375,"just ahead of the wheel, push a tight - fitting plunger, the piston.",4,565
+1376,the piston be connect to one or more of the locomotive 's wheel through a kind of arm-elbow - shoulder joint call a crank and connecting rod.,5,565
+1377,"a the piston push, the crank and connect rod turn the locomotive 's wheel and power the train along.",6,565
+1378,a outlet valve open and the piston push the steam back through the cylinder and out up the locomotive 's chimney.,7,565
+1379,a airline reservation be make.,1,574
+1380,the passenger arrive early at the airport.,2,574
+1381,the luggage be check.,3,574
+1382,the passenger wait in line.,4,574
+1383,the passenger show they identification and get a boarding pas.,5,574
+1384,the passenger go to they gate.,6,574
+1385,the passenger get in line when it be time to board.,7,574
+1386,the person board the plane.,8,574
+1387,the plane arrive at the destination.,9,574
+1388,the passenger get off the plane at they destination.,10,574
+1389,"warm, moist air move from south to north.",1,582
+1390,"cool, dry air move from north to south.",2,582
+1391,the air mass meet.,3,582
+1392,the condition that form be not stable because the air mass be so different.,4,582
+1393,wind be direct in a certain way because of how the mass interact.,5,582
+1394,a updraft result.,6,582
+1395,wind start to form circular pattern in the updraft.,7,582
+1396,a tornado can result.,8,582
+1397,"warm, humid low - pressure air rise.",1,583
+1398,create a strong updraft.,2,583
+1399,"dry, cold high - pressure air be punch through.",3,583
+1400,the opposing wind create rotation.,4,583
+1401,when the rotation be violent enough a funnel form.,5,583
+1402,drop to the ground.,6,583
+1403,warm weather cause water to evaporate.,1,584
+1404,the water rise up in the air.,2,584
+1405,it start to cool down.,3,584
+1406,the water start to condense.,4,584
+1407,it form into cloud.,5,584
+1408,when there be enough moisture in the cloud it start to rain.,6,584
+1409,a butterfly start a a egg.,1,587
+1410,the egg hatch.,2,587
+1411,a larva emerge.,3,587
+1412,the larva eat and grow.,4,587
+1413,the larva shed it skin.,5,587
+1414,the larva enter a chrysalis.,6,587
+1415,the pupa grow inside the chrysalis.,7,587
+1416,the adult butterfly exit the chrysalis.,8,587
+1417,the adult butterfly be now fully grow.,9,587
+1418,the adult butterfly lay more egg.,10,587
+1419,a butterfly lay a egg.,1,588
+1420,a larva mature inside of the egg.,2,588
+1421,the caterpillar hatch from the egg.,3,588
+1422,the caterpillar eat and grow.,4,588
+1423,the caterpillar spin a coccoon around itself and form into a pupa.,5,588
+1424,the butterfly form inside of the coccoon.,6,588
+1425,the mature butterfly emerge from the coccoon.,7,588
+1426,the butterfly mate.,8,588
+1427,the female butterfly lay egg.,9,588
+1428,egg.,1,589
+1429,it lay on a leaf or plant.,2,589
+1430,the egg hatch.,3,589
+1431,the larva come out ( CATERPILLAR ).,4,589
+1432,it begin to eat on the leaf that be be bear on.,5,589
+1433,continue to eat to grow quickly.,6,589
+1434,after it grow to full lenght it form into a pupa.,7,589
+1435,undergo metamorphosis to become butterfly.,8,589
+1436,after he butterfly be fomed it pump blood into it wing to gain strenght to be able to fly.,9,589
+1437,TH EBUTTERLFY be fianlly able to fly away.,10,589
+1438,fuel be converted to energy when air and petrol mix.,1,600
+1439,the car engine burn the mix of air and petrol.,2,600
+1440,hot gas from the burn push the piston.,3,600
+1441,the result energy power the crankshaft.,4,600
+1442,crankshaft power the gear.,5,600
+1443,the gear make the wheel roll.,6,600
+1444,acid rain be produce by chemical that reach into the atmosphere.,1,605
+1445,Falls onto the ground.,2,605
+1446,the acid rain start scour rock.,3,605
+1447,destroy vegetation.,4,605
+1448,the lack of vegetation alter the surround environment.,5,605
+1449,acid rain leach aluminum from clay particle in soil.,1,607
+1450,aluminum flow into stream and lake.,2,607
+1451,acid rain dissolve mineral and nutrient in soil.,3,607
+1452,wash they away so plant can not benefit from they.,4,607
+1453,ph in soil and water get affect which can kill plant and animal.,5,607
+1454,acid rain in fog at higher elevation can strip foliage off tree.,6,607
+1455,fuel enter the engine through a carburetor or fuel injector.,1,608
+1456,Air be let into the engine at the same time a the fuel.,2,608
+1457,the piston in the engine move downwards compress the air and fuel mixture.,3,608
+1458,a spark plug cause a spark at the bottom stroke of the piston.,4,608
+1459,a explosion occur in the engine force the piston back upwards.,5,608
+1460,a the piston go up the valf for fuel and air open again.,6,608
+1461,"fuel and air go in, and the process repeat.",7,608
+1462,the moving piston be attach via connect rod to a shaft.,8,608
+1463,the shaft rotate out of the motor to turn the piston energy into rotational energy.,9,608
+1464,"the piston start at the top, the intake valve open, and the piston move down to let the engine take in a cylinder - full of air and gasoline.",1,609
+1465,then the piston move back up to compress this fuel / air mixture.,2,609
+1466,Compression make the explosion more powerful.,3,609
+1467,"when the piston reach the top of it stroke, the spark plug emit a spark to ignite the gasoline.",4,609
+1468,"the gasoline charge in the cylinder explode, drive the piston down.",5,609
+1469,"once the piston hit the bottom of it stroke, the exhaust valve open and the exhaust leave the cylinder to go out the tailpipe.",6,609
+1470,fuel burn in the combustion chamber.,1,610
+1471,the burn fuel create energy.,2,610
+1472,the upward motion cause air to be release into the cylinder.,3,610
+1473,the piston compress the air.,4,610
+1474,a spark ignite the fuel and air inside the cylinder.,5,610
+1475,the pressure push the piston down.,6,610
+1476,the exhaust valve open.,7,610
+1477,the piston push the air out of the cylinder.,8,610
+1478,skin be cut or damage.,1,611
+1479,bacteria enter through the wound.,2,611
+1480,the bacteria reproduce and spread.,3,611
+1481,cause symptom.,4,611
+1482,the bacteria be either fight off or become a disease.,5,611
+1483,kidney filter waste out of blood.,1,615
+1484,composition of blood be regulate.,2,615
+1485,volume of water in blood be keep constant.,3,615
+1486,ph be keep at a constant level.,4,615
+1487,kidney help regulate blood pressure.,5,615
+1488,kidney stimulate the making of red blood cell.,6,615
+1489,calcium level be maintain.,7,615
+1490,waste product be deposit in the blood.,1,616
+1491,Blood be carry to the kidney through the renal artery.,2,616
+1492,the kidney contain filter inside.,3,616
+1493,the filter capture the waste product.,4,616
+1494,the waste be combine with water to make urine.,5,616
+1495,the urine leave the kidney and be collect in the bladder.,6,616
+1496,the clean blood be return to the body.,7,616
+1497,the human body take a breath inward.,1,617
+1498,Air be transport to the lung.,2,617
+1499,"Air reach the alveolus, the smallest air sac in the lung.",3,617
+1500,"in the alveolus, air pas into the blood within small capillary.",4,617
+1501,the gaseous oxygen in the air dissolve into the capillary blood.,5,617
+1502,the dissolve oxygen be pick - up by red blood cell.,6,617
+1503,the red blood cell bind the oxygen via a protein call heme.,7,617
+1504,Red blood cell circulate throughout the body and reach the various tissue.,8,617
+1505,"within small capillary, the heme release the oxygen.",9,617
+1506,the oxygen can then reach the cell within the tissue.,10,617
+1507,air go into the lung.,1,618
+1508,the lung remove oxygen from the air.,2,618
+1509,oxygen diffuse from alveolus in the lung to the bloodstream.,3,618
+1510,hemoglobin in red blood cell attach to the oxygen.,4,618
+1511,Red blood cell carry oxygen all around the body.,5,618
+1512,oxygen diffuse into cell from capillary.,6,618
+1513,oxygen enter the body through the mouth or nose.,1,619
+1514,the oxygen travel into the lung.,2,619
+1515,the oxygen bind to hemoglobin protein within erythrocyte ( red blood cell ).,3,619
+1516,the erythrocyte be pump through the body by the heart.,4,619
+1517,all cell receive the oxygen.,5,619
+1518,the liver take in blood from the rest of the body.,1,624
+1519,the liver use enzyme to clean the blood.,2,624
+1520,the clean blood be expel.,3,624
+1521,the liver create bile from the item filter.,4,624
+1522,the liver take energy and store it a glycogen.,5,624
+1523,the bile be send to the intestine.,6,624
+1524,the pancrea detect chemical change in the stomach.,1,626
+1525,the pancrea create juice that help digest food.,2,626
+1526,the pancrea release the juice into the stomach.,3,626
+1527,trypsin and chymotrypsin digest protein.,4,626
+1528,insulin be produce to move glucose from the blood.,5,626
+1529,the enzyme begin produce again.,6,626
+1530,food enter the small intestine.,1,627
+1531,the small intestine produce hormone.,2,627
+1532,the hormone cause the pancrea to produce enzyme for digestion.,3,627
+1533,the enzyme travel from the pancrea to the small intestine through tube.,4,627
+1534,the enzyme help the intestine digest the food.,5,627
+1535,the pancrea produce the hormone insuline and glucagon.,6,627
+1536,the hormone control the amount of sugar in the blood.,7,627
+1537,over 99 % of the exocrine pancrea cell produce digestive juice.,1,628
+1538,"they secrete digestive juice "" externally "" into the small intestine.",2,628
+1539,"there be enzyme for break down fat, protein, and carbohydrate.",3,628
+1540,digestive juice flow from the pancrea through a excretory duct into the small intestine.,4,628
+1541,"when the blood sugar level rise, a they might after a meal, insulin be release.",5,628
+1542,"when blood sugar level be too low, the pancrea release glucagon into the bloodstream.",6,628
+1543,people put trash in a plastic bag.,1,629
+1544,the plastic bag be put into a garbage can.,2,629
+1545,the garbage can be roll outside.,3,629
+1546,the garbage truck come to the house.,4,629
+1547,worker take the plastic bag out of the garbage can and place it in the truck.,5,629
+1548,the truck drive to the landfill.,6,629
+1549,the truck dump the trash into the landfill.,7,629
+1550,trash be place into a garbage container in the house.,1,630
+1551,the trash be move to a centralize container for the house.,2,630
+1552,trash be pick up by a sanitation company.,3,630
+1553,the trash be combine in a large truck with trash from all around the city.,4,630
+1554,the truck go to the landfill.,5,630
+1555,the truck dump the trash into the landfill.,6,630
+1556,trash be bag up.,1,631
+1557,bag get carry out to the trashcan.,2,631
+1558,trashcan be put at the curb once a week.,3,631
+1559,can get empty into trash truck.,4,631
+1560,a the truck fill it will compact the trash.,5,631
+1561,when the truck be full it head to the landfill.,6,631
+1562,the truck dump it load into the landfill.,7,631
+1563,electricity come into the computer from the plug.,1,632
+1564,the electricity run the component in the computer.,2,632
+1565,electricity turn the fan to keep the component cool.,3,632
+1566,heat be release from the computer.,4,632
+1567,electricity run the computer 's display.,5,632
+1568,light be form from the electricity.,6,632
+1569,electricity enter the power supply unit.,1,634
+1570,the power supply give electricity to transistor.,2,634
+1571,the power supply give electricity to the cpu.,3,634
+1572,the system use electricity to complete task.,4,634
+1573,the signal they complete be send out a visual signal.,5,634
+1574,the energy be use to complete computation.,6,634
+1575,a egg be lay by a mother bird.,1,635
+1576,a baby bird form within the egg if it be fertilize.,2,635
+1577,the baby bird begin peck out of the egg.,3,635
+1578,the baby bird be unable to fly to get food.,4,635
+1579,the mother bird must feed the baby bird food.,5,635
+1580,the bird grow stronger and grow wing.,6,635
+1581,the bird be able to fly.,7,635
+1582,the bird be able to leave the nest and find food.,8,635
+1583,the bird be able to reproduce.,9,635
+1584,a bird lay a egg.,1,636
+1585,the egg hatch into a baby bird.,2,636
+1586,baby bird eat.,3,636
+1587,grow into a adult bird.,4,636
+1588,the bird find a mate.,5,636
+1589,the pair build a nest.,6,636
+1590,the bird lay egg.,7,636
+1591,a bird hatch from a egg.,1,637
+1592,the bird be nurture by it parent.,2,637
+1593,and be feed food for growth.,3,637
+1594,the bird grow.,4,637
+1595,begin to learn how to fly.,5,637
+1596,the bird mature.,6,637
+1597,the bird leave it nest.,7,637
+1598,the bird make it own nest.,8,637
+1599,Fish lay egg.,1,640
+1600,egg hatch.,2,640
+1601,tiny fish call fry emerge.,3,640
+1602,fry eat and grow.,4,640
+1603,fry become adult fish.,5,640
+1604,Fish mate and more egg be produce.,6,640
+1605,a tadpole be hatch.,1,641
+1606,the tadpole eventually grow hind leg.,2,641
+1607,the tadpole lose it tail.,3,641
+1608,the tadpole become a frog.,4,641
+1609,the frog mate with another frog to produce more offspring.,5,641
+1610,a tadpole be hatch.,6,641
+1611,the cycle begin again.,7,641
+1612,frog lay thousand of egg.,1,642
+1613,egg cluster float around in water.,2,642
+1614,tadpole with gill hatch from the egg.,3,642
+1615,tadpole swim in water until they grow leg.,4,642
+1616,absorb they tail.,5,642
+1617,then the tadpole become a froglet.,6,642
+1618,then the froglet become a frog.,7,642
+1619,the frog 's egg hatch and a tadpole be bear.,1,643
+1620,the tadpole swim with it sibling and try to survive.,2,643
+1621,the tadpole grow larger.,3,643
+1622,the tadpole lose it tail.,4,643
+1623,the tadpole develop limb.,5,643
+1624,and the tadpole now become a frog.,6,643
+1625,a sperm meet a egg in the uterus of a woman.,1,644
+1626,the sperm implant itself into the egg.,2,644
+1627,the sperm and egg form a zygote on the wall of the uterus.,3,644
+1628,the fetus grow and develop.,4,644
+1629,the woman give birth to a baby.,5,644
+1630,the baby be raise by parent until it be able to take care of itself.,6,644
+1631,the person go out into the world and find a job.,7,644
+1632,the person meet other people and have a life.,8,644
+1633,"the person get a career, and get marry.",9,644
+1634,the person retire and eventually pas away.,10,644
+1635,a sperm and egg meet inside a woman 's fallopian tube.,1,645
+1636,"the fertilize egg, now a zygote, travel to the uterus.",2,645
+1637,the zygote implant in the uterus.,3,645
+1638,the zygote become a embryo.,4,645
+1639,the embryo become a fetus.,5,645
+1640,the fetus grow for approximately 9 month.,6,645
+1641,the woman give birth to a baby.,7,645
+1642,the baby grow into a child.,8,645
+1643,the child become a adult.,9,645
+1644,the adult mate with another adult.,10,645
+1645,a seed germinate.,1,647
+1646,it grow into a plant.,2,647
+1647,the mature plant produce flower.,3,647
+1648,the flower become fertilize.,4,647
+1649,produce seed in a fruit or seedpod.,5,647
+1650,the plant die.,6,647
+1651,the new seed germinate to form a new plant.,7,647
+1652,a seed be plant.,1,648
+1653,it become a seedling.,2,648
+1654,the seedling grow into a full - grow plant.,3,648
+1655,the plant release some kind of pollenating product.,4,648
+1656,the plant either self - pollinate or be spread by insect or bird.,5,648
+1657,seed be plant.,6,648
+1658,the cycle begin again.,7,648
+1659,a seed must find it be way to the earth.,1,649
+1660,the seed when give nutrient will sprout.,2,649
+1661,the sprouting will develop a root system.,3,649
+1662,the plant will grow larger until it mature.,4,649
+1663,the plant will thrive.,5,649
+1664,the plant will die.,6,649
+1665,become nourishment for other plant.,7,649
+1666,adult rabbit mate.,1,652
+1667,the female become pregnant.,2,652
+1668,the female give birth to rabbit baby.,3,652
+1669,the rabbit baby grow into adult rabbit.,4,652
+1670,the new adult mate with other rabbit.,5,652
+1671,produce more rabbit.,6,652
+1672,a seed be plant.,1,653
+1673,it become a seedling.,2,653
+1674,it grow into a tree.,3,653
+1675,the tree grow flower.,4,653
+1676,the flower become fruit.,5,653
+1677,the fruit contain seed for new tree.,6,653
+1678,a seedling be grow in the ground.,1,654
+1679,"the seedling grow bigger, and form it root system.",2,654
+1680,the root start to gain more nourishment a the tree grow.,3,654
+1681,the tree start to attract animal and plant that will grant it more nourishment.,4,654
+1682,the tree mature.,5,654
+1683,"after a number of year the tree will grow old and die, become material for new growth.",6,654
+1684,a larva be bear.,1,656
+1685,the caterpillar eat constantly until it grow bigger.,2,656
+1686,the caterpillar start to form a cocoon around itself.,3,656
+1687,the caterpillar become a pupa.,4,656
+1688,after some time the cocoon hatch.,5,656
+1689,and a butterfly be bear.,6,656
+1690,the butterfly start a a egg.,1,658
+1691,"the egg hatch to form a larva, also call a caterpillar.",2,658
+1692,the carterpillar molt ( lose it be skin ) many time a it grow.,3,658
+1693,"the caterpillar then form itself into a pupa, or chrysalis.",4,658
+1694,"the caterpillar in the chrysalis begin change, a process call mmetaphorphosis.",5,658
+1695,the caterpillar complete it metamorphosis and have turn into a butterfly.,6,658
+1696,the adult butterfly emerge out of the chrysalis and fly away !.,7,658
+1697,bacteria change nitrogen into ammonium through fixation.,1,659
+1698,the nitrification process be where ammonium get change into nitrate by bacteria.,2,659
+1699,plant absorb the nitrate from soil into they root through assimilation.,3,659
+1700,"when plant die, fungi and bacteria turn nitrogen back into ammonium through ammonification.",4,659
+1701,the denitrification process push extra nitrogen from soil into the air.,5,659
+1702,the cycle repeat from step 1.,6,659
+1703,Nitrogen - fix bacteria convert atmospheric nitrogen to organic nitrogen.,1,660
+1704,plant absorb organic nitrogen from the soil through they root.,2,660
+1705,animal eat the plant.,3,660
+1706,plant and animal die.,4,660
+1707,animal expel waste.,5,660
+1708,fungi convert organic nitrogen to ammonium.,6,660
+1709,nitrify bacteria convert ammonium to nitrate.,7,660
+1710,bacteria convert nitrate to nitrogen gas.,8,660
+1711,Nitrogen gas escape from soil into the atmosphere.,9,660
+1712,fixation be the first step in the process of make nitrogen usable by plant. here bacteria change nitrogen into ammonium.,1,661
+1713,nitrification be the process by which ammonium get change into nitrate by bacteria.,2,661
+1714,nitrate be what the plant can then absorb.,3,661
+1715,assimilation be how plant get nitrogen.,4,661
+1716,"they absorb nitrate from the soil into they root. then the nitrogen get use in amino acid, nucleic acid, and chlorophyll.",5,661
+1717,Ammonification be part of the decaying process.,6,661
+1718,"when a plant or animal die, decomposer like fungi and bacteria turn the nitrogen back into ammonium so it can reenter the nitrogen cycle.",7,661
+1719,denitrification be when extra nitrogen in the soil get put back out into the air.,8,661
+1720,there be special bacteria that perform this task a well.,9,661
+1721,boil salt water.,1,665
+1722,the water will turn into water vapor.,2,665
+1723,collect the water vapor.,3,665
+1724,allow the water vapor to cool.,4,665
+1725,the water vapor will turn into liquid water.,5,665
+1726,the salt will be separate from the water.,6,665
+1727,Water be heat.,1,666
+1728,the heat water evaporate.,2,666
+1729,the salt be leave behind.,3,666
+1730,the evaporate water condense on a cold surface.,4,666
+1731,the evaporate water be collect.,5,666
+1732,the process be repeat.,6,666
+1733,more salt be remove from the water.,7,666
+1734,solution cave be form in limestone and similar rock by the action of water.,1,667
+1735,"after a rain, water seep into crack and pore of soil and rock.",2,667
+1736,the water percolate beneath the land surface.,3,667
+1737,some of the water reach a zone where all the crack and pore in the rock be already fill with water.,4,667
+1738,rainwater absorb some carbon dioxide a it pas through the atmosphere and even more a it drain through soil and decay vegetation.,5,667
+1739,the water combine chemically with the carbon dioxide.,6,667
+1740,a weak carbonic acid solution be form.,7,667
+1741,"this acid slowly dissolve calcite, form solution cavity, and excavate passageway.",8,667
+1742,a liquid be heat from a external source.,1,671
+1743,the heat cause the molecule in the liquid to increase in energy.,2,671
+1744,"a the molecule absorb more energy, they start to move faster.",3,671
+1745,a the molecule be move faster they be increase in temperature.,4,671
+1746,"when the molecule reach a certain temperature, the boiling point, they change from liquid to gas state.",5,671
+1747,"a the liquid molecule go into a gaseous state, they float out into the atmosphere.",6,671
+1748,"when all the liquid have turn to gas, it have evaporate completely, leave no liquid behind.",7,671
+1749,a organism die.,1,674
+1750,Water seep into the remains.,2,674
+1751,mineral dissolve in the water form crystal.,3,674
+1752,crystalize mineral cause the remains to hard.,4,674
+1753,the mineral form a fossil.,5,674
+1754,animal and plant die in soft soil or mud.,1,675
+1755,sediment build up over the remains.,2,675
+1756,"the remains decompose, leave only trace amount.",3,675
+1757,the remain part over the year be replace with mineral.,4,675
+1758,a fossil be form.,5,675
+1759,a plant die.,1,676
+1760,the remains of the plant be bury very fast in sediment.,2,676
+1761,the soft part of the plant decay.,3,676
+1762,the hard part of the plant be replace with mineral.,4,676
+1763,the sediment turn into rock.,5,676
+1764,the rock erode.,6,676
+1765,the fossil appear on the surface of the ground.,7,676
+1766,the animal eat large quantity of food that will be store a fat.,1,681
+1767,Winter come and the animal find a place to hibernate.,2,681
+1768,"over a period of day, the animal 's heart rate and breathing rate drop slowly.",3,681
+1769,"electrical activity in the brain almost cease completely, though some area remain active.",4,681
+1770,the animal have enter hibernation mode.,5,681
+1771,the body 's temperature increase over 98.6 degree F.,1,683
+1772,the hypothalamus in the brain send a message to the body.,2,683
+1773,sweat gland in the skin receive the message.,3,683
+1774,the sweat gland start combine water and chemical to make sweat.,4,683
+1775,the sweat leave the skin through pore.,5,683
+1776,carbon dioxide pas through stoma in the leave.,1,686
+1777,Water be absorb through root.,2,686
+1778,chloroplast cell in leave contain chlorophyll.,3,686
+1779,chlorophyll absorb energy from sunlight.,4,686
+1780,energy split water molecule into hydrogen and oxygen.,5,686
+1781,oxygen get release into atmosphere.,6,686
+1782,hydrogen and carbon dioxide use to create glucose.,7,686
+1783,glucose be food for plant.,8,686
+1784,carbon dioxide from the air pas through small pore ( hole ) in the leave. these pore be call stoma.,1,687
+1785,Water be absorb by the root and pas through vessel in the stem on it way to the leave.,2,687
+1786,chlorophyll absorb the sun 's energy.,3,687
+1787,it be this energy that be use to split water molecule into hydrogen and oxygen.,4,687
+1788,oxygen be release from the leave into the atmosphere.,5,687
+1789,hydrogen and carbon dioxide be use to form glucose or food for plant.,6,687
+1790,seed be sow into the ground.,1,689
+1791,the earth where the seed be plant be give water and fertilizer.,2,689
+1792,the seed start to grow and become seedling.,3,689
+1793,the plant be give water.,4,689
+1794,the seedling grow into plant.,5,689
+1795,weed grow near the plant be remove.,6,689
+1796,the plant grow to maturity.,7,689
+1797,the farmer choose a crop that will grow well in he region.,1,690
+1798,the farmer till the soil to loose it.,2,690
+1799,the farmer spread seed.,3,690
+1800,the farmer till again to plant the seed.,4,690
+1801,crop grow.,5,690
+1802,one type of air pollution be the addition of carbon dioxide gas into the air.,1,693
+1803,some scientist believe that release too much carbon dioxide into the atmosphere be one of the cause of global warming.,2,693
+1804,this upset the balance of the carbon cycle.,3,693
+1805,the ozone layer help protect we from harmful ray from the sun.,4,693
+1806,it be get damage from air pollution such a methane gas from livestock and cfc from spray can.,5,693
+1807,Acid rain be create when gas such a sulfur dioxide get high into the atmosphere.,6,693
+1808,the wind can blow these gas for mile and then they get wash out of the air when it rain.,7,693
+1809,this rain be call acid rain and can damage forest and kill fish.,8,693
+1810,during evaporation the sun heat up water in river or lake or the ocean and turn it into vapor or steam.,1,695
+1811,"the water vapor or steam leave the river, lake or ocean and go into the air.",2,695
+1812,"Water vapor in the air get cold and change back into liquid, form cloud, which be call condensation.",3,695
+1813,precipitation occur when so much water have condense that the air can not hold it anymore.,4,695
+1814,"Water fall back to the earth in the form of rain, hail, sleet or snow.",5,695
+1815,"when water end up on land, it will either soak into the earth and become part of the "" ground water "" for animal or plant to drink.",6,695
+1816,"it may also run into the ocean, lake, or river where the cycle start again.",7,695
+1817,air contain invisible moisture call water vapor.,1,696
+1818,excess water vapor be condense out a water in the form of water droplet.,2,696
+1819,Water droplet be carry up into the cloud.,3,696
+1820,the cloud become heavy with water droplet.,4,696
+1821,when the cloud be saturate.,5,696
+1822,rain will fall.,6,696
+1823,Water being to evaporate from body of water.,1,697
+1824,the water condense into cloud.,2,697
+1825,the cloud travel and accumulate more water.,3,697
+1826,the cloud reach a point where they can not hold any more water.,4,697
+1827,it begin to rain on area below the cloud.,5,697
+1828,a can be throw away into a recycling bin.,1,698
+1829,the can be take to a recycling center.,2,698
+1830,melt down along with other can.,3,698
+1831,the melt metal be turn into bar.,4,698
+1832,become material for other product.,5,698
+1833,the consumer throw aluminum can and foil into a recycle bin.,1,699
+1834,the aluminum be collect.,2,699
+1835,take to a treatment plant.,3,699
+1836,the aluminum be sort and clean ready for reprocessing.,4,699
+1837,the aluminum be re-melt.,5,699
+1838,turn into molten aluminum.,6,699
+1839,the aluminum be make into large block call ingot.,7,699
+1840,the ingot be send to mill to be roll out.,8,699
+1841,the roll out product be make into new aluminum product.,9,699
+1842,the sun give off radiation.,1,701
+1843,the radiation be aborb by the Earth.,2,701
+1844,some of the radiation go back into space.,3,701
+1845,some be trap by the atmosphere.,4,701
+1846,if too much heat be trap.,5,701
+1847,global warming occur.,6,701
+1848,several type of gas form in the atmosphere.,1,702
+1849,may come from different source.,2,702
+1850,the gas remain trap in the atmosphere.,3,702
+1851,through the sun light the gas hold in heat and energy.,4,702
+1852,trap they in we atmosphere.,5,702
+1853,the earth may become warmer this way.,6,702
+1854,greenhouse gas be release into the air by human activity.,1,703
+1855,the earth change energy from the sun into heat.,2,703
+1856,heat rise from the ground.,3,703
+1857,greenhouse gas molecule in the atmosphere prevent the heat from go into space.,4,703
+1858,the temperature of the earth increase.,5,703
+1859,the temperature continue to rise and melt the polar ice cap.,6,703
+1860,the temperature rise even faster.,7,703
+1861,you take some paper.,1,704
+1862,the writing tool.,2,704
+1863,you write a message describe what be on you mind.,3,704
+1864,you put the letter into a envelope.,4,704
+1865,you take the letter to the post office.,5,704
+1866,send it to it recipient.,6,704
+1867,you find a pen.,1,705
+1868,you get a piece of paper.,2,705
+1869,you write you letter.,3,705
+1870,you put it in a envelope.,4,705
+1871,you put the address on the front.,5,705
+1872,you put a stamp on the front.,6,705
+1873,you take it to the post office.,7,705
+1874,you gather a writing utensil and a piece of paper.,1,706
+1875,you use the writing utensil to compose you letter on the paper.,2,706
+1876,you fold the paper.,3,706
+1877,place it into a envelope.,4,706
+1878,you write the address of the recipient on the outside of the envelope.,5,706
+1879,you seal the envelope with moisture or tape.,6,706
+1880,you apply a stamp to the outside of the envelope.,7,706
+1881,you put the envelope in a mailbox for a letter carrier to collect.,8,706
+1882,the letter carrier take the envelope to the correct address.,9,706
+1883,rock be constantly wear down and break by erosion.,1,708
+1884,erosion can be wind or water.,2,708
+1885,erosion break they down to sediment.,3,708
+1886,sediment get compress and heat or get bury.,4,708
+1887,when sediment be bury it then get melt.,5,708
+1888,when sediment be compress it become metamorphic rock.,6,708
+1889,metamorphic rock get bury.,7,708
+1890,bury metamorphic rock get melt.,8,708
+1891,melt rock eventually cool.,9,708
+1892,rock push back to the surface.,10,708
+1893,Blood fill with waste flow into the kidney.,1,716
+1894,the kidney be make up of filtering unit call nephron.,2,716
+1895,the nephron in the kidney filter the blood.,3,716
+1896,produce urine.,4,716
+1897,the urine leave the kidney.,5,716
+1898,the clean blood go back into the body.,6,716
+1899,Sunlight enter the atmosphere.,1,720
+1900,the light reach the ocean.,2,720
+1901,the ocean be warm.,3,720
+1902,Water evaporate.,4,720
+1903,Water vapor accumulate in the air.,5,720
+1904,"a it cool, water condense onto particle of dust in the air.",6,720
+1905,"a enough water condense, cloud be form.",7,720
+1906,Water vapor be in warm air.,1,721
+1907,the warm air cool.,2,721
+1908,the warm air expand.,3,721
+1909,the water vapor in the air condense.,4,721
+1910,the water vapor form water droplet or ice crystal.,5,721
+1911,most fossil be form when a plant or animal die in a watery environment and be bury in mud and silt.,1,725
+1912,Soft tissue quickly decompose leave the hard bone or shell behind.,2,725
+1913,over time sediment build over the top and harden into rock.,3,725
+1914,"a the encase bone decay, mineral seep in replace the organic material cell by cell in a process call "" petrification. "".",4,725
+1915,alternatively the bone may completely decay leave a cast of the organism.,5,725
+1916,he void leave behind may then fill with mineral make a stone replica of the organism.,6,725
+1917,a animal live a happy life.,1,726
+1918,the animal get very old.,2,726
+1919,the animal die.,3,726
+1920,the animal 's skeleton sink to the bottom of a ocean.,4,726
+1921,the skeleton be bury by mud.,5,726
+1922,more sand and mud fall on the skeleton.,6,726
+1923,pressure increase on the skeleton from the weight of more mud.,7,726
+1924,the sand and mud turn into rock.,8,726
+1925,the skeleton dissolve in the water.,9,726
+1926,a hole be preserve in rock that be the shape of the skeleton.,10,726
+1927,a animal die.,1,727
+1928,be be bury in a watery environment.,2,727
+1929,the soft tissue quickly decompose.,3,727
+1930,the bone be leave behind.,4,727
+1931,"over time, mud and silt accumulate over the bone.",5,727
+1932,mud and silt hard into rock.,6,727
+1933,the bone slowly decay.,7,727
+1934,mineral seep in.,8,727
+1935,replace the organic material.,9,727
+1936,you have a fossil.,10,727
+1937,a stream or river must occur.,1,731
+1938,"through erosion, the stream cut into the soil and bedrock.",2,731
+1939,"through continuous erosion, a deep gash be cut through.",3,731
+1940,after many year the river may dry up.,4,731
+1941,a dry ravine be leave.,5,731
+1942,animal may come across vegetation.,1,737
+1943,the animal may consume or get seed stick in they fur.,2,737
+1944,the animal travel some distance someplace else.,3,737
+1945,the seed be drop or deposit off.,4,737
+1946,the seed have a new place to proliferate and grow.,5,737
+1947,a animal walk be by a plant.,1,739
+1948,the animal get seed stick in they fur.,2,739
+1949,the animal eat some fruit of the tree contain seed.,3,739
+1950,the animal lose seed from the fur in other location.,4,739
+1951,then eat seed be defecate out in other location.,5,739
+1952,the bat send out sound wafe from they mouth or nose.,1,742
+1953,the sound wafe hit a object.,2,742
+1954,echo be produce.,3,742
+1955,the echo return to the bat 's ear.,4,742
+1956,the bat hear the echo.,5,742
+1957,the bat can figure out where the object be locate.,6,742
+1958,a bee land on the flower.,1,743
+1959,they foot slip into little groove that hold pollen sac.,2,743
+1960,"when the bee fly off, it carry off the pollen sac.",3,743
+1961,the bee land on another plant.,4,743
+1962,the pollen sac fall off and pollinate the plant.,5,743
+1963,bee land on flower and eat the nectar of the plant.,1,744
+1964,while on the flower pollen get on the bee 's fur.,2,744
+1965,the bee fly to another area with other flower.,3,744
+1966,the pollen be deposit in that area.,4,744
+1967,a plant be able to reproduce.,5,744
+1968,a bee visit a flower.,1,745
+1969,the hair on the bee leg collect pollen.,2,745
+1970,the bee move on to a different flower.,3,745
+1971,some pollen fall off the bee.,4,745
+1972,the flower be pollinate.,5,745
+1973,some of the rock in the ground be make of limestone.,1,746
+1974,over long period of time rain can hit the limestone.,2,746
+1975,and cause a acidic reaction.,3,746
+1976,the limestone will slowly disintegrate.,4,746
+1977,a large gap with be where the limestone be.,5,746
+1978,result in the cave.,6,746
+1979,Water from the surface seep below the soil.,1,747
+1980,the water come into contact with the rock below.,2,747
+1981,the rock over the year carve through the rock.,3,747
+1982,the space in the rock become larger and form into a cave.,4,747
+1983,a more rather rush through the cave become a cavern.,5,747
+1984,a engine must be power by gas or some fuel source.,1,758
+1985,the fuel source will power a alternator.,2,758
+1986,a alternator will convert mechanical energy in to measurable electrical energy.,3,758
+1987,electrical energy will be channel and move.,4,758
+1988,the electron will run through to the outlet of the generator.,5,758
+1989,"when you plug something in to the outlet of the generator, a flow of current will conduct electron.",6,758
+1990,green be a color that gather sunlight easily.,1,769
+1991,Sunlight be gather by the leave of the plant.,2,769
+1992,the sunlight be break down into glucose through photosynthesis.,3,769
+1993,the glucose travel the plant.,4,769
+1994,the plant use that glucose a energy to grow.,5,769
+1995,you breathe air in.,1,770
+1996,Air enter bronchial tube.,2,770
+1997,Air be then split into the bronchiole of each lung.,3,770
+1998,bronchiole have alveolus which be tiny air sac.,4,770
+1999,alveolus be surround by many small blood vessel.,5,770
+2000,oxygen pas through alveolus into blood vessel.,6,770
+2001,Blood leave the lung a it travel through the body.,7,770
+2002,Blood carry carbon dioxide back to the lung.,8,770
+2003,carbon dioxide release when you exhale.,9,770
+2004,Air be take into the body via the nose or mouth.,1,771
+2005,the air travel into the windpipe.,2,771
+2006,the windpipe divide the air to the two lung via the bronchial tube.,3,771
+2007,the lung oxygenate the blood in the body.,4,771
+2008,carbon dioxide be filter out by every cell in the body.,5,771
+2009,the carbon dioxide be carry back to the lung via the bloodstream.,6,771
+2010,the carbon dioxide be exhale.,7,771
+2011,Air be draw in through the mouth.,1,772
+2012,the air go down the esophagus.,2,772
+2013,the air move into the lung.,3,772
+2014,the carbon dioxide be remove.,4,772
+2015,the remain oxygen enter the body.,5,772
+2016,the remain carbon dioxide be expel through the mouth.,6,772
+2017,Magma cool inside the crust.,1,773
+2018,Magma crystalize.,2,773
+2019,lava cool on the surface.,3,773
+2020,lava crystalize.,4,773
+2021,mineral dissolve in water crystlize.,5,773
+2022,there be place inside Earth where rock will melt.,1,775
+2023,"melt rock inside the Earth be also call molten rock, or magma.",2,775
+2024,"Magma move up through Earth 's crust, but it do not always reach the surface.",3,775
+2025,"when magma erupt onto Earth 's surface, it be know a lava.",4,775
+2026,a lava flow from volcanoe it start to cool.,5,775
+2027,mineral form when magma and lava cool.,6,775
+2028,plant absorb water from the ground through they root system.,1,779
+2029,"use sunlight, the plant separate the hydrogen and oxygen molecule through the process of photosynthesis.",2,779
+2030,the plant release the oxygen into the atmosphere.,3,779
+2031,combine the hydrogen with carbon dioxide to create a intermediate.,4,779
+2032,the intermediate be use to produce glucose which be the plant 's food.,5,779
+2033,plant create light weight seed.,1,782
+2034,the wind be able to blow the seed off of the plant.,2,782
+2035,the wind carry the seed through the air to other area.,3,782
+2036,the seed get catch in the fur of animal.,4,782
+2037,the animal move and lay down on the ground.,5,782
+2038,the seed get deposit on the ground.,6,782
+2039,the seed become plant.,7,782
+2040,plant produce fruit which contain seed of the plant.,1,783
+2041,a animal eat the fruit from a plant.,2,783
+2042,the animal digest the fruit.,3,783
+2043,the seed be not digest.,4,783
+2044,the seed pas through the animal 's digestive system.,5,783
+2045,the seed be in the animal 's dropping.,6,783
+2046,the seed be now in another location and can grow.,7,783
+2047,a plant produce a fruit with seed in it.,1,784
+2048,a animal eat the fruit.,2,784
+2049,the animal wander to another area.,3,784
+2050,the animal defecate.,4,784
+2051,the seed be include in the waste.,5,784
+2052,the seed produce a new plant.,6,784
+2053,photovoltaic cell be solar cell.,1,791
+2054,photovoltaic cell be make from silicon.,2,791
+2055,Sun shine on the solar cell which generate DC electricity.,3,791
+2056,electricity be feed into a inverter to change it to AC electricity.,4,791
+2057,electricity be then send into the home to be use.,5,791
+2058,extra electricity can be send to the main power grid for other.,6,791
+2059,Air enter the lung through bronchial tube.,1,794
+2060,air enter bronchiole.,2,794
+2061,bronchiole have tiny air sac call alveolus.,3,794
+2062,alveolus surround by small blood vessel.,4,794
+2063,oxygen absorb by small blood vessel.,5,794
+2064,vessel deliver oxygen to every cell in the body.,6,794
+2065,Blood bring carbon dioxide back to lung.,7,794
+2066,carbon dioxide release when you exhale.,8,794
+2067,you breathe in.,1,795
+2068,"air go through all the little branch in you lung to fill up the air sac, or alveolus.",2,795
+2069,oxygen go through the wall of the alveolus and into the capillary.,3,795
+2070,the oxygen go into the bloodstream.,4,795
+2071,oxygen be leave and carbon dioxide be pick up.,5,795
+2072,you breathe it out through you lung.,6,795
+2073,Air be bring in through the mouth.,1,796
+2074,pas through the lung.,2,796
+2075,and into the bronchial tissue.,3,796
+2076,the carbon dioxide be remove.,4,796
+2077,the lung bring the oxygen to the rest of the body.,5,796
+2078,get a ice cube tray.,1,807
+2079,fill the tray with cool water.,2,807
+2080,place the tray in the freezer.,3,807
+2081,leave the tray in the freezer for a few hour.,4,807
+2082,take they tray out of the freezer.,5,807
+2083,pop the ice cube out of tray.,6,807
+2084,you find a empty ice cube tray.,1,808
+2085,you fill the tray with warm water.,2,808
+2086,"you carefully place the tray on a even surface in a freezer that be at least 32 degree Farhenheit, the freezing point of water.",3,808
+2087,the water begin to get colder until it start to freeze solid.,4,808
+2088,"the water expand a it freeze, one of the few liquid that have greater volume a a solid.",5,808
+2089,"because you use warm water, the gas in the water have evaporate out, so you will have nice clear ice cube without crack from the trap gas.",6,808
+2090,energy be store in a battery.,1,817
+2091,the energy be release from the battery a electrical current.,2,817
+2092,the electrical current go to a motor.,3,817
+2093,the motor make the needle of the sewing machine go up and down.,4,817
+2094,the needle be press through the piece of clothing at a constant rate.,5,817
+2095,thread be attach and use to stitch the clothing.,6,817
+2096,Coal be burn at a furnace.,1,821
+2097,the result heat energy be use to heat water.,2,821
+2098,the heat water be turn into steam.,3,821
+2099,the steam drive a generator.,4,821
+2100,electricity be produce.,5,821
+2101,Coal be mix with hot air in a power station.,1,823
+2102,Water be send through pipe in the power station.,2,823
+2103,the water pipe go through a firebox in the power station.,3,823
+2104,the coal be put in the air in the firebox.,4,823
+2105,the water heat up so it be very hot.,5,823
+2106,the water turn into steam.,6,823
+2107,the steam be push out of the pipe into a separate area.,7,823
+2108,the steam power turbine.,8,823
+2109,magnet in the turbine spin in wire coil.,9,823
+2110,electricity be produce.,10,823
+2111,Uranium be underground.,1,825
+2112,Uranium be dug up.,2,825
+2113,Uranium be bring to nuclear power plant.,3,825
+2114,uranium atom be split into two smaller atom.,4,825
+2115,heat energy be release from the uranium.,5,825
+2116,the heat energy turn water into steam in a nuclear reactor.,6,825
+2117,the steam turn big turbine.,7,825
+2118,the turbine drive generator.,8,825
+2119,the generator make electricity.,9,825
+2120,the steam turn back into water.,10,825
+2121,a nuclear reactor generate heat by nuclear fission.,1,826
+2122,the heat create raise steam.,2,826
+2123,the steam run through turbine.,3,826
+2124,the turbine generate electricity.,4,826
+2125,the electricity leave the station.,5,826
+2126,a fuel be heat in a oven.,1,828
+2127,above the oven be a tank of water that be seal.,2,828
+2128,the tank of water begin to boil above the oven.,3,828
+2129,a the water boil steam be create.,4,828
+2130,the steam be denser than air so it need a place to go.,5,828
+2131,the steam be force out of the tank and into a piston.,6,828
+2132,the piston move up.,7,828
+2133,the valve of the piston close.,8,828
+2134,the valve on the next piston open.,9,828
+2135,"the steam fill the next piston, drive it up, and the other one down.",10,828
+2136,"the flu virus have receptor, which be like viral velcro, on the surface of the virus particle.",1,830
+2137,"the receptor will lock onto a target cell use these chemical receptor on the surface, which dock onto the cell surface.",2,830
+2138,the receptor then go into the cell.,3,830
+2139,the receptor use it like a factory.,4,830
+2140,the receptor take it over and make it produce thousand or in some case million of copy of new virus.,5,830
+2141,the copy come stream out of the cell.,6,830
+2142,"the copy infect other cell to make more virus, or they escape from the body and infect a new victim.",7,830
+2143,a virus enter a host body.,1,834
+2144,the virus have receptor that lock onto a target cell.,2,834
+2145,the virus enter the cell.,3,834
+2146,the virus use the cell like a factory to make new copy of the virus.,4,834
+2147,the new copy of the virus leave the cell.,5,834
+2148,infect other cell.,6,834
+2149,the host get sick a it cell be damage.,7,834
+2150,electromagnet create magnetic field with electricity.,1,842
+2151,conductive copper wire be wrap around a piece of metal.,2,842
+2152,a electric current get introduce from power source.,3,842
+2153,flow through the wire.,4,842
+2154,magnetic field get create in the wire.,5,842
+2155,and the metal get magnetize.,6,842
+2156,when turn off it be no longer magnetic.,7,842
+2157,"a conduct metal, like copper, be wrap around a piece of metal.",1,844
+2158,"a electrical source, like a battery, produce a electrical current.",2,844
+2159,the electrical current flow through the wire.,3,844
+2160,"the electrical current create a magnetic field around the wire, magnetize the metal.",4,844
+2161,the magnetic field can be turn on and off by start or stop the electricity source.,5,844
+2162,Blood deliver oxygen in the body.,1,846
+2163,protein and acid be break down in the liver.,2,846
+2164,the liver release waste in the form of urea.,3,846
+2165,the blood carry the urea and carbon dioxide to the kidney.,4,846
+2166,the kidney strain the urea and salt need from the blood.,5,846
+2167,the carbon dioxide by product be transport back to the lung.,6,846
+2168,carbon dioxide be exhale by the lung.,7,846
+2169,a machine call a pulverizer grind the coal into a fine powder.,1,852
+2170,"the coal powder mix with hot air, which help the coal burn more efficiently, and the mixture move to the furnace.",2,852
+2171,"the burn coal heat water in a boiler, create steam.",3,852
+2172,"steam release from the boiler power a engine call a turbine, transform heat energy from burn coal into mechanical energy that spin the turbine engine.",4,852
+2173,"the spinning turbine be use to power a generator, a machine that turn mechanical energy into electric energy.",5,852
+2174,this happen when magnet inside a copper coil in the generator spin.,6,852
+2175,"a condenser cool the steam move through the turbine. a the steam be condense, it turn back into water.",7,852
+2176,"the water return to the boiler, and the cycle begin again.",8,852
+2177,a mold spore float through the air.,1,867
+2178,the spore land on a piece of bread.,2,867
+2179,the spore grow hypha into the bread.,3,867
+2180,the mold form a colony.,4,867
+2181,sporangiophore grow upward.,5,867
+2182,the mold send out spore.,6,867
+2183,a rig drill into the earth where oil be present.,1,872
+2184,a pipe be place in the hole.,2,872
+2185,a pump be add to the pipe.,3,872
+2186,oil be pump out.,4,872
+2187,oil be place in barrel.,5,872
+2188,barrel be load on truck.,6,872
+2189,truck go to a refinery.,7,872
+2190,crude oil be refine to motor oil.,8,872
+2191,motor oil be bottle.,9,872
+2192,ship to gas station.,10,872
+2193,the oil be extract either onshore or offshore by large oil rig.,1,873
+2194,crude oil be transport to a refinery.,2,873
+2195,the refinery turn the crude oil into gasoline.,3,873
+2196,the gasoline be load onto tank truck.,4,873
+2197,the tank truck go to gas station all over the place.,5,873
+2198,the gasoline be deliver to the gas station.,6,873
+2199,the oil need to be pump from the ground.,1,874
+2200,after it be pump it then be transport to a factory.,2,874
+2201,in the factory the oil be process and turn into fuel.,3,874
+2202,once the fuel be refine it be then send to a truck.,4,874
+2203,by truck the fuel be send to the gas station.,5,874
+2204,Water vapor get into the atmosphere through a process call evaporation.,1,876
+2205,"this then turn the water that be at the top of ocean, river and lake into water vapor in the atmosphere use energy from the sun.",2,876
+2206,the water vapor rise in the atmosphere and there it cool down.,3,876
+2207,Water vapor rise in the atmosphere and there it cool down and form tiny water droplet through something call condensation.,4,876
+2208,these then turn into cloud.,5,876
+2209,"when they all combine together, they grow bigger and be too heavy to stay up there in the air.",6,876
+2210,"this be when they will fall to the ground a rain, or maybe snow or hail by gravity.",7,876
+2211,warm air from the surface rise into the higher cold air.,1,877
+2212,the water vapor in the air be condense.,2,877
+2213,the condense water and dust form a cloud.,3,877
+2214,wind in the cloud bounce the water droplet around.,4,877
+2215,the bouncing droplet join together.,5,877
+2216,the bigger droplet get heavy.,6,877
+2217,the heavy droplet fall.,7,877
+2218,"a they fall, they join with more moisture in the air.",8,877
+2219,the droplet get larger.,9,877
+2220,Rain fall.,10,877
+2221,warm water rise off the sea.,1,879
+2222,the water condense a it cool and get higher in the air.,2,879
+2223,then the condensation form into cloud.,3,879
+2224,the cloud travel over area on land.,4,879
+2225,the cloud reach a saturation point.,5,879
+2226,the water fall from the cloud.,6,879
+2227,Water evaporate and become gaseous.,1,880
+2228,the vapor go into the air.,2,880
+2229,and the rain become cloud in the atmosphere.,3,880
+2230,the cloud become too heavy and it start to fall.,4,880
+2231,it become rain.,5,880
+2232,item that can be reuse be place into recycling container.,1,882
+2233,recycling truck pick up the item that be able to be reuse.,2,882
+2234,the recyclable item travel to a recycling plant.,3,882
+2235,the item be sort by what they be make of.,4,882
+2236,the item be break down into small part.,5,882
+2237,the small part be melt to make new raw part.,6,882
+2238,the raw part be sell to manufacture to make new item.,7,882
+2239,Water in the cloud become very cold.,1,892
+2240,the cold water form ice crystal.,2,892
+2241,the ice crystal grow by absorb surround water droplet.,3,892
+2242,form snowflake.,4,892
+2243,the snowflake fall to the ground.,5,892
+2244,Blood sugar level increase after a meal.,1,893
+2245,cell in the pancrea release insulin.,2,893
+2246,insulin cause the body to absorb glucose from the blood.,3,893
+2247,Blood sugar go back to normal.,4,893
+2248,Blood sugar be too low.,5,893
+2249,the amount of insulin go down.,6,893
+2250,cell in the pancrea release glucagon.,7,893
+2251,the liver turn store glycogen into glucose.,8,893
+2252,the liver release the glucose into the blood.,9,893
+2253,Blood sugar go back to normal.,10,893
+2254,the blood sugar drop in a body.,1,894
+2255,cell in the pancrease release glucagon.,2,894
+2256,the liver in response turn the glucagon into glucose.,3,894
+2257,and release it into the blood.,4,894
+2258,the blood sugar level be restore.,5,894
+2259,oxygen - deplete blood enter the heart on the right atrium.,1,896
+2260,the atrium contract.,2,896
+2261,Blood flow from you right atrium into you right ventricle through the open tricuspid valve.,3,896
+2262,"when the ventricle be full, the tricuspid valve shut.",4,896
+2263,the ventricle contract.,5,896
+2264,"Blood leave the heart through the pulmonic valve, into the pulmonary artery and to the lung.",6,896
+2265,the lung oxygenate the blood.,7,896
+2266,the oxygenated blood go into the left atrium.,8,896
+2267,the left atrium send the blood throughout the body.,9,896
+2268,the outer ear collect sound wafe.,1,900
+2269,the sound wafe travel from the outer ear to the middle ear.,2,900
+2270,the eardrum change the sound wafe into vibration.,3,900
+2271,"the hammer, anvil, and stirrup bone vibrate.",4,900
+2272,the sound move to the inner ear.,5,900
+2273,the sound enter the liquid - fill cochlea.,6,900
+2274,the cochlea vibrate.,7,900
+2275,small hair in the cochlea move.,8,900
+2276,nerve signal be create.,9,900
+2277,the brain understand the nerve signal a sound.,10,900
+2278,sound enter the ear of a person.,1,901
+2279,the sound hit a drum that be inside the ear.,2,901
+2280,the drum inside the ear convert the sound to electrical impulse.,3,901
+2281,the electrical impulse be send to the brain.,4,901
+2282,the brain can decode the impulse into sound.,5,901
+2283,visible light enter through the lens.,1,903
+2284,the light enter into the retina.,2,903
+2285,the light be absorb by photoreceptor cell.,3,903
+2286,which be turn into chemical energy.,4,903
+2287,the result information be interpret by the brain a a image.,5,903
+2288,the cornea and lens refract light into a small image.,1,904
+2289,shine it on the retina.,2,904
+2290,the retina 's rod and cone convert it to electrical pulse.,3,904
+2291,the optic nerve carry electrical pulse through the optic canal.,4,904
+2292,nerve fiber end in the lateral geniculate nucleu and the visual cortex.,5,904
+2293,"the saliva break down the chemical in the food a bit, which help make the food mushy and easy to swallow.",1,905
+2294,"you tongue help out, push the food around while you chew with you tooth.",2,905
+2295,the esophagus move food from the back of you throat to you stomach.,3,905
+2296,strong muscle in the wall of the stomach and gastric juice break down food in you stomach.,4,905
+2297,you stomach move the food into the intestine to complete digestion.,5,905
+2298,"when water freeze it become 10 % bigger, or take up 10 % more space.",1,908
+2299,"a water expand it put great pressure on the wall of anything contain it, include any rock which happen to be surround it.",2,908
+2300,"the force of the pressure exert on the rock surround it be enough to wedge the wall of the crack farther apart, thus expand and deepen the crack.",3,908
+2301,clay expend when wet like ice do.,4,908
+2302,this cause rock to break apart.,5,908
+2303,some plant like moss and lichen be capable of grow without soil on bare rock.,6,908
+2304,when they do this they root penetrate pore and crevice and cause rock to split apart a the root force they way down through the rock.,7,908
+2305,sediment transport be the movement of solid particle ( sediment ).,1,915
+2306,"the movement be due to a combination of gravity act on the sediment, and / or the movement of the fluid in which the sediment be entrain.",2,915
+2307,"sediment transport occur in natural system where the particle be clastic rock ( sand, gravel, boulder, etc. ), mud, or clay.",3,915
+2308,"the fluid be air, water, or ice.",4,915
+2309,and the force of gravity act to move the particle along the sloping surface on which they be rest.,5,915
+2310,"sediment transport due to fluid motion occur in river, ocean, lake, sea, and other body of water due to current and tide.",6,915
+2311,Transport be also cause by glacier a they flow.,7,915
+2312,sediment become loose from the rest of the soil.,1,916
+2313,the sediment roll down hill towards a river.,2,916
+2314,the heavy item sink to the bottom.,3,916
+2315,the lighter item float on the top and in convection cycle.,4,916
+2316,a the river flow the sediment be move.,5,916
+2317,the sediment get dump through tributary into lake and the ocean.,6,916
+2318,the sediment keep move around the world in convection current.,7,916
+2319,energy build up in the crust of the earth.,1,917
+2320,the energy cause the fault line give way.,2,917
+2321,the earth 's plate move.,3,917
+2322,the energy radiate outward from the fault in all direction.,4,917
+2323,the seismic wafe shake the earth a they move through it.,5,917
+2324,plate on the Earth 's crust move slowly past each other.,1,919
+2325,"a the plate move, they exert a great force.",2,919
+2326,"when the force be large enough, the crust break.",3,919
+2327,the stress be release a energy.,4,919
+2328,the energy move through the Earth in the form of wafe.,5,919
+2329,we feel the earthquake.,6,919
+2330,gase cause pressure beneath the earth.,1,920
+2331,the gas come to a head and push molten magma to the surface.,2,920
+2332,the magma cool.,3,920
+2333,with enough time the pressure build up greatly.,4,920
+2334,the result volcano may explode.,5,920
+2335,Magma rise through crack in the Earth 's crust.,1,921
+2336,the pressure cause plate to move.,2,921
+2337,Magma explode to the surface.,3,921
+2338,the lava from the eruption cool to form new crust.,4,921
+2339,"after several eruption, the rock build up and a volcano form.",5,921
+2340,Magma be form when rock melt inside the Earth 's crust.,1,922
+2341,Magma rise.,2,922
+2342,collect inside magma chamber underneath a volcano.,3,922
+2343,pressure build in the magma chamber a they fill.,4,922
+2344,gain energy for eruption.,5,922
+2345,some of the energy be converted into seismic activity ( earthquake ).,6,922
+2346,if the magma building in the volcano be thick and sticky it will trap gas.,7,922
+2347,result in a explosive eruption when the pressure become too intense.,8,922
+2348,if the magma be thin and run.,9,922
+2349,"the magma result in a low - pressure, slow - move flow of magma instead of a violent eruption.",10,922
+2350,Air be pull into the lung.,1,923
+2351,oxygen move from the lung into the bloodstream.,2,923
+2352,Air be push through the vocal chord.,3,923
+2353,a person talk.,4,923
+2354,other air be push out of the lung into the environment.,5,923
+2355,you inhale.,1,924
+2356,the air enter the mouth and nose.,2,924
+2357,the diaphragm contract.,3,924
+2358,Air fill all the sack in the lung.,4,924
+2359,oxygen pas through the sack into capillary.,5,924
+2360,the blood be pas to the blood in the capillary.,6,924
+2361,the blood carry the oxygen to the heart.,7,924
+2362,the heart pump the oxygenate blood to the body.,8,924
+2363,he air we breathe contain oxygen and other gas.,1,925
+2364,"once in the lung, oxygen be move into the bloodstream and carry through you body.",2,925
+2365,"at each cell in you body, oxygen be exchange for a waste gas call carbon dioxide.",3,925
+2366,you bloodstream then carry this waste gas back to the lung where it be remove from the blood stream and then exhale.,4,925
+2367,"you lung and respiratory system automatically perform this vital process, call gas exchange.",5,925
+2368,there be a lot of rain within a short period of time.,1,927
+2369,the ground try to absorb a much rain water a it can.,2,927
+2370,the ground become saturate with rain water and can not absorb anymore.,3,927
+2371,Water begin flow above the ground instead of drop into the soil.,4,927
+2372,"the water carve away land, plant, and tree.",5,927
+2373,it cause destruction a it travel.,6,927
+2374,a magma chamber form under the ground.,1,930
+2375,a the magma get pressure it travel upwards.,2,930
+2376,the magma find the weakest point in the volcano.,3,930
+2377,the magma under pressure erupt through that point.,4,930
+2378,the magma turn to lava in the air and travel down the volcano.,5,930
+2379,Magma rise through surround rock.,1,931
+2380,"gas bubble form and expand, cause lot of pressure.",2,931
+2381,"this pressure push the magma through weak spot in the earth 's surface,.",3,931
+2382,Magma flow out a lava.,4,931
+2383,this can happen slowly or in a huge explosion.,5,931
+2384,Water flow by rock.,1,932
+2385,chemical be in the water.,2,932
+2386,chemical react with rock.,3,932
+2387,rock change to a different kind of rock.,4,932
+2388,oxygen in the air react with rock.,5,932
+2389,rock change to a different kind of rock.,6,932
+2390,Water be introduce to carbon dioxide.,1,933
+2391,the water become acidic.,2,933
+2392,the water seep down to a mineral base material.,3,933
+2393,the acidity of the water carve and shape the rock.,4,933
+2394,and may form geological phenomenon.,5,933
+2395,Ocean wafe hit land.,1,935
+2396,Ocean water pull sand off of beach.,2,935
+2397,Ocean water break rock off of cliff.,3,935
+2398,Ocean water carry sand and rock into the ocean.,4,935
+2399,Sand and rock go to other land or the bottom of the ocean.,5,935
+2400,wafe hit the coast.,1,936
+2401,wafe have energy that push the water and sediment.,2,936
+2402,the sediment can help erode land like sandpaper.,3,936
+2403,Water wash the sediment back.,4,936
+2404,some sediment be leave a sand.,5,936
+2405,light energy be absorb by chlorophyll in a plant.,1,938
+2406,the light energy be use to convert carbon dioxide.,2,938
+2407,the plant use nutrient in the soil.,3,938
+2408,the plant use carbon dioxide in the air to produce glucose.,4,938
+2409,the plant use the glucose to give itself energy.,5,938
+2410,oxygen be release a a by product.,6,938
+2411,carbon dioxide from the air pas through small pore ( hole ) in the leave.,1,939
+2412,these pore be call stoma.,2,939
+2413,Water be absorb by the root.,3,939
+2414,it pas through vessel in the stem on it way to the leave.,4,939
+2415,Sunlight be absorb by a green chemical in the leave.,5,939
+2416,carbon dioxide enter the leave through the stomate by diffusion.,1,940
+2417,Water be transport to the leave in the xylem.,2,940
+2418,energy harvest through light reaction be store by form atp.,3,940
+2419,carbon dioxide and energy from ATP be use to create sugar.,4,940
+2420,oxygen exit the leave through the stoma by diffusion.,5,940
+2421,the plant reuse the water or the water exit through the stoma a water vapor.,6,940
+2422,the diaphragm contract.,1,941
+2423,the lung expand.,2,941
+2424,"Air be pull from outside the body, into the lung.",3,941
+2425,the membrane in the lung collect oxygen molecule.,4,941
+2426,Oxygen be transfer to red blood cell.,5,941
+2427,Red blood cell distribute oxygen throughout the body.,6,941
+2428,Air be take through the mouth.,1,942
+2429,enter the lung.,2,942
+2430,the oxygen fill the sac in you lung.,3,942
+2431,carbon dioxide be remove from the lung and exhale.,4,942
+2432,the oxygen be pas throughout you body.,5,942
+2433,evaporation of water at a surface turn into water vapor.,1,947
+2434,rise into the Earth 's atmosphere.,2,947
+2435,condensation occur when water vapor turn into tiny particle of water / ice.,3,947
+2436,and form together into cloud or fog.,4,947
+2437,precipitation of rain / snow occur when wind / temperature change.,5,947
+2438,fall rain or snow collect into surface water which will evaporate into water vapor again.,6,947
+2439,Water evaporate from the earth.,1,948
+2440,the evaporate water condense into water drop.,2,948
+2441,the water drop fall back to earth.,3,948
+2442,the water accumulate on the earth.,4,948
+2443,the water collect into body of water.,5,948
+2444,the water soak into the earth.,6,948
+2445,Water from a lake or ocean evaporate.,1,949
+2446,the water vapor enter the atmosphere.,2,949
+2447,the water vapor accumulate.,3,949
+2448,the vapor become cloud.,4,949
+2449,the cloud become too heaavy.,5,949
+2450,precipitation occur.,6,949
+2451,Water get into crack in rock.,1,950
+2452,the water freeze into ice.,2,950
+2453,the crack expand.,3,950
+2454,over time the rock split.,4,950
+2455,the rock be now in smaller piece.,5,950
+2456,Coal be mine out of the ground.,1,960
+2457,Coal be pulverize into fine powder.,2,960
+2458,the coal be mix with hot air.,3,960
+2459,the coal and hot air be blow into a boiler.,4,960
+2460,the coal and hot air burn over a fire.,5,960
+2461,highly purify water be pump through pipe in the boiler.,6,960
+2462,the water turn into steam.,7,960
+2463,the steam press against turbine.,8,960
+2464,the turbine spin.,9,960
+2465,electricity be produce.,10,960
+2466,a type of coal must be choose before the heating can start.,1,961
+2467,the coal be break down to a smaller material.,2,961
+2468,the coal particle mix with hot air and move in to a boiler.,3,961
+2469,Water in the boiler be pump and produce steam with the coal.,4,961
+2470,"steam power turbine blade, which magnetically charge wire coal.",5,961
+2471,the water return back in to it chamber and the process be repeat.,6,961
+2472,people dig up coal from the ground.,1,977
+2473,people burn coal for heat or electricity.,2,977
+2474,pollution from the coal go into the sky.,3,977
+2475,coal pollution enter cloud.,4,977
+2476,cloud rain over a area.,5,977
+2477,the pollute rain become acid rain.,6,977
+2478,Coal be burn.,1,978
+2479,sulfur in the coal combine with oxygen to form sulfur oxide.,2,978
+2480,the sulfur oxide be release into the atmosphere.,3,978
+2481,the sulfide combine with oxygen in the atmosphere to form sulfur trioxide.,4,978
+2482,"the sulfur trioxide react with water in the atmosphere to form sulfuric acid, a very strong acid.",5,978
+2483,the sulfuric acid make the rain acidic.,6,978
+2484,people breathe and expel carbon dioxide.,1,996
+2485,engine produce carbon dioxide.,2,996
+2486,live thing produce waste.,3,996
+2487,waste decompose.,4,996
+2488,decomposition produce methane.,5,996
+2489,Water evaporate.,6,996
+2490,Water vapor join the atmosphere.,7,996
+2491,"carbon dioxide, water vapor and methane be greenhouse gas.",8,996
+2492,add dirty laundry to the wash machine.,1,1002
+2493,add laundry detergent to the wash machine.,2,1002
+2494,Select the setting for the load of laundry.,3,1002
+2495,close the door of the wash machine.,4,1002
+2496,turn on the wash machine.,5,1002
+2497,take out a ice cube tray.,1,1004
+2498,fill the tray with water from the faucet.,2,1004
+2499,put the ice cube tray in the freezer.,3,1004
+2500,wait for several hour.,4,1004
+2501,the water will freeze and become ice.,5,1004
+2502,remove the ice cube tray from the freezer.,6,1004
+2503,remove the ice cube from the tray.,7,1004
+2504,you take a tray.,1,1005
+2505,add water into the tray.,2,1005
+2506,you insert the tray into a freezer.,3,1005
+2507,the water molecule begin to slow down.,4,1005
+2508,the water become ice.,5,1005
+2509,the ice cube be ready.,6,1005
+2510,a plant die and wither.,1,1007
+2511,the dead plant start to draw microbe.,2,1007
+2512,the microbe break down the material.,3,1007
+2513,form decay.,4,1007
+2514,the result material disappear.,5,1007
+2515,the plant become one with the soil.,6,1007
+2516,a plant die.,1,1008
+2517,bacteria from the ground migrate to the plant material.,2,1008
+2518,bacteria release enzyme onto the plant material.,3,1008
+2519,the enzyme break down the plant cell to simpler component.,4,1008
+2520,the bacteria absorb the result component.,5,1008
+2521,gather the ingredient for the cake.,1,1014
+2522,"mix the flour, sugar, egg, and water to make batter.",2,1014
+2523,pour the mixture into a cake pan.,3,1014
+2524,place the cake in the oven to cook.,4,1014
+2525,take the cake out when it be cook through.,5,1014
+2526,let the cake cool.,6,1014
+2527,serve the cake.,7,1014
+2528,to bake a cake you first need to gather you ingredient.,1,1015
+2529,preheat the oven to desire baking temperature.,2,1015
+2530,grease you prefer cake pan with crisco or butter or other non-stick spray.,3,1015
+2531,add egg and vegetable oil to the dry ingredient.,4,1015
+2532,stir or whisk until all the dry flour have be absorb.,5,1015
+2533,pour the batter into the grease cake pan.,6,1015
+2534,place cake pan into the oven for the require time.,7,1015
+2535,"when a toothpick insert into the cake come out clean, the cake be do baking.",8,1015
+2536,determine the weather where you be go.,1,1016
+2537,pack essential item in you suitcase such a underwear / sock.,2,1016
+2538,pack weather appropriate clothing in the suitcase.,3,1016
+2539,always bring a jacket or two.,4,1016
+2540,always bring one semi-formal outfit for a nice dinner.,5,1016
+2541,Zip up the bag and be ready to go.,6,1016
+2542,turn the bicycle upside down.,1,1025
+2543,remove the nut that hold the wheel to the bike.,2,1025
+2544,take the tire off of the wheel.,3,1025
+2545,patch the hole in the tire or replace with a new tire on the wheel.,4,1025
+2546,replace the wheel on the bike.,5,1025
+2547,secure the wheel with nut.,6,1025
+2548,the thermostat sense that the temperature have drop.,1,1028
+2549,a signal be send to the heating system.,2,1028
+2550,Heating oil travel from the tank to the burner.,3,1028
+2551,the oil become a fine mist mix with air.,4,1028
+2552,the oil / air combination be inject into the burner.,5,1028
+2553,the burner be ignite in the combustion chamber.,6,1028
+2554,the furnace heat the air.,7,1028
+2555,the blower send the heat air through the duct.,8,1028
+2556,the heat air come out the vent and into the room.,9,1028
+2557,oil be gather through mining operation.,1,1029
+2558,the oil be transport to store.,2,1029
+2559,oil be purchase by homeowner.,3,1029
+2560,oil be place into a stove in the house.,4,1029
+2561,"the oil be light on fire, and burn for a long time.",5,1029
+2562,the warm air off of the oil travel through the house.,6,1029
+2563,you thermostat sense that the room temperature have fall below you thermostat setting.,1,1030
+2564,you thermostat send a signal to you heating system to provide heat for you home.,2,1030
+2565,"when you oil burner be engage, heating oil travel from the tank to the burner by way of a pump.",3,1030
+2566,here the oil become a fine mist mix with air.,4,1030
+2567,the fuel / air mixture be then inject into the burner where it be ignite in the combustion chamber.,5,1030
+2568,"the warm air be disburse through vent, hot water through baseboard, or by steam radiator.",6,1030
+2569,a plant or animal die in mud or soil.,1,1031
+2570,the bone be all that remain.,2,1031
+2571,over time the bone be cover in sediment.,3,1031
+2572,the sediment become rock.,4,1031
+2573,the rock become a fossil.,5,1031
+2574,most fossil form when animal or plant die in wet environment.,1,1032
+2575,the animal and plant be then bury in mud.,2,1032
+2576,Soft tissue decompose.,3,1032
+2577,Bones and hard tissue remain.,4,1032
+2578,sediment build up over the remains over a period of time.,5,1032
+2579,the sediment harden into rock.,6,1032
+2580,a animal die.,1,1033
+2581,the animal be bury fast under mud.,2,1033
+2582,the soft part of the animal 's body rot away.,3,1033
+2583,the mud around the skeleton turn into rock.,4,1033
+2584,the skeleton dissolve.,5,1033
+2585,a mold be leave in the mud where the skeleton be.,6,1033
+2586,open the dishwasher.,1,1046
+2587,slide out the bottom rack.,2,1046
+2588,take a dirty plate.,3,1046
+2589,rinse the plate.,4,1046
+2590,place the dish in the rack.,5,1046
+2591,repeat leave enough space for water to reach all item.,6,1046
+2592,fill the soap cup.,7,1046
+2593,turn on the dishwasher.,8,1046
+2594,dirty dish be rinse.,1,1047
+2595,place into the dishwasher.,2,1047
+2596,a detergent be add to the detergent dispenser.,3,1047
+2597,the dishwasher be close.,4,1047
+2598,the power be turn on.,5,1047
+2599,"in about 1.5 - 2 hour, the dish be clean.",6,1047
+2600,rinse the dish before place they in a dishwasher.,1,1048
+2601,load glass and plastic wear on the top rack.,2,1048
+2602,"put plate, bowl, pot, and pan on the bottom rack.",3,1048
+2603,place all the utensil in the utensil basket.,4,1048
+2604,put detergent into the detergent holder.,5,1048
+2605,close the door and push the start button.,6,1048
+2606,Water come into contact with something make of iron.,1,1049
+2607,the water combine with carbon dioxide in the air to form carbonic acid.,2,1049
+2608,"a the acid be form, the iron start to dissolve.",3,1049
+2609,some of the water break down into hydrogen and oxygen.,4,1049
+2610,the free oxygen and dissolve iron bond together.,5,1049
+2611,"they form iron oxide, which be rust.",6,1049
+2612,Iron be expose to oxygen.,1,1051
+2613,be expose to air.,2,1051
+2614,a chemical reaction occur.,3,1051
+2615,the iron start to oxidize.,4,1051
+2616,the iron start to rust.,5,1051
+2617,sunlight pas through the glass into the greenhouse.,1,1053
+2618,the plant and floor absorb the the sunlight.,2,1053
+2619,the absorb sunlight be converted to heat.,3,1053
+2620,the heat can not escape the glass.,4,1053
+2621,the heat be trap in the greenhouse.,5,1053
+2622,the hot air rise.,6,1053
+2623,the colder air at the top be push to the bottom.,7,1053
+2624,the colder air be then warm by the floor and the plant.,8,1053
+2625,the root be within the soil.,1,1055
+2626,Water and nutrient move from the soil into the root structure.,2,1055
+2627,the root be selective on what can go through.,3,1055
+2628,only want element be pas to within the plant.,4,1055
+2629,the nutrient travel through the plant circulatory system.,5,1055
+2630,Water flow into the dishwasher.,1,1058
+2631,the dishwasher heat the water.,2,1058
+2632,the detergent dispenser open at the right time.,3,1058
+2633,Water be shoot through the jet to clean the dish.,4,1058
+2634,the dirty water be drain.,5,1058
+2635,more water be spray to rinse the dish.,6,1058
+2636,the water be drain again.,7,1058
+2637,the air be heat in the dishwasher to dry the dish.,8,1058
+2638,cold water take in through a hose to the bottom.,1,1059
+2639,Heating element heat water.,2,1059
+2640,Pump force water up in pipe connect to spinning paddle.,3,1059
+2641,the force water make paddle spin like a sprinkler.,4,1059
+2642,Water come out of small hole in paddle.,5,1059
+2643,Water be collect and use again until dish be clean.,6,1059
+2644,Water be drain through a filter.,7,1059
+2645,filter collect particle of food.,8,1059
+2646,Water be so hot that it evaporate for dry dish.,9,1059
+2647,dirty dish be place in the dishwasher.,1,1060
+2648,the dishwasher be close.,2,1060
+2649,the dishwasher heat water to a hotter temperature.,3,1060
+2650,the dishwasher direct water toward the dish through jet.,4,1060
+2651,the dishwasher add detergent.,5,1060
+2652,the dirty water drain out.,6,1060
+2653,the dishwasher spray more water to rinse the dish off.,7,1060
+2654,the water drain out again.,8,1060
+2655,the dishwasher direct warm air toward the dish to dry they.,9,1060
+2656,the dish can be remove.,10,1060
+2657,you must decide the purpose of the satellite.,1,1061
+2658,you must draw up a plan to what kind of orbit the satellite will travel.,2,1061
+2659,you make preparation for the rocket that will travel into space.,3,1061
+2660,prepare the crew that will send it there.,4,1061
+2661,you begin the countdown date for the rocket.,5,1061
+2662,and then you send the rocket carry the satellite into space.,6,1061
+2663,once in orbit the satellite will be place where it be plan.,7,1061
+2664,build a satellite.,1,1062
+2665,attach a rocket.,2,1062
+2666,add rocket fuel.,3,1062
+2667,Launch rocket.,4,1062
+2668,Satellite go into orbit.,5,1062
+2669,a satellite 's need be determine.,1,1063
+2670,a group of people work to design a satellite capable of accomplish the need.,2,1063
+2671,a team design the physical structure of the satellite.,3,1063
+2672,a crew build the physical satellite.,4,1063
+2673,the satellite be pack into a capsule.,5,1063
+2674,the satellite capsule be load onto a rocket.,6,1063
+2675,the rocket be launch into space.,7,1063
+2676,spore be disperse into the air by a mature mushroom.,1,1064
+2677,the spore fall to the ground.,2,1064
+2678,the spore germinate.,3,1064
+2679,the spore begin to grow mycelium.,4,1064
+2680,the mycelium begin to sprout a bud.,5,1064
+2681,a new mushroom be form.,6,1064
+2682,adult mushroom produce spore.,1,1065
+2683,release they into the air by process of sporulation.,2,1065
+2684,spore be carry by the wind.,3,1065
+2685,land in a hospitable grow environment.,4,1065
+2686,the spore germinate into the soil.,5,1065
+2687,the mushroom start grow.,6,1065
+2688,the adult mushroom produce spore of it own to repeat the process.,7,1065
+2689,a mushroom give off gill line with basidium.,1,1066
+2690,the basidium give off spore.,2,1066
+2691,the spore germinate.,3,1066
+2692,the spore create hypha.,4,1066
+2693,multiple hypha meet and converge.,5,1066
+2694,they join with Mycelium.,6,1066
+2695,a hyphal knot form in the ground.,7,1066
+2696,a primordium shoot out of the ground.,8,1066
+2697,a mushroom cap be form.,9,1066
+2698,there be a rain cloud in the sky.,1,1073
+2699,small bit of ice within the cloud bump each other.,2,1073
+2700,the collision create electrical charge.,3,1073
+2701,"lighter, positively charge particle sink to the bottom of the cloud.",4,1073
+2702,"heavier, negatively charge particle rise to the top.",5,1073
+2703,"when the positive and negative charge grow large enough, a giant spark, call lightning occur.",6,1073
+2704,ice form inside a cloud.,1,1075
+2705,ice inside the cloud bump around and cause electrostatic charge.,2,1075
+2706,the cloud become a thundercloud.,3,1075
+2707,electrostatic energy build and form a strong negative charge.,4,1075
+2708,positive energy be attract to the negative energy in the cloud.,5,1075
+2709,this positive energy gather on the ground.,6,1075
+2710,the positive energy connect with the negative energy and form lightning.,7,1075
+2711,the dna strand of a cell decide to replicate.,1,1077
+2712,chemical in the strand break up the helix.,2,1077
+2713,the helix be split into two.,3,1077
+2714,the helix form a the basis of a new dna strand.,4,1077
+2715,the cell replicate.,5,1077
+2716,dna replication be initiate by protein.,1,1078
+2717,the hydrogen bond that hold together a strand of dna be break.,2,1078
+2718,a polymerase read each side of the strand.,3,1078
+2719,add complimentary nucleotide.,4,1078
+2720,"once all the basis be match, the new dna strand be form.",5,1078
+2721,dna ligase seal the new piece into two new strand.,6,1078
+2722,Coal be put in a coal - fire steam station.,1,1080
+2723,Water be put in pipe in the coal - fire steam station.,2,1080
+2724,the coal be crush.,3,1080
+2725,the coal be move into a boiler along with hot air.,4,1080
+2726,the water be move through pipe in the boiler.,5,1080
+2727,the steam from the water be blow against a turn mechanism.,6,1080
+2728,the force of the steam make the mechanism turn.,7,1080
+2729,the mechanism generate electricity.,8,1080
+2730,Coal be burn in a boiler.,1,1081
+2731,Steam be produce under pressure.,2,1081
+2732,flow into a turbine.,3,1081
+2733,the turbine spin.,4,1081
+2734,create electricity.,5,1081
+2735,first you dig a whole.,1,1083
+2736,you place a pumpkin seed in the hole.,2,1083
+2737,you put some dirt over the seed.,3,1083
+2738,you water the seed.,4,1083
+2739,the seed will sprout.,5,1083
+2740,a vine will grow.,6,1083
+2741,the vine will flower.,7,1083
+2742,pumpkin will appear where the flower be.,8,1083
+2743,get some pumpkin seed.,1,1084
+2744,Plant the pumpkin seed in soil.,2,1084
+2745,Water the plant if it start to dry out.,3,1084
+2746,do not water directly on the leave.,4,1084
+2747,male flower appear.,5,1084
+2748,female flower be open for one day.,6,1084
+2749,pumpkin mature 85 - 125 day after planting.,7,1084
+2750,"pack up you camp gear, food, and clothes.",1,1085
+2751,drive to you campsite.,2,1085
+2752,set up you tent.,3,1085
+2753,start a fire in the fire pit.,4,1085
+2754,cook you food in the fire.,5,1085
+2755,put the fire out when you be finish.,6,1085
+2756,go to sleep.,7,1085
+2757,wake up.,8,1085
+2758,put away you tent.,9,1085
+2759,drive home.,10,1085
+2760,one go to a wilderness area.,1,1086
+2761,one set up a tent.,2,1086
+2762,"one put they clothes, sleeping bag, etc. into the tent.",3,1086
+2763,one gather firewood.,4,1086
+2764,"one build a fire for warmth, cooking, etc.",5,1086
+2765,"you pack up you car with food, tent, sleeping bag, etc.",1,1087
+2766,drive to you camp spot.,2,1087
+2767,put up you tent.,3,1087
+2768,hide you food from bear.,4,1087
+2769,make a campfire.,5,1087
+2770,roast marshmellow.,6,1087
+2771,go to sleep in the tent.,7,1087
+2772,wake up and enjoy nature.,8,1087
+2773,begin the party.,1,1091
+2774,partake in activity.,2,1091
+2775,bring out the cake.,3,1091
+2776,"sing "" happy birthday! "".",4,1091
+2777,blow out the candle.,5,1091
+2778,eat the cake.,6,1091
+2779,open the present.,7,1091
+2780,a star form.,1,1094
+2781,the star do not have enough mass to become a neutron star.,2,1094
+2782,the star go through a change in it core and bond helium to carbon and oxygen.,3,1094
+2783,the star become a red giant.,4,1094
+2784,a mass of carbon and oxygen build up in the center of the star.,5,1094
+2785,the star shed it outside layer and become a nebula.,6,1094
+2786,the star leave behind the core which become a dwarf star.,7,1094
+2787,a star burn in space.,1,1095
+2788,eventually it burn all it hydrogen.,2,1095
+2789,become a red giant.,3,1095
+2790,once the red giant burn itself out.,4,1095
+2791,the core of the star collapse.,5,1095
+2792,the gas will start to disperse.,6,1095
+2793,only the core be leave.,7,1095
+2794,a white dwarf have be form.,8,1095
+2795,a red giant burn mass.,1,1096
+2796,this mass create high core temperature.,2,1096
+2797,the mass decrease.,3,1096
+2798,the red giant can no longer fuse the carbon and oxygen in it center.,4,1096
+2799,the gravity of the star can no longer hold the outside layer.,5,1096
+2800,the layer break away.,6,1096
+2801,only the inner core remain.,7,1096
+2802,this inner core be know a a white dwarf.,8,1096
+2803,you receive a vaccination through a injection or a nasal spray.,1,1099
+2804,the vaccine contain a weaken version of the virus or bacteria responsible for the disease.,2,1099
+2805,the body 's immune system react to the virus or bacteria.,3,1099
+2806,the immune system create antibody to fight the virus or bacteria.,4,1099
+2807,the antibody remain in the body.,5,1099
+2808,the antibody be ready to fight the disease if the person be infect with the disease.,6,1099
+2809,techtonic plate in the earth crust move.,1,1104
+2810,Movement create fissure.,2,1104
+2811,upheaval in the crust.,3,1104
+2812,fissure allow lava to erupt into volcanoe at the surface.,4,1104
+2813,"volcanoe erupt, accumulate lava, form mountain.",5,1104
+2814,upheaval in the crust become they own mountain.,6,1104
+2815,pressure happen underground.,1,1105
+2816,tectonic plate underground pull and stretch.,2,1105
+2817,small crack be form in the earth 's crust.,3,1105
+2818,the tectonic plate push hard against each other.,4,1105
+2819,some part of the earth 's crust move up high above the ground.,5,1105
+2820,a plant produce a seed.,1,1106
+2821,the seed fall to the ground.,2,1106
+2822,the seed be bury.,3,1106
+2823,the seed germinate.,4,1106
+2824,a plant grow.,5,1106
+2825,the plant produce flower.,6,1106
+2826,the flower produce more seed.,7,1106
+2827,a seed be in soil.,1,1107
+2828,the seed germinate.,2,1107
+2829,the plant grow root.,3,1107
+2830,the plant grow out of the ground.,4,1107
+2831,the plant get bigger.,5,1107
+2832,the plant flower.,6,1107
+2833,the flower produce fruit.,7,1107
+2834,the fruit release seed.,8,1107
+2835,the plant die.,9,1107
+2836,dissolution of limestone form cave.,1,1112
+2837,Rain get carbon dioxide from the air.,2,1112
+2838,when rain go into soil it create a acid.,3,1112
+2839,the acid dissolve the limestone along crack.,4,1112
+2840,some will dissolve enough to form cave.,5,1112
+2841,rainwater pick up carbon dioxide from the air.,1,1113
+2842,rainwater go into soil.,2,1113
+2843,Water with carbon dioxide percolate through soil.,3,1113
+2844,the water become a weak acid.,4,1113
+2845,the water dissolve limestone.,5,1113
+2846,cave form where the limestone be dissolve.,6,1113
+2847,Rainwater fall onto the soil.,1,1114
+2848,the rainwater seep into the soil.,2,1114
+2849,the water start go into the bedrock below.,3,1114
+2850,the bedrock erode after much time pas.,4,1114
+2851,the bedrock form funnel.,5,1114
+2852,the funnel grow larger and wider.,6,1114
+2853,the funnel finally become cave.,7,1114
+2854,warm water float up from the ocean.,1,1127
+2855,a pocket of low pressure air be create near the surface of the ocean.,2,1127
+2856,warm air from outside area push into the low pressure area.,3,1127
+2857,the warm air keep rise and form cloud.,4,1127
+2858,the wind be get feed moisture that evaporate from the ocean.,5,1127
+2859,this moisture cause the swirl air and cloud to grow bigger.,6,1127
+2860,a it get bigger the wind rotate faster.,7,1127
+2861,a hurricane usually start a a organized thunderstorm activity that stretch at least 100 mile across and maintain it identity for more than 24 hour.,1,1128
+2862,under the right condition it can develop further and start to spin around a low - pressure center.,2,1128
+2863,"if it develop it be classify a a "" tropical cyclone "" or "" tropical depression "".",3,1128
+2864,"if the system strengthen and wind speed rise past 39 mph, the system be dub a "" tropical storm "".",4,1128
+2865,"if the pressure in the center drop even further and the wind really pick up and form a clearly define "" eye "" it be a hurricane.",5,1128
+2866,thunderstorm form over the ocean.,1,1129
+2867,a area of low pressure cause rotation.,2,1129
+2868,several thunderstorm come together around this area.,3,1129
+2869,the storm be feed by rise air from warm ocean water evaporate.,4,1129
+2870,when the wind speed reach 74 mph the storm be consider a hurricane.,5,1129
+2871,"bee first secure the perfect spot, such a hollow area of tree.",1,1130
+2872,bee will begin to chew max until it become soften.,2,1130
+2873,the chew up wax will be store inside of a honeycomb.,3,1130
+2874,worker bee continue chew and softening wax from within.,4,1130
+2875,"the chew up wax be steadily add, make the hive bigger and bigger.",5,1130
+2876,"the bee will house nectar, honey and pollen within the honeycomb 's cell.",6,1130
+2877,bee go out during the day and gather food.,1,1131
+2878,"then while gather of they food, they make wax, which be the building block of they bee hive.",2,1131
+2879,bee make food call honey.,3,1131
+2880,"they use a sticky, glue - like substance call propolis a a bind to hold they hife together.",4,1131
+2881,bee produce all of the building block to build they hive in they own body.,5,1131
+2882,"bee find a place for the hive, such a a rock crevice or tree branch.",1,1132
+2883,bee gather nectar from flower.,2,1132
+2884,the bee evaporate the nectar by pas it back and forth to each other.,3,1132
+2885,the evaporation turn the nectar into sugary honey.,4,1132
+2886,the bee chew the honey until it turn into moldable wax.,5,1132
+2887,the bee mold the wax into hexagonal ( six sided ) cylinder.,6,1132
+2888,thousand of these hexagonal cylinder put together form the hive.,7,1132
+2889,owl have specially adapt eye that see better at night.,1,1136
+2890,owl sit at high point in tree and look around.,2,1136
+2891,when a owl spot a rodent they track it.,3,1136
+2892,when the rodent be stand still the owl swoop down.,4,1136
+2893,the owl grab the rodent with they tallon.,5,1136
+2894,the owl use they beak to eat the rodent.,6,1136
+2895,owl hunt around they hunt territory away from where they roost during the day.,1,1137
+2896,"they sit still on a perch, like a stump of branch, and wait for prey.",2,1137
+2897,they use they highly sensitive hearing to locate prey that can not be see.,3,1137
+2898,they use they very keen vision to see prey in the dark.,4,1137
+2899,"they fly silently, without flap they wing, in order to surprise the prey.",5,1137
+2900,"the owl silently glide or drop on it prey, grab it with it talon and beak.",6,1137
+2901,"the owl eat the prey, or carry it back to it perch.",7,1137
+2902,a owl leave he nest.,1,1138
+2903,the owl fly out into the night.,2,1138
+2904,the owl look down at the ground.,3,1138
+2905,the owl keen eyesight allow he to see in the dark.,4,1138
+2906,the owl sensitive hearing allow he to locate hidden prey.,5,1138
+2907,the owl swoop down.,6,1138
+2908,the owl catch a mouse in he talon.,7,1138
+2909,a forest fire start.,1,1142
+2910,the fire surround the vicinity.,2,1142
+2911,the animal be trap.,3,1142
+2912,those that survive have they habitat destroy.,4,1142
+2913,the survivor must find a new habitat.,5,1142
+2914,conflict with other animal occur.,6,1142
+2915,a forest fire start.,1,1143
+2916,the tree and plant burn.,2,1143
+2917,the animal lose they home.,3,1143
+2918,"if the animal can not escape, they may die from smoke inhalation.",4,1143
+2919,the plant that provide food be go.,5,1143
+2920,the animal have little to eat.,6,1143
+2921,Forest fire burn forest.,1,1144
+2922,the animal live in the forest have fewer place to hide.,2,1144
+2923,predator can now find they prey eaiser.,3,1144
+2924,bird will fly away from the area.,4,1144
+2925,Waters warm up which hurt the fish swimming in they.,5,1144
+2926,a red giant star form from a exist star.,1,1145
+2927,formation occur when the star run out of hydrogen fuel.,2,1145
+2928,hydrogen atom be combine together to form helium atom.,3,1145
+2929,energy produce by helium fusion cause the star to expand.,4,1145
+2930,a red giant star be the last stage of stellar evolution.,5,1145
+2931,a star burn in space.,1,1146
+2932,the star run out of hydrogen fuel.,2,1146
+2933,all the hydrogen be turn into helium.,3,1146
+2934,there be no longer energy to keep the star from collapse.,4,1146
+2935,gravity take over.,5,1146
+2936,the star be pull into itself.,6,1146
+2937,the helium atom begin to combine into carbon atom.,7,1146
+2938,the outermost layer of the star be push out.,8,1146
+2939,the star be much larger than it be.,9,1146
+2940,the star be a red giant.,10,1146
+2941,Hydrogen atom in a star combine together to form helium atom.,1,1147
+2942,all of the hydrogen in a star turn into helium.,2,1147
+2943,the star begin to collapse.,3,1147
+2944,helium atom combine together to form carbon atom.,4,1147
+2945,the star get much bigger than it be before.,5,1147
+2946,the star be now a red giant.,6,1147
+2947,"solar panel actually comprise many, smaller unit call photovoltaic cell.",1,1148
+2948,Photovoltaic simply mean they convert sunlight into electricity. ).,2,1148
+2949,many cell link together make up a solar panel.,3,1148
+2950,"each photovoltaic cell be basically a sandwich make up of two slice of semi-conduct material, usually silicon :.",4,1148
+2951,"manufacturer "" dope "" silicon with other material, give each slice of the sandwich a positive or negative electrical charge.",5,1148
+2952,"this add extra electron, with a negative charge, to that layer.",6,1148
+2953,"meanwhile, the bottom layer get a dose of boron, which result in fewer electron, or a positive charge.",7,1148
+2954,this all add up to a electric field at the junction between the silicon layer.,8,1148
+2955,"when a photon of sunlight knock a electron free, the electric field will push that electron out of the silicon junction.",9,1148
+2956,a couple of other component of the cell turn these electron into usable power.,10,1148
+2957,a photovoltaic cell be create with two layer of semiconductor material.,1,1150
+2958,"the top layer be "" dope "" with impurity to allow a negative charge.",2,1150
+2959,"the bottom layer be "" dope "" to allow for a positive charge.",3,1150
+2960,this produce a electric field that allow electron to flow from negative to positve.,4,1150
+2961,sunlight enter the cell.,5,1150
+2962,energy from sunlight knock electron loose in both field.,6,1150
+2963,this prevent the flow of electron from negative to positive.,7,1150
+2964,add a external circuit allow the exchange to continue.,8,1150
+2965,give the cell owner a flow of electricity.,9,1150
+2966,a radioisotope have unstable nucleus that do not have enough bind energy to hold the nucleu together.,1,1151
+2967,radioisotope would like to be stable isotope so they be constantly change to try and stabilize.,2,1151
+2968,"in the process, they will release energy and matter from they nucleu and often transform into a new element.",3,1151
+2969,"this process, call transmutation, be the change of one element into another a a result of change within the nucleu.",4,1151
+2970,he radioactive decay and transmutation process will continue until a new element be form that have a stable nucleu and be not radioactive.,5,1151
+2971,the nucleus of some atom have too few or too many neutron.,1,1152
+2972,the atom become unstable.,2,1152
+2973,the atom split.,3,1152
+2974,"in alpha decay, two proton and two neutron be release from the atom.",4,1152
+2975,"in beta decay, a neutron change into a proton and a electron.",5,1152
+2976,the proton join the nucleu of the atom.,6,1152
+2977,the electron be release.,7,1152
+2978,a isotope have too many proton.,1,1153
+2979,the isotope be unstable.,2,1153
+2980,the isotope emit radiation.,3,1153
+2981,the isotope decay.,4,1153
+2982,the isotope lose some atomic particle.,5,1153
+2983,the isotope turn into a different element.,6,1153
+2984,the isotope be finish decay and emit radiation.,7,1153
+2985,plant and animal long ago die.,1,1154
+2986,they be bury under layer of soil.,2,1154
+2987,pressure build over time.,3,1154
+2988,the remains liquefy.,4,1154
+2989,the carbon atom rearrange to become a new substance.,5,1154
+2990,"dead organic material accumulate on the bottom of ocean, riverbed or swamp, mixing with mud and sand.",1,1155
+2991,"over time, more sediment pile on top.",2,1155
+2992,the result heat and pressure transform the organic layer into a dark and waxy substance know a kerogen.,3,1155
+2993,"leave alone, the kerogen molecule eventually crack.",4,1155
+2994,the molecule break up into shorter and lighter molecule compose almost solely of carbon and hydrogen atom.,5,1155
+2995,it will turn into either petroleum or natural gas.,6,1155
+2996,live organism in the sea die.,1,1156
+2997,the matter form on the sea floor.,2,1156
+2998,layer of sediment form above the matter compress it.,3,1156
+2999,after many year the matter be compress and heat.,4,1156
+3000,the result be that crude oil form.,5,1156
+3001,a enzyme in saliva begin to break down carbohydrate.,1,1158
+3002,food be squeeze down the esophagus when you swallow.,2,1158
+3003,acid and enzyme in the stomach break the food down.,3,1158
+3004,release nutrient.,4,1158
+3005,food then pump into small intestine.,5,1158
+3006,fluid and enzyme from liver and pancrea pump into small intestine.,6,1158
+3007,help break food into smallest molecule.,7,1158
+3008,nutrient pas through wall of small intestine.,8,1158
+3009,nutrient absorb into blood stream.,9,1158
+3010,unuse material pas into large intestine to become fecal matter.,10,1158
+3011,the gravity of the sun pull it mass inward.,1,1167
+3012,there be a lot of pressure on the Sun.,2,1167
+3013,the pressure force atom of hydrogen to fuse together in nuclear reaction.,3,1167
+3014,the energy from the reaction give off different kind of light.,4,1167
+3015,the light travel to the Earth.,5,1167
+3016,Prophase be the first and longest stage of mitosis. in this stage the chromosome become visible and the centriole separate and move to opposite pole of the cell.,1,1169
+3017,in prophase the chromosome become visible and the centriole separate and move to opposite pole of the cell.,2,1169
+3018,in metaphase the chromosome line up across the center of the cell and become connect to the spindle fiber at they centromere.,3,1169
+3019,in anaphase the sister chromatid separate into individual chromosome and be pull apart.,4,1169
+3020,during telophase the chromosome gather at opposite end of the cell and lose they distinct rod -like shape.,5,1169
+3021,two new nuclear membrane then form around each of the two region of dna and the spindle fiber disappear.,6,1169
+3022,"Prophase, the chromosome become visible.",1,1170
+3023,centriole separate to move to opposite pole.,2,1170
+3024,"metaphase, the chromosome line up in the center.",3,1170
+3025,"Anaphase, the chromatid separate.",4,1170
+3026,be pull apart.,5,1170
+3027,"telophase, the chromosome gather at opposite pole.",6,1170
+3028,two new nuclear membrane form.,7,1170
+3029,the cell membrane pinch.,8,1170
+3030,divide into two individual cell.,9,1170
+3031,the liver filter blood from the digestive tract.,1,1172
+3032,the liver produce bile.,2,1172
+3033,the liver produce protein for blood plasma.,3,1172
+3034,the liver convert excess glucose into glycogen for storage.,4,1172
+3035,the liver convert ammonia to urea.,5,1172
+3036,the liver regulate blood clotting.,6,1172
+3037,Water come through a filter.,1,1183
+3038,the filter have small pore to catch pollutant.,2,1183
+3039,"the filter will catch chlorine, heavy metal, and other chemical.",3,1183
+3040,the filter allow water and mineral ion like fluoride to pas through.,4,1183
+3041,the water on the other side of the filter be much cleaner.,5,1183
+3042,Chemical reaction in the battery cause a build up of electron at the anode.,1,1184
+3043,this result in a electrical difference between the anode and the cathode.,2,1184
+3044,the electron want to rearrange themselves to get rid of this difference.,3,1184
+3045,the electron go to the cathode.,4,1184
+3046,Electricty be create.,5,1184
+3047,Comets fly around in outer space.,1,1188
+3048,a comet fly close to a planet.,2,1188
+3049,the comet enter the planet 's atmosphere.,3,1188
+3050,the comet crash into the planet.,4,1188
+3051,the energy of the impact create a hole on the planet.,5,1188
+3052,chunk of rock break off of meteorite.,1,1189
+3053,the rock pas through the atmosphere.,2,1189
+3054,the rock be too big to be slowed down.,3,1189
+3055,the chunk smash into the earth at a high velocity.,4,1189
+3056,the angle the meteorite hit can impact how large the crater be.,5,1189
+3057,the material it hit also help determine the size of the crater.,6,1189
+3058,two large vein bring blood to the heart.,1,1190
+3059,the blood enter the right atrium.,2,1190
+3060,the blood flow through the tricuspid valve.,3,1190
+3061,the blood travel into the right ventricle.,4,1190
+3062,the blood go through the pulmonary artery to the lung.,5,1190
+3063,Blood pick up oxygen in the lung.,6,1190
+3064,oxygenate blood enter the leave atrium.,7,1190
+3065,Blood go to the left ventricle.,8,1190
+3066,Blood leave the heart via the aorta to the rest of the body.,9,1190
+3067,the deoxygenate blood return to the heart.,10,1190
+3068,a eagle fly along.,1,1195
+3069,the eagle spot a mouse on the ground.,2,1195
+3070,the eagle swoop down.,3,1195
+3071,catch the mouse in it talon.,4,1195
+3072,the eagle have a meal.,5,1195
+3073,food enter the mouth.,1,1197
+3074,food mix with saliva.,2,1197
+3075,food be swallow.,3,1197
+3076,enzyme in the stomach break down the food.,4,1197
+3077,the food move to the small intestine.,5,1197
+3078,hormone from the pancrea move to the small intestine.,6,1197
+3079,the hormone create the amount of sugar in the blood from the food.,7,1197
+3080,the sugar in the blood travel to the body.,8,1197
+3081,the sugar provide energy for the muscle.,9,1197
+3082,information encode in dna be copy to a rna molecule.,1,1202
+3083,the mrna molecule be send to the cytoplasm.,2,1202
+3084,the mrna bond with ribosome.,3,1202
+3085,tmrna molecule bind with the ribosome in a sequence define by the mrna code.,4,1202
+3086,the ribosome slide down the m rna.,5,1202
+3087,the process continue until one of the stop codon enter the a site.,6,1202
+3088,protein be enter into a phase call transcription.,1,1203
+3089,dna be unwound partially so that it can be transcribe.,2,1203
+3090,dna be send to be translate in cytoplasm where it form with ribosome.,3,1203
+3091,Ribosomes bind the new dna molecule.,4,1203
+3092,the transcription and translation continue until the dna be copy.,5,1203
+3093,"MRNA be make during the first step of protein synthesis, which be transcription.",1,1204
+3094,"the dna 's genetic information, or secret code, get write onto a strand of mrna.",2,1204
+3095,transcription take place in the nucleu.,3,1204
+3096,the next step in make a protein be call translation.,4,1204
+3097,the mrna attach itself to the ribosome. read more at : http://www.ducksters.com/science/biology/proteins_and_amino_acids.php this text be copyright Ducksters. do not use without permission.,5,1204
+3098,"the ribosome figure out where to start on the m rna by find a special three letter "" begin "" sequence call a codon.",6,1204
+3099,the ribosome then move down the strand of mrna.,7,1204
+3100,"when the ribosome see the "" stop "" code, it end the translation and the protein be complete.",8,1204
+3101,you wash the wound.,1,1205
+3102,you apply a bandaid or other cover if need.,2,1205
+3103,the blood clot.,3,1205
+3104,a scab form.,4,1205
+3105,the skin repair itself under the protective cover of the scab.,5,1205
+3106,the scab fall off.,6,1205
+3107,"you body accomplish "" rapid hemostasis "" ( stop the bleed ) through a process call vasoconstriction, in which you blood vessel be close tight.",1,1207
+3108,inflammation be you body 's way of alert you of a injury.,2,1207
+3109,proliferation and migration be when cell move in a certain orderto be to heel and to further contract blood vessel. and.,3,1207
+3110,the body then begin the process of rebuild tissue and be call angiogenesis.,4,1207
+3111,it be time to begin regrow damage skin which be call reepithelialization.,5,1207
+3112,synthesis often happen almost simultaneously a it form blood clot.,6,1207
+3113,synthesis help further prevent bleed a new skin and vein be form.,7,1207
+3114,fuel mix with air.,1,1208
+3115,mix get induct into cylinder.,2,1208
+3116,Piston compress the mix.,3,1208
+3117,spark plug emit a spark that ignite it cause combustion.,4,1208
+3118,combustion gas expand.,5,1208
+3119,push piston during power stroke.,6,1208
+3120,exhaust valve open to vent exhaust out tail pipe.,7,1208
+3121,you start with a glacier.,1,1213
+3122,through warming or other method a chunk be take off the glacier.,2,1213
+3123,the chunk drift into the sea.,3,1213
+3124,and it settle where it can remain in it state.,4,1213
+3125,it be consider a iceberg.,5,1213
+3126,a person eat food.,1,1214
+3127,the person 's blood sugar level rise.,2,1214
+3128,the pancrea receive a signal to release insulin.,3,1214
+3129,insulin be release into the bloodstream.,4,1214
+3130,insulin signal cell to absorb sugar.,5,1214
+3131,the cell absorb sugar from the bloodstream.,6,1214
+3132,the cell use the sugar a energy.,7,1214
+3133,you eat food.,1,1216
+3134,you stomach digest the food.,2,1216
+3135,sugar from food enter you bloodstream.,3,1216
+3136,insulin help turn sugar into energy.,4,1216
+3137,"insulin help you body store the energy in fat, muscle and liver cell.",5,1216
+3138,a tree produce seed.,1,1217
+3139,"the seed be disperse by wind, animal, etc.",2,1217
+3140,the seed reach the ground.,3,1217
+3141,grow into new tree.,4,1217
+3142,these new tree produce seed.,5,1217
+3143,the process repeat itself over and over.,6,1217
+3144,network of tree start form.,1,1218
+3145,the tree die off.,2,1218
+3146,the dead material provide nutrient for more tree.,3,1218
+3147,the rise tree provide shelter.,4,1218
+3148,and more organism begin to thrive.,5,1218
+3149,the ecosystem know a a forest be make.,6,1218
+3150,grass and small plant grow in a area.,1,1219
+3151,these plant die.,2,1219
+3152,the soil gain organic material.,3,1219
+3153,the soil become more fertile.,4,1219
+3154,larger plant be able to be support.,5,1219
+3155,tree eventually grow.,6,1219
+3156,a fuel source must produce heat.,1,1223
+3157,heat be use to create steam.,2,1223
+3158,steam will be use to power turbine.,3,1223
+3159,turbine will work together with magnet to generate electricity.,4,1223
+3160,electricity or moving electron will then flow through wire.,5,1223
+3161,the wire will carry electron to home and business remotely.,6,1223
+3162,"nuclear plant use uranium - 235, which be unstable.",1,1224
+3163,"uranium - 235 split, release energy and neutron.",2,1224
+3164,"the neutron hit other atom, split they.",3,1224
+3165,this continue until the reaction be self - sustain.,4,1224
+3166,rod contain uranium be use in the power plant.,5,1224
+3167,control rod slow or accelerate the reaction.,6,1224
+3168,heat from the fission turn water into steam.,7,1224
+3169,the steam drive a turbine.,8,1224
+3170,the turbine drive a generator.,9,1224
+3171,the generator create electricity.,10,1224
+3172,food be enter into the gut.,1,1226
+3173,the pancrea secrete enyzm.,2,1226
+3174,some of the enzyme break down fat.,3,1226
+3175,it break down carbohydrate.,4,1226
+3176,the break down food can be pas.,5,1226
+3177,absorb by the body.,6,1226
+3178,fan blow air onto the evaporator 's coil.,1,1240
+3179,the refrigerant within the coil absorb the heat.,2,1240
+3180,the refrigerant change from a liquid to a gas.,3,1240
+3181,"the compressor compress the gas, increase the pressure.",4,1240
+3182,"the hot, pressurize gas move to the condenser.",5,1240
+3183,the gas condense in the condenser and become a liquid again.,6,1240
+3184,heat be radiate away from the condenser.,7,1240
+3185,the cool liquid be return to the evaporator.,8,1240
+3186,you speak into the receiver on you phone.,1,1250
+3187,sound wafe move part inside the receiver.,2,1250
+3188,Movement cause the magnet inside to produce eletricity.,3,1250
+3189,electricity be transfer through a wire or cable.,4,1250
+3190,a membrane in the other person phone be vibrate by the magnet in they telephone.,5,1250
+3191,sound be produce.,6,1250
+3192,they hear you.,7,1250
+3193,star burn mass.,1,1258
+3194,the star burn until it run out of fuel.,2,1258
+3195,the star can no longer support it weight.,3,1258
+3196,the layer of hydrogen press down on the core.,4,1258
+3197,the core get smaller and smaller under the pressure.,5,1258
+3198,the pressure cause gravity to get stronger.,6,1258
+3199,the gravity become so powerful that nothing can escape it.,7,1258
+3200,"anything that get close to it, be draw into it by it gravity.",8,1258
+3201,light be draw into it.,9,1258
+3202,light can not escape.,10,1258
+3203,a spider must find a suitable place for it web.,1,1259
+3204,the spider produce a thread from one it gland from one point to another.,2,1259
+3205,the spider do this in several point.,3,1259
+3206,the spider thread through each of the other thread form a web.,4,1259
+3207,the spider reinforce the web.,5,1259
+3208,the spider pick a suitable place.,1,1260
+3209,the spider produce sticky silk from it abdomen.,2,1260
+3210,the spider attach it to object where it want to build the web.,3,1260
+3211,the spider string this silk back and forth between object.,4,1260
+3212,a web be create.,5,1260
+3213,the bird pick a tree.,1,1265
+3214,the bird collect twig and other refuse.,2,1265
+3215,the bird make a flat base with twig.,3,1265
+3216,the bird make side with twig and other thing.,4,1265
+3217,the bird add softer material to the inside.,5,1265
+3218,the nest be do.,6,1265
+3219,"a bird pick a spot high spot, often in a tree.",1,1266
+3220,the bird collect bit of stick and grass.,2,1266
+3221,the sick and grass be place between support branch.,3,1266
+3222,"leave, mud and spider web be add to the stick.",4,1266
+3223,"the mud, leave and web glue the stick together.",5,1266
+3224,the solid nest support the egg.,6,1266
+3225,a flowering plant have staman and pistil.,1,1273
+3226,a insect to bird land on the plant.,2,1273
+3227,some of the pollen stick to it.,3,1273
+3228,the insect or bird travel to another plant of the same specie.,4,1273
+3229,the pollen be tranfer to the new plant.,5,1273
+3230,mix pancake mix with water.,1,1290
+3231,heat a griddle.,2,1290
+3232,pour a circle of batter in the griddle.,3,1290
+3233,"when most of the bubble pop on the surface, flip.",4,1290
+3234,cook to desire color.,5,1290
+3235,"apply butter, syrup and enjoy.",6,1290
+3236,"mix flour, baking powder, sugar, and salt into a bowl.",1,1291
+3237,"mix in milk, egg, and melt butter.",2,1291
+3238,mix until smooth.,3,1291
+3239,heat a griddle or frying pan to medium high.,4,1291
+3240,pour batter onto the griddle.,5,1291
+3241,the carafe be fill with water.,1,1293
+3242,the water be pour into the machine at the back.,2,1293
+3243,coffee bean be put into a grinder.,3,1293
+3244,the grinder be activate.,4,1293
+3245,a filter be put into the coffee maker.,5,1293
+3246,the ground coffee be put into the filter.,6,1293
+3247,sometimes a bit of salt be add to the ground to bring out flavor.,7,1293
+3248,the top of the machine be close.,8,1293
+3249,the power be turn on.,9,1293
+3250,the water pas through the ground and become coffee.,10,1293
+3251,the coffee pot be fill with water.,1,1294
+3252,Water be pour into the well of the machine.,2,1294
+3253,a filter be place in the basket.,3,1294
+3254,Ground coffee be measure into the filter.,4,1294
+3255,turn on the machine start the water heating.,5,1294
+3256,the hot water rise up.,6,1294
+3257,the water drop into the ground coffee.,7,1294
+3258,the hot water pas through the ground.,8,1294
+3259,the coffee drip into the pot from the basket.,9,1294
+3260,place the water in a pot.,1,1295
+3261,cover the pot with a slightly too large cover.,2,1295
+3262,place a larger pot under the first.,3,1295
+3263,heat water to evaporation.,4,1295
+3264,Water vapor will collect on the lid.,5,1295
+3265,drip into the second pot a fresh water.,6,1295
+3266,Salt be leave behind in the original pot.,7,1295
+3267,Blood carry into kidney by the renal artery.,1,1298
+3268,nephron in the kidney filter the blood.,2,1298
+3269,the waste that be filter out mix with water.,3,1298
+3270,become urine.,4,1298
+3271,ureter carry urine out of the kidney.,5,1298
+3272,Blood enter the kidney.,1,1299
+3273,the blood travel into the neophron.,2,1299
+3274,waste be expel via the neophron.,3,1299
+3275,the waste go to the bladder in the form of urine.,4,1299
+3276,the clean blood exit the kidney.,5,1299
+3277,food or milk that could spoil easily be bring in.,1,1303
+3278,through method of heating the food be treat.,2,1303
+3279,the microbe that may proliferate in the food be destroy.,3,1303
+3280,depend on the treatment this happen a few more time.,4,1303
+3281,the food be consider pasteurize.,5,1303
+3282,Squirrels try to eat a much a possible.,1,1310
+3283,squirrel gain weight and fat.,2,1310
+3284,Squirrel also hide food in or near it den.,3,1310
+3285,Squirrels also grow a thicker coat a the weather get colder.,4,1310
+3286,squirrel live off of it excess body fat.,5,1310
+3287,Squirrel use it food store in the winter.,6,1310
+3288,the primary root break from the seed.,1,1314
+3289,a shoot develop with a leaf.,2,1314
+3290,the shoot break through the soil a a seedling.,3,1314
+3291,the tree become a sapling when it get taller than 3 ft.,4,1314
+3292,the mature tree produce flower or fruit.,5,1314
+3293,seed be produce from the flower or fruit.,6,1314
+3294,a dead or die tree be know a a snag.,7,1314
+3295,the magnetron convert electricity into radio wafe.,1,1333
+3296,the radio wafe go through a wave guide.,2,1333
+3297,the radio wafe go into the food compartment.,3,1333
+3298,microwave bounce off the metal wall of the food compartment.,4,1333
+3299,microwave pas through the food.,5,1333
+3300,microwave make the molecule in the food move more quickly.,6,1333
+3301,the food heat up.,7,1333
