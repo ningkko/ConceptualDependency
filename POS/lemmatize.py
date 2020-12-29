@@ -30,6 +30,7 @@ paragraph_id = data["paragraphID"].to_list()
 
 # lemmatize first
 lemmatizer = WordNetLemmatizer() 
+stanza.download('en')
 nlp = stanza.Pipeline(lang='en', processors='tokenize,mwt,pos,lemma')
 
 sentences = []

@@ -1,0 +1,2494 @@
+{
+    "aborbed": {
+        "synonyms": "",
+        "antonyms": ""
+    },
+    "absorb": {
+        "synonyms": "ingest, immerse, soak_up, absorb, imbibe, take_in, engage, steep, take_up, occupy, engulf, suck, plunge, assimilate, draw, suck_up, engross, sop_up, take_over",
+        "antonyms": "emit"
+    },
+    "accelerate": {
+        "synonyms": "speed, accelerate, speed_up, quicken",
+        "antonyms": "decelerate"
+    },
+    "accomplish": {
+        "synonyms": "achieve, fulfil, attain, reach, carry_through, carry_out, accomplish, action, execute, fulfill",
+        "antonyms": ""
+    },
+    "accumulate": {
+        "synonyms": "hoard, conglomerate, cumulate, compile, pile_up, gather, amass, collect, accumulate, roll_up",
+        "antonyms": ""
+    },
+    "act": {
+        "synonyms": "deed, act_as, enactment, work, act, pretend, routine, play, human_action, playact, roleplay, human_activity, bit, represent, number, turn, move, do, dissemble, behave",
+        "antonyms": "refrain"
+    },
+    "activate": {
+        "synonyms": "actuate, set_off, touch_off, spark, trip, trigger, spark_off, trigger_off, aerate, activate",
+        "antonyms": "inactivate"
+    },
+    "adapt": {
+        "synonyms": "adjust, adapt, accommodate, conform",
+        "antonyms": ""
+    },
+    "add": {
+        "synonyms": "append, sum_up, bring, MBD, add_up, impart, total, ADD, minimal_brain_dysfunction, contribute, add_together, bestow, supply, minimal_brain_damage, add, hyperkinetic_syndrome, tot, sum, lend, tote_up, tot_up, ADHD, summate, attention_deficit_hyperactivity_disorder, attention_deficit_disorder, tally",
+        "antonyms": "take_away, subtract"
+    },
+    "address": {
+        "synonyms": "computer_address, address, speech, cover, speak, treat, come_up_to, handle, call, destination, accost, plow, deal, name_and_address, savoir-faire, turn_to, reference, direct",
+        "antonyms": ""
+    },
+    "affect": {
+        "synonyms": "bear_upon, involve, touch, regard, impact, bear_on, pretend, impress, strike, move, touch_on, dissemble, feign, affect, sham",
+        "antonyms": ""
+    },
+    "aid": {
+        "synonyms": "help, care, assistance, assist, tending, financial_aid, attention, economic_aid, aid",
+        "antonyms": ""
+    },
+    "alerting": {
+        "synonyms": "alerting, alert, alarm, alertness",
+        "antonyms": ""
+    },
+    "allow": {
+        "synonyms": "reserve, appropriate, leave, permit, let, take_into_account, countenance, allow_for, admit, tolerate, provide, give_up, grant, set_aside, earmark, allow",
+        "antonyms": "deny, disallow, prevent, forbid"
+    },
+    "alternate": {
+        "synonyms": "alternating, understudy, substitute, switch, alternate, flip-flop, surrogate, tack, interchange, jump, flip, take_turns, alternative, replacement",
+        "antonyms": "opposite"
+    },
+    "alter": {
+        "synonyms": "castrate, alter, neuter, modify, change, spay, interpolate, vary, falsify",
+        "antonyms": ""
+    },
+    "amplify": {
+        "synonyms": "inflate, expand, overstate, hyperbolize, hyperbolise, blow_up, exaggerate, overdraw, magnify, amplify",
+        "antonyms": "understate"
+    },
+    "appear": {
+        "synonyms": "look, come_along, seem, come_out, appear",
+        "antonyms": "disappear"
+    },
+    "apply": {
+        "synonyms": "go_for, utilize, hold, apply, put_on, practice, give, employ, enforce, implement, lend_oneself, utilise, use",
+        "antonyms": "exempt, defy"
+    },
+    "be": {
+        "synonyms": "atomic_number_4, glucinium, beryllium, embody, personify, make_up, live, constitute, be, cost, equal, follow, exist, comprise, represent, Be",
+        "antonyms": "differ"
+    },
+    "arrive": {
+        "synonyms": "go_far, make_it, arrive, get, come, get_in",
+        "antonyms": "leave"
+    },
+    "attach": {
+        "synonyms": "bind, tie, seize, impound, confiscate, bond, sequester, attach",
+        "antonyms": "detach"
+    },
+    "attack": {
+        "synonyms": "tone-beginning, round, onslaught, onrush, attempt, assault, onset, flak, aggress, set_on, approach, blast, snipe, assail, plan_of_attack, fire, lash_out, attack, flack",
+        "antonyms": "defend"
+    },
+    "attract": {
+        "synonyms": "pull_in, attract, appeal, pull, draw, draw_in",
+        "antonyms": "repel"
+    },
+    "avoid": {
+        "synonyms": "obviate, nullify, keep_off, forefend, invalidate, avert, deflect, void, stave_off, forfend, head_off, ward_off, annul, quash, avoid, debar, fend_off",
+        "antonyms": "validate, confront"
+    },
+    "bag": {
+        "synonyms": "travelling_bag, suitcase, bagful, base, handbag, purse, pocketbook, grip, udder, pocket, old_bag, bag, bulge, traveling_bag, cup_of_tea, dish",
+        "antonyms": ""
+    },
+    "bake": {
+        "synonyms": "bake, broil",
+        "antonyms": ""
+    },
+    "baking": {
+        "synonyms": "bake, baking, broil, baking_hot",
+        "antonyms": ""
+    },
+    "balance": {
+        "synonyms": "rest, Libra_the_Scales, correspondence, equalizer, counterpoise, symmetry, balance, Balance, proportionality, residual, equilibrize, residuum, equilibrate, counterbalance, poise, remainder, Libra_the_Balance, equaliser, equilibrium, balance_wheel, symmetricalness, residue, proportion, equilibrise, counterweight, equipoise, Libra",
+        "antonyms": "unbalance, asymmetry, imbalance"
+    },
+    "base": {
+        "synonyms": "radix, foundation, home, found, base_of_operations, al-Qa'ida, lowly, Qaeda, understructure, baseborn, groundwork, mean, radical, bag, al-Qaida, cornerstone, immoral, establish, basal, stem, nucleotide, basis, ground, free-base, substructure, root_word, base, pedestal, fundament, infrastructure, theme, Base, humble, alkali, foot, al-Qaeda, stand, meanspirited, root, floor",
+        "antonyms": ""
+    },
+    "bat": {
+        "synonyms": "at-bat, clobber, flutter, cream, chiropteran, drub, lick, bat, cricket_bat, squash_racquet, thrash, squash_racket",
+        "antonyms": ""
+    },
+    "bear": {
+        "synonyms": "wear, stick_out, stomach, abide, pay, yield, gestate, comport, digest, brook, birth, put_up, give_birth, tolerate, suffer, deport, acquit, expect, accept, deliver, carry, endure, contain, turn_out, have_a_bun_in_the_oven, assume, support, hold, stand, conduct, have, bear, behave, take_over",
+        "antonyms": "bull"
+    },
+    "become": {
+        "synonyms": "become, turn, suit, get, go",
+        "antonyms": ""
+    },
+    "begin": {
+        "synonyms": "set_out, Menachem_Begin, start_out, get_down, start, lead_off, begin, set_about, commence, get, Begin",
+        "antonyms": "end"
+    },
+    "beginning": {
+        "synonyms": "get-go, origin, set_about, showtime, starting_time, set_out, first, source, kickoff, rootage, offset, commence, commencement, start, get_down, lead_off, begin, outset, beginning, root, get, start_out",
+        "antonyms": "ending, finish, middle, end"
+    },
+    "believe": {
+        "synonyms": "trust, consider, believe, think, conceive",
+        "antonyms": "disbelieve"
+    },
+    "bend": {
+        "synonyms": "twist, fold, flexure, deflect, bend, crease, bending, flex, stoop, bow, crouch, deform, Bend, crimp, plication, turn_away, bend_dexter, turn, curve, crook",
+        "antonyms": "straighten, unbend"
+    },
+    "benefit": {
+        "synonyms": "do_good, gain, profit, benefit, welfare",
+        "antonyms": ""
+    },
+    "bind": {
+        "synonyms": "hold, truss, bind, tie, stick_to, constipate, obligate, bond, oblige, stick, hold_fast, tie_down, adhere, attach, tie_up, bandage",
+        "antonyms": "untie, unbind"
+    },
+    "block": {
+        "synonyms": "stymy, freeze, impede, city_block, engine_block, pulley_block, deflect, stop, lug, blocking, block, hinder, bar, stymie, closure, close_up, draw_a_blank, stoppage, blockage, immobilise, embarrass, choke_up, stuff, pulley-block, forget, obturate, block_up, blockade, occlude, mental_block, parry, immobilize, jam, cylinder_block, auction_block, pulley, blank_out, halt, kibosh, barricade, obstruct, block_off, occlusion, cube",
+        "antonyms": "unblock, remember, unfreeze, unstuff, free"
+    },
+    "blow": {
+        "synonyms": "brag, black_eye, waste, squander, mishandle, vaunt, bollocks_up, gust, nose_candy, botch_up, fumble, swash, be_adrift, bodge, burn_out, fuck_up, bumble, botch, C, screw_up, foul_up, tout, ball_up, louse_up, float, gasconade, boast, muck_up, mess_up, spoil, fellate, gas, blow_out, bollocks, blast, shove_along, bollix, bump, shoot_a_line, bluster, bobble, reverse, snow, drift, suck, setback, shock, muff, fluff, shove_off, coke, go_down_on, reversal, blow, puff, flub, bollix_up, bungle",
+        "antonyms": "conserve"
+    },
+    "board": {
+        "synonyms": "control_panel, plank, display_panel, board, instrument_panel, display_board, add-in, dining_table, gameboard, get_on, panel, circuit_board, control_board, card, plug-in, table, circuit_card, room",
+        "antonyms": "get_off"
+    },
+    "boil": {
+        "synonyms": "furuncle, churn, moil, boiling_point, roil, seethe, boil",
+        "antonyms": "freeze"
+    },
+    "bottle": {
+        "synonyms": "nursing_bottle, bottleful, bottle, feeding_bottle",
+        "antonyms": ""
+    },
+    "bounce": {
+        "synonyms": "saltation, bounciness, spring, recoil, jounce, take_a_hop, bound, bounce, rebound, leaping, ricochet, reverberate, bouncing, leap, resile",
+        "antonyms": "clear"
+    },
+    "break": {
+        "synonyms": "give_way, founder, infract, prison-breaking, recrudesce, breach, pause, relegate, break_of_serve, offend, go_bad, let_on, falling_out, gaolbreak, unwrap, develop, divulge, severance, separate, gap, suspension, weaken, rupture, go_against, let_out, split, expose, erupt, break_off, disclose, dampen, snap_off, wear_out, rift, prisonbreak, break_dance, stop, check, bust, jailbreak, open_frame, die, smash, get_out, fail, interruption, come_apart, bring_out, bump, transgress, soften, fault, split_up, fall_apart, break, crack, bankrupt, intermission, recess, conk_out, wear, break-dance, collapse, time_out, part, burst, intermit, reveal, demote, discover, break_out, cave_in, better, violate, breakage, fracture, fall_in, get_around, happy_chance, shift, breaking, give_away, give, ruin, geological_fault, damp, breakout, respite, faulting, disruption, break_down, break_up, break_away, good_luck, interrupt, break_in, discontinue, give_out, go, kick_downstairs",
+        "antonyms": "keep, conform_to, repair, make, promote"
+    },
+    "breaking": {
+        "synonyms": "get_around, give_way, wear, founder, dampen, snap_off, infract, break_dance, wear_out, stop, recrudesce, breach, pause, check, relegate, breaking, bust, give_away, break-dance, offend, go_bad, give, die, collapse, ruin, smash, get_out, let_on, fail, part, come_apart, burst, unwrap, damp, develop, crack, divulge, fracture, intermit, bring_out, separate, bump, break_down, break_up, transgress, soften, reveal, break_away, demote, weaken, discover, split_up, interrupt, fall_apart, go_against, break_out, break, break_in, let_out, cave_in, discontinue, go, split, bankrupt, expose, erupt, violate, breakage, better, give_out, break_off, fall_in, disclose, kick_downstairs, conk_out",
+        "antonyms": "keep, conform_to, repair, make, promote"
+    },
+    "breathe": {
+        "synonyms": "rest, catch_one's_breath, pass_off, emit, respire, take_a_breath, suspire, breathe, take_a_breather",
+        "antonyms": ""
+    },
+    "breed": {
+        "synonyms": "spawn, cover, engender, strain, stock, breed, multiply",
+        "antonyms": ""
+    },
+    "bring": {
+        "synonyms": "add, work, institute, contribute, convey, bring_in, fetch, bestow, play, bring, lend, make_for, impart, get, land, wreak, take",
+        "antonyms": "take_away"
+    },
+    "broken": {
+        "synonyms": "give_way, founder, infract, recrudesce, breach, pause, relegate, humbled, offend, go_bad, let_on, unwrap, develop, divulge, separate, weaken, go_against, let_out, split, expose, erupt, break_off, disclose, dampen, snap_off, wear_out, break_dance, upset, stop, check, impoverished, unkept, bust, low, humiliated, die, smash, busted, get_out, fail, broken, come_apart, bring_out, bump, transgress, soften, split_up, fall_apart, break, crack, bankrupt, wiped_out, conk_out, wear, break-dance, collapse, part, burst, intermit, confused, reveal, demote, discover, break_out, cave_in, better, violate, fracture, fall_in, get_around, give_away, give, ruin, damp, rugged, break_down, break_up, break_away, crushed, interrupt, break_in, discontinue, give_out, broken_in, disordered, go, kick_downstairs",
+        "antonyms": "unbroken, keep, conform_to, repair, make, promote"
+    },
+    "brush": {
+        "synonyms": "brushing, light_touch, thicket, brush, clash, coppice, copse, skirmish, brushwood, sweep, encounter",
+        "antonyms": ""
+    },
+    "bubble": {
+        "synonyms": "gurgle, burble, guggle, babble, burp, eruct, bubble, ripple, house_of_cards, belch",
+        "antonyms": ""
+    },
+    "build": {
+        "synonyms": "body-build, progress, anatomy, frame, bod, flesh, work_up, build_up, figure, physical_body, physique, chassis, establish, build, human_body, soma, habitus, ramp_up, material_body, form, shape, make, construct",
+        "antonyms": ""
+    },
+    "bump": {
+        "synonyms": "protuberance, jut, swelling, dislodge, happen, relegate, chance, hump, gibbousness, prominence, bump, bulge, extrusion, demote, find, excrescence, break, knock, blow, gibbosity, protrusion, encounter, kick_downstairs",
+        "antonyms": "promote"
+    },
+    "bury": {
+        "synonyms": "inter, eat_up, sink, immerse, forget, lay_to_rest, swallow_up, entomb, swallow, inhume, bury",
+        "antonyms": "remember"
+    },
+    "burn": {
+        "synonyms": "burn_mark, sunburn, burn_off, incinerate, cauterise, cauterize, bite, cut, burning, fire, burn_up, glow, sting, burn, burn_down, suntan, combust, tan",
+        "antonyms": ""
+    },
+    "burst": {
+        "synonyms": "burst, abound, flare-up, collapse, break, outburst, explode, volley, fit, explosion, split, salvo, break_open, erupt, bristle, fusillade, bust",
+        "antonyms": "implode"
+    },
+    "call": {
+        "synonyms": "birdsong, call, foretell, visit, ring, yell, send_for, outcry, call_option, Call, vociferation, forebode, anticipate, call_off, predict, cry, holler, call_up, prognosticate, birdcall, call_in, phone, address, telephone_call, phone_call, shout, name, telephone, song, bid, hollo, scream, claim, promise, margin_call, squall, shout_out",
+        "antonyms": "put_option"
+    },
+    "come": {
+        "synonyms": "issue_forth, derive, add_up, follow, hail, seed, occur, total, come_up, seminal_fluid, get_along, descend, make_out, fall, amount, cum, come_in, arrive, come, number, semen, fare, ejaculate, do, get",
+        "antonyms": "leave, go"
+    },
+    "capture": {
+        "synonyms": "catch, entrance, capture, fascinate, seize, gaining_control, enamour, becharm, trance, appropriate, seizure, charm, captivate, enchant, conquer, beguile, bewitch, enamor, get",
+        "antonyms": ""
+    },
+    "carry": {
+        "synonyms": "express, gestate, comport, impart, persuade, transport, deport, channel, stock, sway, transmit, acquit, expect, carry, contain, post, dribble, run, have_a_bun_in_the_oven, pack, stockpile, take, hold, convey, conduct, extend, bear, behave",
+        "antonyms": ""
+    },
+    "carve": {
+        "synonyms": "cut_up, chip_at, carve",
+        "antonyms": ""
+    },
+    "catch": {
+        "synonyms": "take_hold_of, view, stop, grab, catch, haul, entrance, capture, fascinate, take_in, see, collar, enamour, overhear, becharm, match, trance, watch, apprehension, gimmick, snatch, charm, captivate, snap, enchant, pick_up, beguile, arrest, bewitch, hitch, pinch, catch_up_with, enamor, overtake, taking_into_custody, trip_up, get",
+        "antonyms": "unhitch"
+    },
+    "cause": {
+        "synonyms": "movement, stimulate, case, induce, causal_agency, campaign, suit, drive, effort, crusade, grounds, causal_agent, reason, lawsuit, cause, have, causa, do, get, make",
+        "antonyms": ""
+    },
+    "cease": {
+        "synonyms": "terminate, quit, finish, stop, discontinue, end, give_up, lay_off, cease",
+        "antonyms": "continue, begin"
+    },
+    "centralize": {
+        "synonyms": "concentrate, centralise, centralize",
+        "antonyms": "decentralise, decentralize, deconcentrate"
+    },
+    "change": {
+        "synonyms": "commute, deepen, variety, alter, switch, alteration, change, modify, transfer, modification, exchange, convert, interchange, vary, shift",
+        "antonyms": "stay"
+    },
+    "changing": {
+        "synonyms": "commute, deepen, ever-changing, alter, changing, switch, modify, change, transfer, exchange, convert, interchange, vary, shift",
+        "antonyms": "stay"
+    },
+    "channel": {
+        "synonyms": "television_channel, distribution_channel, communication_channel, transmission_channel, duct, transfer, impart, groove, epithelial_duct, transport, canalise, channel, transmit, carry, canalize, TV_channel, convey, line, conduct, canal, channelise, channelize",
+        "antonyms": ""
+    },
+    "charge": {
+        "synonyms": "agitate, consign, boot, accusation, institutionalize, bursting_charge, shoot, commove, bang, charge_up, bill, rush, accuse, buck, bearing, appoint, commit, level, heraldic_bearing, commission, bear_down, excite, burster, blame, tutelage, send, shoot_down, complaint, guardianship, thrill, kick, armorial_bearing, explosive_charge, institutionalise, burden, flush, point, load, mission, billing, rouse, care, file, lodge, cathexis, turn_on, saddle, charge, electric_charge, tear, direction",
+        "antonyms": "calm, pay_cash, discharge"
+    },
+    "check": {
+        "synonyms": "go_over, cheque, checkout, assure, moderate, check_into, balk, gibe, discipline, hindrance, stop, chip, agree, chit, check, ascertain, substantiation, mark, look_into, bridle, see, retard, mark_off, see_to_it, suss_out, baulk, tick_off, insure, check_over, deterrent, tally, assay, match, checker, chequer, stoppage, hold_in, determine, watch, check_off, delay, contain, check_mark, curb, bank_check, control, stay, condition, jibe, tick, check_up_on, tab, hold_back, chink, find_out, check-out_procedure, check_out, hold, hinderance, learn, handicap, impediment, arrest, correspond, break, ensure, crack, hitch, halt, verification, fit, train, turn_back, confirmation",
+        "antonyms": "disagree"
+    },
+    "chew": {
+        "synonyms": "plug, jaw, cud, masticate, chew, manducate, mastication, manduction, wad, quid, chaw, chewing",
+        "antonyms": ""
+    },
+    "chewing": {
+        "synonyms": "jaw, masticate, chew, manducate, mastication, manduction, chewing",
+        "antonyms": ""
+    },
+    "choose": {
+        "synonyms": "opt, prefer, pick_out, choose, select, take",
+        "antonyms": ""
+    },
+    "churn": {
+        "synonyms": "churn, butter_churn, moil, roil, boil",
+        "antonyms": ""
+    },
+    "circulate": {
+        "synonyms": "pass_on, circularise, disseminate, propagate, circularize, circle, mobilize, distribute, go_around, spread, circulate, diffuse, mobilise, pass_around, disperse, broadcast",
+        "antonyms": ""
+    },
+    "classify": {
+        "synonyms": "sort_out, sort, class, assort, separate, relegate, classify",
+        "antonyms": "declassify"
+    },
+    "clean": {
+        "synonyms": "clean, fairly, plum, blank, plumb, sportsmanlike, clean_and_jerk, clean-living, make_clean, houseclean, pick, neat, scavenge, fair, white, unobjectionable, sporting, clear, clean_house, cleanse, uncontaminating, strip, uninfected, fresh, sporty, light, unclouded",
+        "antonyms": "unfairly, dirty, unclean"
+    },
+    "close": {
+        "synonyms": "stopping_point, closing, penny-pinching, fold, stuffy, faithful, confining, cheeseparing, conclude, closemouthed, secretive, unaired, close_up, near, nigh, ending, skinny, shut_down, closely, close, closelipped, tightlipped, closing_curtain, airless, last, shut, come_together, finale, fill_up, close_down, finish, conclusion, finis, tight, close-fitting, snug, end",
+        "antonyms": "far, distant, open"
+    },
+    "cloud": {
+        "synonyms": "dapple, becloud, corrupt, taint, overcast, mottle, obnubilate, haze_over, mist, defile, cloud, swarm, fog, obscure, befog, sully",
+        "antonyms": "clear_up"
+    },
+    "collapse": {
+        "synonyms": "give_way, founder, crack_up, tumble, crash, prostration, crock_up, give, collapse, burst, break_down, break_up, flop, break, crack, cave_in, crumble, crumple, fall_in",
+        "antonyms": ""
+    },
+    "collapsing": {
+        "synonyms": "give_way, burst, founder, crock_up, give, collapse, crack_up, break, crack, cave_in, crumble, crumple, tumble, break_down, break_up, fall_in",
+        "antonyms": ""
+    },
+    "collect": {
+        "synonyms": "take_in, garner, gather_up, hoard, cod, pull_together, pull_in, compile, pile_up, call_for, gather, amass, collect, accumulate, pick_up, roll_up",
+        "antonyms": "spread"
+    },
+    "collide": {
+        "synonyms": "jar, collide, clash",
+        "antonyms": ""
+    },
+    "combine": {
+        "synonyms": "corporate_trust, conflate, flux, combine, immix, coalesce, cartel, trust, unite, aggregate, blend, merge, fuse, mix, compound, combining, meld, commingle",
+        "antonyms": ""
+    },
+    "compact": {
+        "synonyms": "contract, covenant, succinct, pack_together, bundle, powder_compact, stocky, constrict, summary, wad, press, compendious, compact, heavyset, compress, pack, compact_car, thickset, squeeze, thick, concordat",
+        "antonyms": "loose, decompress"
+    },
+    "compacting": {
+        "synonyms": "bundle, contract, constrict, wad, squeeze, compress, press, pack, pack_together, compact",
+        "antonyms": "decompress"
+    },
+    "complete": {
+        "synonyms": "complete, concluded, over, dispatch, discharge, nail, fill_out, fill_in, ended, everlasting, terminated, make_out, thoroughgoing, consummate, perfect, stark, gross, accomplished, sodding, staring, pure, finish, unadulterated, all_over, utter, double-dyed, arrant",
+        "antonyms": "incomplete"
+    },
+    "compose": {
+        "synonyms": "write, pen, draw_up, compile, frame, compose, indite",
+        "antonyms": ""
+    },
+    "compress": {
+        "synonyms": "contract, constrict, squeeze, compress, press, pack_together, compact",
+        "antonyms": "decompress"
+    },
+    "compressing": {
+        "synonyms": "contract, compressing, constrict, squeeze, compress, press, pack_together, compact, compression",
+        "antonyms": "decompression, decompress"
+    },
+    "comprise": {
+        "synonyms": "incorporate, make_up, constitute, contain, be, comprise, represent, consist",
+        "antonyms": ""
+    },
+    "concern": {
+        "synonyms": "business_concern, bear_on, concern, business_organization, interest, business, business_organisation, touch_on, come_to, headache, worry, touch, vexation, fear, refer, occupy, have-to_doe_with, relate, care, pertain",
+        "antonyms": "unconcern"
+    },
+    "condense": {
+        "synonyms": "contract, distil, condense, digest, concentrate, distill",
+        "antonyms": ""
+    },
+    "conduct": {
+        "synonyms": "comport, demeanor, impart, direct, behavior, deportment, behaviour, doings, deport, channel, transmit, acquit, lead, guide, demeanour, carry, deal, take, convey, conduct, bear, behave, carry_on",
+        "antonyms": ""
+    },
+    "connect": {
+        "synonyms": "plug_in, relate, connect, link_up, tie, associate, tie_in, colligate, join, unite, get_in_touch, touch_base, link, plug_into",
+        "antonyms": "disconnect, unplug, dissociate"
+    },
+    "connecting": {
+        "synonyms": "plug_in, relate, connect, link_up, tie, associate, tie_in, colligate, join, unite, get_in_touch, touch_base, link, plug_into",
+        "antonyms": "disconnect, unplug, dissociate"
+    },
+    "conserve": {
+        "synonyms": "preserve, husband, maintain, conserve, preserves, keep_up, economize, conserves, economise",
+        "antonyms": "waste"
+    },
+    "consider": {
+        "synonyms": "study, see, regard, look_at, count, debate, weigh, consider, deal, reckon, moot, think, turn_over, view, believe, deliberate, conceive, take",
+        "antonyms": ""
+    },
+    "consume": {
+        "synonyms": "take_in, run_through, eat_up, waste, squander, ingest, have, devour, consume, exhaust, down, go_through, use_up, deplete, wipe_out, eat, ware, take",
+        "antonyms": "abstain"
+    },
+    "contain": {
+        "synonyms": "hold, incorporate, carry, moderate, contain, curb, control, arrest, stop, turn_back, bear, comprise, take, check, hold_back, hold_in",
+        "antonyms": ""
+    },
+    "continue": {
+        "synonyms": "uphold, preserve, cover, go_along, bear_on, stay_on, proceed, continue, retain, keep, stay, extend, go_on, go_forward, persist_in, remain, keep_on, carry_on",
+        "antonyms": "discontinue"
+    },
+    "contract": {
+        "synonyms": "contract, reduce, shorten, abbreviate, contract_bridge, sign_up, constrict, press, concentrate, declaration, cut, compact, shrink, undertake, sign, abridge, condense, compress, narrow, sign_on, foreshorten, take, squeeze, get",
+        "antonyms": "expand, widen, stretch"
+    },
+    "control": {
+        "synonyms": "ascendancy, assure, moderate, control_condition, command, manipulate, operate, check, ascertain, see, see_to_it, mastery, insure, ascendence, hold_in, ascendency, verify, ascendance, contain, control, curb, dominance, master, hold, controller, keep_in_line, ensure, restraint",
+        "antonyms": "unrestraint"
+    },
+    "converge": {
+        "synonyms": "converge, meet",
+        "antonyms": "diverge"
+    },
+    "convert": {
+        "synonyms": "commute, convince, change_over, change, exchange, convert, win_over",
+        "antonyms": ""
+    },
+    "converted": {
+        "synonyms": "commute, convince, change_over, reborn, converted, change, exchange, born-again, convert, win_over",
+        "antonyms": ""
+    },
+    "cook": {
+        "synonyms": "Captain_James_Cook, Captain_Cook, prepare, fudge, manipulate, ready, cook, Cook, James_Cook, wangle, fix, misrepresent, make, fake, falsify",
+        "antonyms": ""
+    },
+    "cool": {
+        "synonyms": "nerveless, sang-froid, aplomb, coolheaded, cool_off, poise, cool_down, cool, assuredness, chill",
+        "antonyms": "heat, warm"
+    },
+    "copy": {
+        "synonyms": "transcript, imitate, copy, re-create, replicate, written_matter, simulate",
+        "antonyms": ""
+    },
+    "cover": {
+        "synonyms": "track, top, blanket, report, plow, cover_version, cover_charge, shroud, wrap_up, encompass, natural_covering, underwrite, concealment, enshroud, handle, traverse, cover_song, embrace, insure, overcompensate, pass_over, compensate, breed, cover, address, cover_up, treat, screening, cross, covering_fire, masking, book_binding, deal, get_across, incubate, back, screen, hide, covert, overlay, continue, covering, cut_through, extend, binding, spread_over, comprehend, get_over, cut_across, brood, hatch",
+        "antonyms": "uncover"
+    },
+    "crack": {
+        "synonyms": "cracking, fling, tornado, cleft, cranny, crack_up, fissure, check, chap, crevice, wisecrack, whirl, quip, crock_up, collapse, ace, sally, first-rate, tops, shot, pass, tiptop, break_up, topnotch, snap, break_through, gap, A-one, scissure, offer, break, crack, super, crack_cocaine, top-notch, fracture, go",
+        "antonyms": ""
+    },
+    "crash": {
+        "synonyms": "clank, clangor, gate-crash, crash, go_down, dash, doss, clangoring, collapse, smash, clangour, wreck, clash, break_apart, break_up, clang, ram, doss_down, barge_in",
+        "antonyms": ""
+    },
+    "create": {
+        "synonyms": "create, make, produce",
+        "antonyms": ""
+    },
+    "crumble": {
+        "synonyms": "fall_apart, collapse, crumple, tumble, crumble, break_down, decay, dilapidate",
+        "antonyms": ""
+    },
+    "crumple": {
+        "synonyms": "cockle, collapse, crumple, tumble, crumble, knit, break_down, buckle, wrinkle, crease, rumple, pucker, crinkle",
+        "antonyms": ""
+    },
+    "crush": {
+        "synonyms": "oppress, infatuation, vanquish, mash, trounce, crushed_leather, smash, press, crunch, beat_out, squelch, calf_love, break_down, suppress, compaction, beat, squash, crush, squeeze, shell, demolish, jam, puppy_love",
+        "antonyms": ""
+    },
+    "crystalize": {
+        "synonyms": "sort_out, crystallise, enlighten, crystalise, elucidate, straighten_out, clear, shed_light_on, effloresce, crystalize, illuminate, clear_up, crystallize",
+        "antonyms": ""
+    },
+    "crystallize": {
+        "synonyms": "sort_out, crystallise, enlighten, crystalise, elucidate, straighten_out, clear, shed_light_on, effloresce, crystalize, illuminate, clear_up, crystallize",
+        "antonyms": ""
+    },
+    "cut": {
+        "synonyms": "track, thinned, slice, contract, trim_down, thin, geld, slashed, prune, cut_down, thin_out, dilute, reduce, cut_off, trend, trim_back, abbreviate, shorten, snub, hack, issue, shortened, slash, emasculated, trim, veer, mown, swerve, cut_of_meat, cutting_off, write_out, disregard, turn_off, weakened, sheer, burn, cut, gash, rationalise, make_out, skip, cutting, switch_off, abridge, slew, turn_out, rationalize, trimmed, gelded, baseball_swing, undercut, bring_down, foreshorten, deletion, tailor, edit_out, slue, swing, stinger, curve, ignore, cut_back, cold_shoulder, excision, edit",
+        "antonyms": "expand, untrimmed, uncut, switch_on, unmown"
+    },
+    "damage": {
+        "synonyms": "equipment_casualty, impairment, hurt, harm, wrong, legal_injury, scathe, terms, damage, price",
+        "antonyms": ""
+    },
+    "decay": {
+        "synonyms": "decline, disintegrate, radioactive_decay, crumble, disintegration, decay, decompose, decomposition, dilapidate",
+        "antonyms": ""
+    },
+    "decaying": {
+        "synonyms": "disintegrate, crumble, decay, decompose, dilapidate",
+        "antonyms": ""
+    },
+    "decide": {
+        "synonyms": "resolve, adjudicate, make_up_one's_mind, settle, decide, determine",
+        "antonyms": ""
+    },
+    "decline": {
+        "synonyms": "decline, refuse, descent, reject, turn_down, fall, wane, worsen, correct, pass_up, declivity, declination, decay, downslope, diminution, go_down, declension, slump",
+        "antonyms": "ascent, accept, improvement, better"
+    },
+    "decode": {
+        "synonyms": "decipher, decrypt, decode",
+        "antonyms": "encode"
+    },
+    "decompose": {
+        "synonyms": "disintegrate, molder, decay, break_down, break_up, decompose, moulder, rot",
+        "antonyms": ""
+    },
+    "decrease": {
+        "synonyms": "drop-off, minify, fall, lessening, decrement, diminish, reduction, diminution, decrease, step-down, lessen",
+        "antonyms": "increase, increment"
+    },
+    "deepening": {
+        "synonyms": "intensify, heighten, change, thickening, compound, deepening, deepen",
+        "antonyms": ""
+    },
+    "defecate": {
+        "synonyms": "take_a_shit, take_a_crap, defecate, crap, make, shit, ca-ca, stool",
+        "antonyms": ""
+    },
+    "defecated": {
+        "synonyms": "take_a_shit, take_a_crap, defecate, crap, make, shit, ca-ca, stool",
+        "antonyms": ""
+    },
+    "define": {
+        "synonyms": "set, delimitate, define, limit, fix, specify, determine, delineate, delimit",
+        "antonyms": ""
+    },
+    "deliver": {
+        "synonyms": "fork_out, fork_up, cede, rescue, fork_over, return, save, present, birth, deport, hand_over, give_birth, redeem, give_up, drive_home, pitch, deliver, surrender, render, have, turn_in, extradite, bear",
+        "antonyms": ""
+    },
+    "deoxygenate": {
+        "synonyms": "deoxygenate",
+        "antonyms": ""
+    },
+    "depend": {
+        "synonyms": "look, depend, calculate, count, bet, reckon",
+        "antonyms": ""
+    },
+    "deplete": {
+        "synonyms": "run_through, eat_up, consume, exhaust, use_up, deplete, eat, wipe_out",
+        "antonyms": ""
+    },
+    "deposit": {
+        "synonyms": "situate, alluviation, depository, posit, sedimentation, bank, sediment, deposition, wedge, lodge, stick, fix, repository, bank_deposit, deposit, depositary, down_payment",
+        "antonyms": "withdraw, dislodge"
+    },
+    "describe": {
+        "synonyms": "account, trace, discover, line, report, identify, draw, name, distinguish, key_out, depict, delineate, describe, key",
+        "antonyms": ""
+    },
+    "design": {
+        "synonyms": "plan, blueprint, design, aim, purpose, intention, conception, project, contrive, designing, pattern, intent, invention, excogitation, innovation, figure",
+        "antonyms": ""
+    },
+    "desire": {
+        "synonyms": "desire, trust, hope, want",
+        "antonyms": ""
+    },
+    "destroy": {
+        "synonyms": "destruct, ruin, put_down, destroy, demolish",
+        "antonyms": ""
+    },
+    "detect": {
+        "synonyms": "discover, notice, detect, observe, find",
+        "antonyms": ""
+    },
+    "determine": {
+        "synonyms": "regulate, make_up_one's_mind, check, ascertain, decide, see, mold, limit, specify, determine, watch, influence, define, settle, square_off, find, find_out, set, learn, fix, square_up, shape",
+        "antonyms": ""
+    },
+    "determined": {
+        "synonyms": "regulate, make_up_one's_mind, driven, check, ascertain, decide, dictated, see, mold, limit, specify, determine, watch, influence, define, compulsive, settle, square_off, find, find_out, set, learn, fix, square_up, determined, shape",
+        "antonyms": "undetermined"
+    },
+    "develop": {
+        "synonyms": "rise, acquire, arise, modernize, make_grow, recrudesce, build_up, originate, grow, produce, educate, develop, germinate, evolve, spring_up, prepare, uprise, explicate, modernise, break, formulate, train, get",
+        "antonyms": ""
+    },
+    "die": {
+        "synonyms": "choke, give_way, pall, snuff_it, drop_dead, dice, go_bad, die, pop_off, kick_the_bucket, pass_away, fail, die_out, pass, buy_the_farm, break_down, cash_in_one's_chips, croak, perish, expire, decease, break, become_flat, conk, exit, give_out, give-up_the_ghost, go, conk_out",
+        "antonyms": "be_born"
+    },
+    "diffuse": {
+        "synonyms": "propagate, pervade, circulate, permeate, circularise, diffused, interpenetrate, diffuse, penetrate, imbue, disseminate, circularize, soft, riddle, spread_out, distribute, spread, fan_out, pass_around, disperse, broadcast",
+        "antonyms": "hard"
+    },
+    "dig": {
+        "synonyms": "poke, dig_up, gibe, grind, jab, labour, apprehend, turn_over, get_the_picture, shaft, drudge, toil, fag, grok, prod, stab, dig, delve, excavate, shot, slam, moil, archeological_site, hollow, jibe, dig_out, travail, savvy, excavation, compass, barb, cut_into, grasp, digging, comprehend, labor",
+        "antonyms": ""
+    },
+    "digest": {
+        "synonyms": "brook, support, stand, endure, stomach, stick_out, abide, put_up, tolerate, suffer, concentrate, condense, bear, digest, compilation",
+        "antonyms": ""
+    },
+    "dilate": {
+        "synonyms": "lucubrate, dilate, exposit, expand, expound, distend, flesh_out, enlarge, expatiate, elaborate",
+        "antonyms": "contract"
+    },
+    "direct": {
+        "synonyms": "lineal, place, mastermind, unmediated, direct, manoeuver, take_aim, organise, organize, lead, guide, address, head, verbatim, calculate, send, engineer, maneuver, take, point, orchestrate, steer, conduct, directly, target, channelise, train, straight, manoeuvre, aim, channelize",
+        "antonyms": "alternating, retrograde, inverse, indirect, collateral"
+    },
+    "disappear": {
+        "synonyms": "vanish, disappear, melt, evaporate, go_away",
+        "antonyms": "appear"
+    },
+    "disburse": {
+        "synonyms": "pay_out, disburse",
+        "antonyms": ""
+    },
+    "discover": {
+        "synonyms": "chance_on, hear, attain, get_word, key_out, describe, give_away, notice, see, come_upon, distinguish, chance_upon, let_on, come_across, light_upon, unwrap, divulge, bring_out, identify, name, detect, reveal, pick_up, find, find_out, happen_upon, key, discover, fall_upon, get_wind, learn, strike, break, let_out, expose, observe, disclose, get_a_line",
+        "antonyms": ""
+    },
+    "disintegrate": {
+        "synonyms": "decay, decompose, disintegrate",
+        "antonyms": "integrate"
+    },
+    "disperse": {
+        "synonyms": "propagate, dispel, circulate, circularise, dissipate, diffuse, disseminate, circularize, break_up, dot, spread_out, dust, distribute, spread, pass_around, disperse, sprinkle, scatter, broadcast",
+        "antonyms": ""
+    },
+    "dissipate": {
+        "synonyms": "fritter, dissipate, dispel, fritter_away, fool_away, break_up, fool, shoot, frivol_away, disperse, scatter, spread_out",
+        "antonyms": ""
+    },
+    "dissolve": {
+        "synonyms": "resolve, dissolve, unfreeze, dismiss, unthaw, melt, disband, fade_out, break_up, thaw, dethaw, fade_away",
+        "antonyms": ""
+    },
+    "distribute": {
+        "synonyms": "propagate, circulate, pass_out, circularise, deal_out, diffuse, allot, administer, hand_out, dish_out, disseminate, circularize, stagger, deal, pass_on, parcel_out, distribute, mete_out, shell_out, spread, dole_out, lot, give_out, pass_around, disperse, broadcast, dispense",
+        "antonyms": "gather"
+    },
+    "divide": {
+        "synonyms": "part, water_parting, split_up, separate, fraction, split, divide, dissever, disunite, watershed, carve_up",
+        "antonyms": "unite, multiply"
+    },
+    "do": {
+        "synonyms": "manage, practise, practice, act, coif, answer, coiffure, exercise, brawl, get_along, doh, make_out, suffice, ut, dress, perform, execute, Doctor_of_Osteopathy, come, serve, arrange, set, cause, fare, do, coiffe, bash, behave, DO, make",
+        "antonyms": "unmake"
+    },
+    "dock": {
+        "synonyms": "wharfage, bobtail, bob, dock, sour_grass, dockage, tail, wharf, sorrel, docking_facility, pier, loading_dock",
+        "antonyms": "undock"
+    },
+    "dope": {
+        "synonyms": "weed, smoke, locoweed, poop, skunk, sens, the_skinny, pot, Mary_Jane, gage, dope_up, sess, low-down, grass, cola, dumbbell, dummy, dope, booby, boob, green_goddess, pinhead",
+        "antonyms": ""
+    },
+    "drain": {
+        "synonyms": "enfeeble, waste_pipe, drain, drainpipe, drainage, run_out, debilitate",
+        "antonyms": ""
+    },
+    "drank": {
+        "synonyms": "booze, toast, wassail, salute, drink, tope, pledge, drink_in, fuddle, imbibe",
+        "antonyms": ""
+    },
+    "draw": {
+        "synonyms": "withdraw, trace, standoff, depict, string, pull_in, soak_up, attract, pull, absorb, thread, haul, draw_in, describe, imbibe, take_in, draw_poker, cast, pull_out, drag, drawing_card, attraction, get_out, haulage, guide, take_out, draw_and_quarter, take_up, eviscerate, attracter, hook, pass, attractor, run, sop_up, quarter, suck, line, tie, pull_back, reap, disembowel, draw, suck_up, lot, hooking, draw_play, puff, draw_off, get, make, delineate, force",
+        "antonyms": "push, deposit, repel"
+    },
+    "drift": {
+        "synonyms": "movement, roam, gallery, swan, roll, ramble, trend, be_adrift, vagabond, impulsion, err, float, tramp, freewheel, range, heading, stray, drift, purport, wander, blow, rove, cast, impetus",
+        "antonyms": ""
+    },
+    "drink": {
+        "synonyms": "deglutition, swallow, toast, imbibe, salute, drunkenness, pledge, drink_in, boozing, booze, beverage, drink, drinkable, tope, fuddle, crapulence, drinking, wassail, potable",
+        "antonyms": ""
+    },
+    "drinking": {
+        "synonyms": "imbibing, booze, toast, crapulence, drinking, wassail, salute, fuddle, drink, tope, drunkenness, pledge, drink_in, boozing, imbibition, imbibe",
+        "antonyms": ""
+    },
+    "drip": {
+        "synonyms": "drip, drip_mold, dribble, drip_mould, dripping, drop, trickle",
+        "antonyms": ""
+    },
+    "drive": {
+        "synonyms": "thrust, movement, repel, labour, push, campaign, push_back, drive, repulse, force_back, driving, effort, crusade, parkway, driving_force, labor, driveway, ram, tug, take, motor, private_road, cause, beat_back, ride, get, aim, force",
+        "antonyms": "attract"
+    },
+    "driving": {
+        "synonyms": "repel, labour, push, push_back, drive, repulse, impulsive, force_back, driving, ram, tug, force, take, motor, beat_back, ride, get, aim, labor",
+        "antonyms": "attract"
+    },
+    "drop": {
+        "synonyms": "drip, set_down, cut_down, devolve, put_down, dangle, spend, knock_off, omit, throw, drop, dip, overlook, discharge, sink, cliff, bead, flatten, pretermit, strike_down, miss, expend, throw_off, drop_cloth, shed, dismiss, fall, send_packing, unload, send_away, dribble, deteriorate, free_fall, drop_curtain, drib, fell, shake_off, throw_away, leave_out, overleap, drop_off, drop-off, pearl, neglect, drop_down, swing, cast_off, cast, driblet, degenerate",
+        "antonyms": "attend_to, recuperate, sharpen"
+    },
+    "droplet": {
+        "synonyms": "droplet",
+        "antonyms": ""
+    },
+    "dry": {
+        "synonyms": "ironic, wry, juiceless, dry_out, ironical, prohibitionist, dry, teetotal",
+        "antonyms": "sweet, phlegmy, wet"
+    },
+    "dub": {
+        "synonyms": "dub, knight, nickname",
+        "antonyms": ""
+    },
+    "dug": {
+        "synonyms": "poke, dig_up, grind, jab, labour, apprehend, turn_over, get_the_picture, drudge, toil, fag, grok, prod, stab, delve, dig, excavate, moil, hollow, dig_out, travail, savvy, compass, dug, cut_into, grasp, comprehend, labor",
+        "antonyms": ""
+    },
+    "dump": {
+        "synonyms": "wasteyard, dump, plunge, coldcock, garbage_dump, waste-yard, deck, underprice, rubbish_dump, dumpsite, knock_down, ditch, shit, trash_dump, floor",
+        "antonyms": ""
+    },
+    "eat": {
+        "synonyms": "run_through, rust, eat_up, consume, exhaust, feed, use_up, deplete, eat, corrode, wipe_out, eat_on",
+        "antonyms": ""
+    },
+    "eating": {
+        "synonyms": "run_through, rust, eat_up, consume, exhaust, feed, use_up, deplete, feeding, eat, corrode, wipe_out, eating, eat_on",
+        "antonyms": ""
+    },
+    "echo": {
+        "synonyms": "resound, reverberation, recall, echo, Echo, repeat, sound_reflection, ring, reverberate, replication",
+        "antonyms": ""
+    },
+    "eject": {
+        "synonyms": "exclude, eject, expel, squeeze_out, chuck_out, turn_out, exhaust, force_out, squirt, turf_out, boot_out, release, discharge",
+        "antonyms": ""
+    },
+    "eliminate": {
+        "synonyms": "obviate, reject, rule_out, pass, extinguish, winnow_out, do_away_with, annihilate, eliminate, get_rid_of, eradicate, egest, rid_of, decimate, excrete, wipe_out, carry_off",
+        "antonyms": "necessitate"
+    },
+    "emerge": {
+        "synonyms": "egress, come_forth, come_out, go_forth, emerge, issue",
+        "antonyms": ""
+    },
+    "emit": {
+        "synonyms": "give_off, emit, utter, let_out, give_out, pass_off, breathe, let_loose",
+        "antonyms": "absorb"
+    },
+    "empty": {
+        "synonyms": "evacuate, void, vacate, hollow, vacuous, abandon, empty-bellied, empty, discharge",
+        "antonyms": "fill, full"
+    },
+    "enable": {
+        "synonyms": "enable",
+        "antonyms": "disable"
+    },
+    "encase": {
+        "synonyms": "incase, encase, case",
+        "antonyms": ""
+    },
+    "encode": {
+        "synonyms": "encode",
+        "antonyms": "decode"
+    },
+    "encounter": {
+        "synonyms": "skirmish, receive, happen, run_across, chance, see, brush, take_on, meet, play, meeting, confrontation, come_across, face-off, clash, bump, showdown, find, coming_upon, run_into, encounter",
+        "antonyms": ""
+    },
+    "end": {
+        "synonyms": "remnant, remainder, last, closing, final_stage, goal, ending, destruction, death, terminate, conclusion, oddment, finish, stop, end, close, cease, terminal",
+        "antonyms": "begin, beginning"
+    },
+    "energize": {
+        "synonyms": "brace, perk_up, stimulate, energize, arouse, excite, energise",
+        "antonyms": "sedate, de-energise, de-energize"
+    },
+    "engage": {
+        "synonyms": "affiance, absorb, operate, mesh, enlist, plight, engage, wage, betroth, employ, pursue, occupy, lock, take, lease, prosecute, hire, charter, engross, rent",
+        "antonyms": "fire, disengage"
+    },
+    "enjoy": {
+        "synonyms": "enjoy, bask, savour, love, revel, relish, delight, savor",
+        "antonyms": "suffer"
+    },
+    "enrich": {
+        "synonyms": "enrich",
+        "antonyms": "deprive, impoverish"
+    },
+    "ensure": {
+        "synonyms": "assure, see, see_to_it, control, ensure, secure, insure, guarantee, check, ascertain",
+        "antonyms": ""
+    },
+    "enter": {
+        "synonyms": "infix, participate, get_into, put_down, embark, figure, enter, go_into, enroll, insert, enrol, recruit, record, come_in, inscribe, go_in, accede, introduce, move_into, get_in",
+        "antonyms": "exit, drop_out"
+    },
+    "entrain": {
+        "synonyms": "entrain",
+        "antonyms": ""
+    },
+    "erode": {
+        "synonyms": "wear_away, gnaw, eat_at, eat_away, gnaw_at, erode, fret",
+        "antonyms": ""
+    },
+    "erupt": {
+        "synonyms": "ignite, come_out, recrudesce, conflagrate, belch, take_fire, push_through, extravasate, irrupt, burst, burst_out, break_open, break_through, combust, catch_fire, break_out, break, flare, erupt, flare_up",
+        "antonyms": ""
+    },
+    "escape": {
+        "synonyms": "dodging, hightail_it, get_off, take_to_the_woods, leakage, outflow, elude, miss, get_out, get_away, turn_tail, escape, escape_valve, escape_cock, escapism, lam, flight, run, bunk, break_away, head_for_the_hills, fly_the_coop, scat, relief_valve, evasion, scarper, leak, break_loose, run_away, safety_valve, get_by",
+        "antonyms": ""
+    },
+    "evaporate": {
+        "synonyms": "vaporize, vaporise, disappear, melt, evaporate",
+        "antonyms": ""
+    },
+    "evaporating": {
+        "synonyms": "vaporize, vaporise, disappear, melt, evaporate",
+        "antonyms": ""
+    },
+    "excavate": {
+        "synonyms": "dig, dig_up, excavate, hollow, turn_up, unearth",
+        "antonyms": ""
+    },
+    "exchange": {
+        "synonyms": "rally, commute, central, substitution, switch, switch_over, commutation, change, exchange, interchange, replace, convert, substitute, telephone_exchange",
+        "antonyms": ""
+    },
+    "excrete": {
+        "synonyms": "eliminate, egest, pass, excrete",
+        "antonyms": ""
+    },
+    "exert": {
+        "synonyms": "exert, wield, maintain, exercise",
+        "antonyms": ""
+    },
+    "exhale": {
+        "synonyms": "exhale, emanate, expire, give_forth, breathe_out",
+        "antonyms": "inhale"
+    },
+    "exhibit": {
+        "synonyms": "parade, present, show, demo, showing, display, expose, demonstrate, exhibit, march",
+        "antonyms": ""
+    },
+    "exist": {
+        "synonyms": "survive, live, be, subsist, exist",
+        "antonyms": ""
+    },
+    "exit": {
+        "synonyms": "choke, snuff_it, drop_dead, outlet, release, issue, die, pop_off, loss, go_out, expiration, kick_the_bucket, passing, pass_away, get_out, leave, pass, buy_the_farm, way_out, cash_in_one's_chips, croak, perish, expire, decease, departure, conk, exit, give-up_the_ghost, go, going",
+        "antonyms": "be_born, enter"
+    },
+    "expand": {
+        "synonyms": "lucubrate, inflate, elaborate, expound, exposit, expand, dilate, flesh_out, thrive, blow_up, extend, enlarge, spread_out, expatiate, boom, amplify, flourish",
+        "antonyms": "contract"
+    },
+    "expande": {
+        "synonyms": "",
+        "antonyms": ""
+    },
+    "expel": {
+        "synonyms": "throw_out, rout, kick_out, eject, exhaust, boot_out, rout_out, oust, drum_out, expel, release, discharge",
+        "antonyms": ""
+    },
+    "expend": {
+        "synonyms": "expend, spend, use, drop",
+        "antonyms": ""
+    },
+    "explode": {
+        "synonyms": "burst, set_off, blow_up, explode, break_loose, irrupt, detonate, burst_forth",
+        "antonyms": "implode"
+    },
+    "expose": {
+        "synonyms": "unmasking, give_away, let_on, scupper, unwrap, divulge, queer, bring_out, debunk, reveal, discover, uncover, break, let_out, display, expose, endanger, exhibit, disclose, peril",
+        "antonyms": "cover"
+    },
+    "extract": {
+        "synonyms": "excerpt, distill, extract, pull_out, educe, evoke, distil, express, press_out, pull, selection, elicit, draw_out, excerption, infusion, take_out, pull_up",
+        "antonyms": ""
+    },
+    "fall": {
+        "synonyms": "hang, spill, twilight, devolve, precipitate, tumble, declivity, declination, flow, downslope, drop, dip, go_down, declension, gloam, accrue, lessen, return, descend, nightfall, dusk, pin, fall, autumn, pass, fall_down, downfall, free_fall, decrease, diminish, settle, come, surrender, Fall, decline, descent, strike, come_down, crepuscle, evenfall, capitulation, crepuscule, light, gloaming, shine",
+        "antonyms": "ascent, increase, rise, ascend"
+    },
+    "falling": {
+        "synonyms": "hang, falling, devolve, precipitate, flow, dropping, go_down, accrue, lessen, return, descend, fall, pass, fall_down, decrease, diminish, settle, come, strike, come_down, light, shine",
+        "antonyms": "increase, rise, rising, ascend"
+    },
+    "fatten": {
+        "synonyms": "plump, fill_out, fatten_out, flesh_out, fatten_up, plump_out, fatten, fat",
+        "antonyms": ""
+    },
+    "feed": {
+        "synonyms": "tip, feast, give, fertilise, course, fertilize, fee, run, flow, feed, provender, eat, bung, prey, feed_in",
+        "antonyms": "starve"
+    },
+    "feel": {
+        "synonyms": "palpate, tone, feeling, look, tactile_property, sense, flavor, flavour, smell, spirit, experience, finger, feel, find",
+        "antonyms": ""
+    },
+    "fertilize": {
+        "synonyms": "inseminate, fertilise, fertilize, feed, fecundate",
+        "antonyms": ""
+    },
+    "fight": {
+        "synonyms": "conflict, agitate, fight, fighting, fight_back, push, engagement, combat, defend, campaign, press, crusade, battle, fight_down, struggle, oppose, scrap, contend, competitiveness",
+        "antonyms": ""
+    },
+    "figure": {
+        "synonyms": "picture, design, anatomy, frame, figure_of_speech, visualise, bod, flesh, count_on, fancy, figure, physical_body, enter, see, physique, chassis, visualize, build, shape, project, fig, human_body, soma, calculate, name, reckon, forecast, estimate, compute, trope, image, pattern, material_body, form, number, envision, cipher, digit, work_out, public_figure, cypher",
+        "antonyms": "ground"
+    },
+    "fill": {
+        "synonyms": "replete, fill_up, meet, fill, fulfil, make_full, sate, occupy, filling, satisfy, satiate, fulfill, take",
+        "antonyms": "empty"
+    },
+    "filter": {
+        "synonyms": "filter_out, percolate, filter, dribble, strain, separate_out, filtrate, permeate, trickle, sink_in",
+        "antonyms": ""
+    },
+    "find": {
+        "synonyms": "discovery, get, regain, line_up, get_hold, happen, receive, ascertain, incur, chance, come_up, notice, see, breakthrough, determine, retrieve, uncovering, rule, encounter, bump, find_oneself, recover, find, find_out, discover, witness, obtain, observe, feel, detect",
+        "antonyms": "lose"
+    },
+    "finding": {
+        "synonyms": "get, regain, line_up, get_hold, happen, receive, ascertain, incur, chance, come_up, notice, see, determine, retrieve, rule, finding, encounter, bump, find_oneself, recover, find, find_out, discover, witness, obtain, determination, observe, feel, detect",
+        "antonyms": "lose"
+    },
+    "finish": {
+        "synonyms": "complete, stopping_point, end_up, eat_up, fetch_up, stop, finishing, destination, polish, coating, wind_up, polish_off, refinement, cease, ending, finish_up, land_up, close, cultivation, last, finale, goal, terminate, culture, finish, conclusion, finis, end",
+        "antonyms": "start, begin, beginning"
+    },
+    "fire": {
+        "synonyms": "kindle, ardour, fervidness, fervour, go_off, give_the_sack, discharge, fervency, flak, firing, can, fuel, burn, flame, flaming, blast, raise, dismiss, evoke, send_away, ardor, fervor, sack, elicit, burn_down, give_the_axe, terminate, enkindle, force_out, fire, open_fire, attack, give_notice, displace, flack, arouse, provoke",
+        "antonyms": "hire"
+    },
+    "fitting": {
+        "synonyms": "gibe, agree, accommodate, conform_to, check, fit_out, meet, trying_on, suit, equip, match, outfit, jibe, accommodation, appointment, try-on, adjustment, correspond, fitting, fit, tally, go",
+        "antonyms": "disagree"
+    },
+    "fix": {
+        "synonyms": "deposit, desex, reparation, bushel, localization, cook, kettle_of_fish, fixate, sterilize, muddle, pay_off, hole, set_up, mend, doctor, fixing, touch_on, limit, desexualise, localisation, specify, locating, location, determine, mess, situate, restore, mending, gear_up, secure, define, ready, unsex, repair, desexualize, prepare, fixture, furbish_up, set, posit, fasten, pickle, fix, sterilise, get, make, jam, pay_back",
+        "antonyms": "unfasten, break"
+    },
+    "fixing": {
+        "synonyms": "fixation, desex, reparation, bushel, fastening, cook, fixate, fastener, sterilize, altering, pay_off, set_up, mend, doctor, fixing, touch_on, limit, desexualise, specify, determine, situate, restore, mending, gear_up, secure, define, ready, unsex, repair, desexualize, prepare, fixture, furbish_up, set, posit, pay_back, neutering, fasten, fix, sterilise, get, make, deposit, holdfast",
+        "antonyms": "unfasten, break"
+    },
+    "flapping": {
+        "synonyms": "flutter, pother, beat, fluttering, flap, roll, flapping, undulate, wave, dither",
+        "antonyms": ""
+    },
+    "flatten": {
+        "synonyms": "flatten_out, flatten, drop",
+        "antonyms": "sharpen"
+    },
+    "flee": {
+        "synonyms": "fly, flee, take_flight",
+        "antonyms": ""
+    },
+    "fly": {
+        "synonyms": "fly_sheet, fly, vanish, rainfly, vaporize, aviate, flee, tent_flap, fly_front, fell, fly_ball, pilot, take_flight, wing, tent-fly",
+        "antonyms": ""
+    },
+    "flip": {
+        "synonyms": "alternate, insolent, throw, somerset, turn_over, impudent, summerset, sky, toss, pitch, somersaulting, flip_out, pass, switch, tack, snotty-nosed, interchange, leaf, riffle, twitch, flick, riff, flip-flop, flip_over, thumb, summersault, flip, somersault",
+        "antonyms": ""
+    },
+    "float": {
+        "synonyms": "plasterer's_float, ice-cream_float, swim_bladder, be_adrift, swim, float, air_bladder, blow, ice-cream_soda, drift",
+        "antonyms": "sink"
+    },
+    "flow": {
+        "synonyms": "hang, flowing, menstruation, fall, menses, course, flow, stream, current, run, feed, menstruate, flux, flow_rate, menstruum, catamenia, period, rate_of_flow",
+        "antonyms": ""
+    },
+    "flower": {
+        "synonyms": "bloom, flower, peak, blossom, prime, heyday, efflorescence, flush",
+        "antonyms": ""
+    },
+    "focus": {
+        "synonyms": "focussing, concenter, concentre, rivet, focus, focal_point, focalize, center, pore, sharpen, stress, focalise, nidus, focusing, concentrate, centre, centering, direction",
+        "antonyms": "blur"
+    },
+    "foil": {
+        "synonyms": "transparency, cross, queer, scotch, enhancer, foil, baffle, bilk, hydrofoil, frustrate, spoil, thwart",
+        "antonyms": ""
+    },
+    "fold": {
+        "synonyms": "sheepcote, sheepfold, fold, flexure, bend, faithful, crease, flock, folding, close_up, shut_down, close, crimp, plica, plication, fold_up, sheep_pen, pen_up, close_down, congregation, turn_up",
+        "antonyms": "unfold, open"
+    },
+    "force": {
+        "synonyms": "thrust, strength, effect, violence, pull, coerce, impel, storm, push, military_group, forcefulness, power, wedge, pressure, drive, military_force, force-out, military_unit, hale, ram, personnel, force_play, force_out, draw, squeeze, force",
+        "antonyms": "push, pull"
+    },
+    "form": {
+        "synonyms": "mould, mannikin, constitute, mannequin, course, anatomy, frame, strain, bod, take_form, configuration, contour, flesh, figure, manakin, physical_body, work, physique, chassis, mold, build, organise, organize, phase, word_form, human_body, soma, take_shape, variety, spring, descriptor, conformation, signifier, manikin, pattern, material_body, form, variant, var., sort, class, grade, forge, cast, kind, shape, make, imprint",
+        "antonyms": ""
+    },
+    "freeze": {
+        "synonyms": "immobilise, freeze, suspend, freeze_down, freezing, freeze_out, frost, halt, stop_dead, immobilize, block",
+        "antonyms": "boil, unblock, unfreeze"
+    },
+    "function": {
+        "synonyms": "occasion, subroutine, operate, social_occasion, single-valued_function, use, affair, work, routine, map, subprogram, function, part, social_function, run, procedure, role, mapping, serve, office, officiate, purpose, mathematical_function, go",
+        "antonyms": "malfunction"
+    },
+    "funnel": {
+        "synonyms": "funnel_shape, funnel",
+        "antonyms": ""
+    },
+    "fuse": {
+        "synonyms": "electrical_fuse, fuze, conflate, immix, combine, coalesce, commingle, meld, fusee, priming, blend, merge, fuse, mix, flux, safety_fuse, fuzee, primer",
+        "antonyms": "defuse"
+    },
+    "gain": {
+        "synonyms": "derive, acquire, pull_in, attain, reach, gather, pull_ahead, earn, advance, addition, take_in, put_on, profit, benefit, increase, get_ahead, amplification, bring_in, gain, clear, win, make_headway, realise, hit, arrive_at, make, realize, gain_ground",
+        "antonyms": "reduce, fall_back, loss, lose"
+    },
+    "gather": {
+        "synonyms": "garner, foregather, conglomerate, forgather, meet, pull_together, assemble, cumulate, get_together, pile_up, gain, gathering, gather, amass, collect, accumulate, pucker, tuck",
+        "antonyms": "spread"
+    },
+    "generate": {
+        "synonyms": "beget, engender, render, generate, give, mother, yield, father, sire, bring_forth, get, return",
+        "antonyms": ""
+    },
+    "germinate": {
+        "synonyms": "spud, develop, germinate, sprout, evolve, pullulate, burgeon_forth, shoot, bourgeon",
+        "antonyms": ""
+    },
+    "get": {
+        "synonyms": "contract, engender, mother, acquire, perplex, stimulate, sustain, let, set_about, bring, baffle, induce, receive, catch, get_under_one's_skin, capture, beget, incur, buzz_off, pay_off, set_out, stupefy, aim, grow, produce, suffer, experience, drive, puzzle, become, father, develop, mystify, fuck_off, bewilder, sire, pose, commence, arrive, dumbfound, come, find, take, vex, scram, gravel, generate, flummox, convey, cause, beat, fetch, have, arrest, nonplus, get_down, begin, start, draw, bugger_off, obtain, stick, fix, amaze, bring_forth, get, make, start_out, go, pay_back",
+        "antonyms": "leave, take_away, end"
+    },
+    "give": {
+        "synonyms": "sacrifice, give_way, founder, afford, springiness, pay, yield, reach, throw, turn_over, impart, return, devote, present, contribute, give, collapse, establish, commit, chip_in, kick_in, ease_up, gift, open, spring, leave, dedicate, pass, hand, feed, generate, pass_on, render, hold, apply, move_over, have, break, cave_in, consecrate, grant, make, fall_in",
+        "antonyms": "starve, take"
+    },
+    "glide": {
+        "synonyms": "slide, sailplaning, sailing, glide, gliding, soaring, coast, semivowel",
+        "antonyms": ""
+    },
+    "glow": {
+        "synonyms": "beam, luminescence, freshness, gleaming, radiate, radiance, gleam, lambency, glowing, burn, glow, incandescence, shine",
+        "antonyms": ""
+    },
+    "glue": {
+        "synonyms": "gum, mucilage, glue, paste",
+        "antonyms": ""
+    },
+    "go": {
+        "synonyms": "choke, give_way, fling, hug_drug, live_on, snuff_it, blend, drop_dead, operate, X, ecstasy, Adam, travel, hold_out, spell, whirl, survive, work, get_going, go_bad, live, belong, rifle, disco_biscuit, die, pop_off, kick_the_bucket, locomote, hold_up, pass_away, XTC, become, lead, function, run_low, fail, run_short, go_game, plump, cristal, pass, endure, buy_the_farm, run, break_down, tour, cash_in_one's_chips, blend_in, croak, sound, last, perish, expire, give-up_the_ghost, proceed, decease, turn, offer, crack, move, start, break, extend, fit, conk_out, conk, depart, exit, give_out, get, go, go_away",
+        "antonyms": "be_born, no-go, stop, stay_in_place, malfunction, come"
+    },
+    "govern": {
+        "synonyms": "regulate, rule, regularize, regularise, govern, order",
+        "antonyms": "deregulate"
+    },
+    "grab": {
+        "synonyms": "seize, take_hold_of, snatch, snaffle, grab, catch, snap, snap_up",
+        "antonyms": ""
+    },
+    "grant": {
+        "synonyms": "yield, Cary_Grant, cede, subsidisation, give, deed_over, Duncan_Grant, subsidization, award, allot, allow, Grant, assignment, concession, concede, Ulysses_Simpson_Grant, accord, Ulysses_Grant, Duncan_James_Corrow_Grant, President_Grant, Hiram_Ulysses_Grant, grant, Ulysses_S._Grant",
+        "antonyms": "deny"
+    },
+    "grease": {
+        "synonyms": "grease, filth, dirt, soil, lubricating_oil, grunge, grime, stain",
+        "antonyms": ""
+    },
+    "grind": {
+        "synonyms": "grind, drudgery, labour, craunch, mill, mash, pulverization, pulverisation, drudge, grate, swot, toil, fag, wonk, crunch, bray, nerd, dig, moil, travail, comminute, plodding, donkeywork, cranch, dweeb, labor",
+        "antonyms": ""
+    },
+    "grow": {
+        "synonyms": "originate, rise, develop, uprise, raise, acquire, maturate, arise, turn, farm, grow, produce, mature, spring_up, get",
+        "antonyms": ""
+    },
+    "happen": {
+        "synonyms": "come_about, hap, take_place, pass, encounter, fall_out, materialize, materialise, bump, go_on, befall, happen, bechance, occur, pass_off, find, chance",
+        "antonyms": "dematerialize, dematerialise"
+    },
+    "harden": {
+        "synonyms": "indurate, harden, season, inure, temper",
+        "antonyms": "soften"
+    },
+    "harm": {
+        "synonyms": "impairment, harm, hurt, trauma, scathe, injury, damage",
+        "antonyms": ""
+    },
+    "harvest": {
+        "synonyms": "harvest_home, harvesting, reap, harvest, glean, harvest_time, crop",
+        "antonyms": ""
+    },
+    "have": {
+        "synonyms": "ingest, possess, stimulate, sustain, let, throw, induce, receive, wealthy_person, take_in, birth, give, suffer, give_birth, experience, rich_person, accept, deliver, consume, take, own, hold, cause, have, feature, bear, have_got, get, make",
+        "antonyms": "refuse, lack, abstain"
+    },
+    "hatch": {
+        "synonyms": "cover, hatching, hachure, crosshatch, think_of, concoct, hatch, brood, think_up, dream_up, incubate",
+        "antonyms": ""
+    },
+    "hatching": {
+        "synonyms": "cover, hatching, hachure, crosshatch, think_of, concoct, hatch, brood, think_up, dream_up, incubate",
+        "antonyms": ""
+    },
+    "head": {
+        "synonyms": "mind, promontory, forefront, top_dog, direct, chief, manoeuver, caput, header, channelize, principal, headland, psyche, lead, oral_sex, guide, capitulum, school_principal, head, head_up, pass, brain, read/write_head, drumhead, maneuver, head_teacher, heading, nous, headway, point, steer, question, channelise, straits, headspring, head_word, foreland, manoeuvre, fountainhead",
+        "antonyms": "foot, rear, tail"
+    },
+    "hear": {
+        "synonyms": "try, discover, get_wind, hear, learn, see, listen, take_heed, get_word, pick_up, get_a_line, find_out",
+        "antonyms": ""
+    },
+    "heat": {
+        "synonyms": "heat_up, ignite, heat, heat_energy, stir_up, rut, fire_up, inflame, wake, heating_system, high_temperature, estrus, heating, hot_up, warmth, hotness, oestrus, passion, heating_plant",
+        "antonyms": "anestrus, cool, coldness"
+    },
+    "heating": {
+        "synonyms": "heat_up, warming, ignite, heating, heating_system, hot_up, heat, fire_up, inflame, stir_up, wake, heating_plant",
+        "antonyms": "cool"
+    },
+    "help": {
+        "synonyms": "assistant, help, help_oneself, helper, assistance, supporter, service, assist, facilitate, avail, aid, serve",
+        "antonyms": ""
+    },
+    "hibernate": {
+        "synonyms": "hole_up, hibernate",
+        "antonyms": "estivate"
+    },
+    "hide": {
+        "synonyms": "hide, conceal, cover, enshroud, pelt, obliterate, hide_out, blot_out, fell, skin, veil, shroud, obscure",
+        "antonyms": "show"
+    },
+    "hit": {
+        "synonyms": "pip, bump_off, attain, reach, collide_with, dispatch, shoot, bang, score, smasher, collision, smash, come_to, polish_off, hitting, gain, striking, impinge_on, remove, slay, murder, strike, stumble, hit, rack_up, off, run_into, arrive_at, tally, make",
+        "antonyms": "miss"
+    },
+    "hold": {
+        "synonyms": "clench, guard, maintain, clutch, withstand, concord, moderate, harbor, take_for, sustain, retain, prevail, storage_area, agree, postponement, throw, accommodate, check, reserve, harbour, wait, handgrip, take_hold, entertain, concur, handle, give, appreciation, cargo_hold, keep, oblige, declare, deem, hold_up, defend, confine, hold_in, custody, delay, cargo_deck, carry, contain, curb, defy, control, obligate, clutches, time_lag, detention, cargo_area, view_as, keep_back, hold_back, book, take, go_for, restrain, hold, detainment, support, apply, bind, have, arrest, grip, grasp, nurse, obtain, admit, halt, bear, adjudge, have_got, make, clasp",
+        "antonyms": "let_go_of, disagree"
+    },
+    "holding": {
+        "synonyms": "guard, withstand, maintain, property, concord, moderate, harbor, take_for, sustain, retention, retain, prevail, agree, accommodate, throw, check, reserve, harbour, take_hold, entertain, concur, give, keep, oblige, declare, deem, hold_up, defend, confine, hold_in, carry, contain, curb, defy, control, obligate, keep_back, view_as, hold_back, book, take, go_for, restrain, hold, support, apply, bind, have, arrest, keeping, nurse, holding, obtain, admit, halt, bear, belongings, have_got, adjudge, make",
+        "antonyms": "let_go_of, disagree"
+    },
+    "house": {
+        "synonyms": "household, domiciliate, home, sign_of_the_zodiac, mansion, family, sign, firm, put_up, theatre, theater, business_firm, star_sign, menage, planetary_house, house",
+        "antonyms": ""
+    },
+    "hunt": {
+        "synonyms": "Leigh_Hunt, trace, hound, James_Henry_Leigh_Hunt, hunt_down, Hunt, Richard_Morris_Hunt, run, hunting, hunt, search, track_down, Holman_Hunt, William_Holman_Hunt, hunt_club",
+        "antonyms": ""
+    },
+    "hurt": {
+        "synonyms": "harm, trauma, pain, injure, damage, wound, hurt, offend, detriment, suffer, weakened, distress, injury, bruise, anguish, wounded, scathe, suffering, smart, spite, ache",
+        "antonyms": "be_well"
+    },
+    "ignite": {
+        "synonyms": "catch_fire, ignite, combust, heat, fire_up, erupt, inflame, light, conflagrate, wake, take_fire, stir_up",
+        "antonyms": "extinguish"
+    },
+    "impact": {
+        "synonyms": "encroachment, bear_upon, wallop, touch, impact, bear_on, shock, touch_on, impingement, affect",
+        "antonyms": ""
+    },
+    "implant": {
+        "synonyms": "plant, implant, embed, engraft, imbed",
+        "antonyms": ""
+    },
+    "include": {
+        "synonyms": "admit, include, let_in",
+        "antonyms": "exclude"
+    },
+    "incorporate": {
+        "synonyms": "incorporate, merged, contain, integrate, comprise, unified, integrated, incorporated",
+        "antonyms": "disintegrate"
+    },
+    "increase": {
+        "synonyms": "gain, growth, step-up, increase, increment, addition",
+        "antonyms": "decrease, decrement"
+    },
+    "incubate": {
+        "synonyms": "cover, hatch, incubate, brood",
+        "antonyms": ""
+    },
+    "indicate": {
+        "synonyms": "betoken, show, signal, bespeak, indicate, designate, suggest, argue, point",
+        "antonyms": "contraindicate"
+    },
+    "induct": {
+        "synonyms": "invest, seat, induce, initiate, induct",
+        "antonyms": ""
+    },
+    "infect": {
+        "synonyms": "taint, infect",
+        "antonyms": "disinfect"
+    },
+    "inflate": {
+        "synonyms": "inflate, expand, blow_up, billow, amplify, balloon",
+        "antonyms": "deflate"
+    },
+    "inhale": {
+        "synonyms": "inspire, inhale, breathe_in",
+        "antonyms": "exhale"
+    },
+    "initiate": {
+        "synonyms": "savant, originate, start, tyro, learned_person, beginner, enlightened, pioneer, lead_up, novice, induct, tiro, initiate, pundit, broach",
+        "antonyms": "uninitiate"
+    },
+    "inject": {
+        "synonyms": "throw_in, put_in, interpose, come_in, inject, shoot, interject",
+        "antonyms": ""
+    },
+    "insert": {
+        "synonyms": "slip_in, infix, enter, enclose, cut-in, put_in, stick_in, tuck, sneak_in, insert, introduce, inset, inclose",
+        "antonyms": ""
+    },
+    "instruct": {
+        "synonyms": "teach, instruct, apprise, learn, apprize",
+        "antonyms": ""
+    },
+    "interact": {
+        "synonyms": "interact",
+        "antonyms": ""
+    },
+    "interlock": {
+        "synonyms": "ignition_interlock, interlace, interlock, mesh, interlocking, meshing, lock",
+        "antonyms": ""
+    },
+    "interpret": {
+        "synonyms": "see, interpret, construe, understand, read, rede, translate, represent, render",
+        "antonyms": ""
+    },
+    "introduce": {
+        "synonyms": "infix, enter, present, bring_in, acquaint, enclose, premise, preface, put_in, bring_out, stick_in, precede, inaugurate, insert, introduce, usher_in, inclose, innovate",
+        "antonyms": ""
+    },
+    "join": {
+        "synonyms": "junction, joint, conjoin, connect, juncture, sum, link_up, get_together, unite, articulation, join, bring_together, union, link, fall_in",
+        "antonyms": "disjoin"
+    },
+    "keep": {
+        "synonyms": "celebrate, maintain, donjon, prevent, sustain, retain, dungeon, preserve, save, hold_on, keep, hold_open, keep_on, keep_open, go_along, living, go_on, keep_back, sustenance, livelihood, hold_back, bread_and_butter, support, hold, restrain, proceed, continue, stay_fresh, observe",
+        "antonyms": "let, discontinue, break, lose"
+    },
+    "keeping": {
+        "synonyms": "celebrate, maintain, prevent, sustain, retention, retain, safekeeping, preserve, save, hold_on, keep, hold_open, keep_on, keep_open, go_along, guardianship, go_on, keep_back, hold_back, restrain, hold, proceed, continue, keeping, holding, stay_fresh, observe",
+        "antonyms": "let, discontinue, break, lose"
+    },
+    "kill": {
+        "synonyms": "stamp_out, putting_to_death, killing, belt_down, pour_down, drink_down, obliterate, vote_down, shoot_down, down, pop, bolt_down, kill, toss_off, defeat, wipe_out, vote_out",
+        "antonyms": ""
+    },
+    "knock": {
+        "synonyms": "pink, tap, whack, criticize, whang, knocking, belt, rap, knock, smash, pick_apart, bump, bash, ping, strike_hard, bang, roast, criticise",
+        "antonyms": "praise"
+    },
+    "know": {
+        "synonyms": "screw, bonk, have_a_go_at_it, cognize, be_intimate, cognise, sleep_together, roll_in_the_hay, get_laid, have_sex, bang, eff, live, sleep_with, make_love, experience, make_out, recognize, recognise, know, hump, have_intercourse, jazz, acknowledge, do_it, fuck, get_it_on, bed, lie_with, have_it_away, love, have_it_off",
+        "antonyms": "ignore"
+    },
+    "lay": {
+        "synonyms": "rest, put, set, lay, dwell, lie_in, repose, lie, laic, place, ballad, put_down, lie_down, pose, secular, consist, position",
+        "antonyms": "arise, stand"
+    },
+    "land": {
+        "synonyms": "state, realm, set_down, put_down, bring, estate, dry_land, farming, Edwin_Herbert_Land, Din_Land, domain, soil, nation, country, down, shore, demesne, landed_estate, kingdom, ground, acres, shoot_down, body_politic, bring_down, set_ashore, terra_firma, res_publica, solid_ground, earth, commonwealth, land, Land",
+        "antonyms": ""
+    },
+    "last": {
+        "synonyms": "stopping_point, cobbler's_last, finally, final_stage, live_on, lowest, in_conclusion, hold_out, concluding, last-place, survive, lastly, live, shoemaker's_last, hold_up, utmost, death, endure, close, final, terminal, net, last, finale, finish, conclusion, finis, end, go",
+        "antonyms": "first"
+    },
+    "launch": {
+        "synonyms": "launching, found, plunge, set_up, establish, set_in_motion, launch",
+        "antonyms": "abolish"
+    },
+    "leach": {
+        "synonyms": "leach, leaching, strip, percolate",
+        "antonyms": ""
+    },
+    "learn": {
+        "synonyms": "hear, acquire, get_word, check, ascertain, memorize, teach, instruct, see, con, determine, watch, study, pick_up, take, find_out, discover, larn, learn, get_wind, memorise, read, get_a_line",
+        "antonyms": ""
+    },
+    "learning": {
+        "synonyms": "hear, acquire, get_word, check, ascertain, encyclopedism, memorize, teach, instruct, see, encyclopaedism, con, determine, watch, study, acquisition, learnedness, pick_up, find_out, learning, take, discover, larn, eruditeness, learn, scholarship, get_wind, memorise, read, erudition, get_a_line",
+        "antonyms": ""
+    },
+    "leave": {
+        "synonyms": "parting, go_forth, provide, impart, leave_alone, pull_up_stakes, farewell, give, go_out, result, get_out, lead, allow, bequeath, will, leave, leave_of_absence, forget, allow_for, leave_behind, pass_on, entrust, exit, depart, leave-taking, go_away",
+        "antonyms": "enter, disinherit, arrive"
+    },
+    "let": {
+        "synonyms": "Lashkar-e-Tayyiba, lease, Lashkar-e-Taiba, permit, have, let, Army_of_the_Pure, countenance, Lashkar-e-Toiba, net_ball, Army_of_the_Righteous, get, rent, LET, allow",
+        "antonyms": "disallow, prevent, forbid"
+    },
+    "lift": {
+        "synonyms": "ski_tow, rise, bring_up, repeal, rustle, nobble, arise, lift, vacate, heave, rear, rhytidoplasty, raising, pilfer, cabbage, nip_and_tuck, come_up, purloin, move_up, sneak, face_lifting, get_up, abstract, swipe, snarf, hoist, countermand, go_up, airlift, filch, elevate, ski_lift, elevation, annul, elevator, cosmetic_surgery, face-lift, raise, hook, plagiarise, overturn, rescind, aerodynamic_lift, reverse, face_lift, facelift, revoke, uprise, plagiarize, rhytidectomy, pinch, wind",
+        "antonyms": "lower, fall"
+    },
+    "like": {
+        "synonyms": "the_like, care, corresponding, similar, same, comparable, the_likes_of, wish, ilk, alike, like",
+        "antonyms": "dislike, unlike, unalike"
+    },
+    "line": {
+        "synonyms": "cable, trace, logical_argument, course, origin, communication_channel, transmission_line, phone_line, strain, crease, contrast, argument, line_of_products, pedigree, credit_line, describe, business, seam, melody, melodic_phrase, stock, line_of_reasoning, ancestry, line_of_work, channel, billet, lineage, bloodline, subscriber_line, rail_line, production_line, line_of_credit, argumentation, business_line, run_along, blood, product_line, blood_line, railway_line, pipeline, stemma, line_of_business, line_of_descent, dividing_line, assembly_line, delineate, telephone_line, agate_line, short_letter, descent, air, line, demarcation, occupation, line_of_merchandise, note, personal_line_of_credit, telephone_circuit, furrow, job, tune, draw, wrinkle, bank_line, melodic_line, parentage, crinkle, personal_credit_line",
+        "antonyms": ""
+    },
+    "link": {
+        "synonyms": "connect, colligate, liaison, inter-group_communication, link, link_up, unite, connexion, tie_in, nexus, data_link, yoke, radio_link, contact, relate, tie-in, tie, connectedness, associate, join, linkup, connection",
+        "antonyms": "dissociate, disconnect, disconnectedness"
+    },
+    "liquefy": {
+        "synonyms": "liquidize, liquidise, liquefy, liquify, flux",
+        "antonyms": ""
+    },
+    "light": {
+        "synonyms": "lightheaded, illumine, clean, ignite, luminance, illumination, sparkle, lightsome, low-cal, get_off, luminosity, alight, igniter, ignitor, Inner_Light, easy, promiscuous, loose, visible_light, perch, tripping, abstemious, fire_up, light_source, lighting, unhorse, weak, visible_radiation, illuminate, lite, lighter, lightly, twinkle, Christ_Within, light-headed, sluttish, brightness, dismount, fall, calorie-free, idle, lightness, light-colored, light_up, clear, illume, wakeful, Light, Light_Within, unaccented, faint, brightness_level, scant, get_down, swooning, wanton, luminousness, spark, short, light, unclouded",
+        "antonyms": "dark, extinguish, heavy"
+    },
+    "live": {
+        "synonyms": "live_on, be, unrecorded, exist, hold_out, survive, live, populate, subsist, inhabit, hold_up, experience, know, endure, resilient, lively, hot, last, bouncy, dwell, springy, alive, go",
+        "antonyms": "dead, recorded"
+    },
+    "life": {
+        "synonyms": "liveliness, lifespan, life-time, living, sprightliness, lifetime, life_history, animation, aliveness, life_sentence, biography, spirit, life_story, life",
+        "antonyms": ""
+    },
+    "living": {
+        "synonyms": "live_on, be, exist, hold_out, survive, live, surviving, populate, animation, aliveness, keep, subsist, inhabit, hold_up, experience, know, living, endure, sustenance, livelihood, bread_and_butter, support, last, dwell, life, go",
+        "antonyms": "dead"
+    },
+    "load": {
+        "synonyms": "payload, consignment, encumbrance, dilute, warhead, load_up, lode, lading, lade, adulterate, freight, shipment, laden, cargo, incumbrance, loading, burden, stretch, load, onus, debase, charge",
+        "antonyms": ""
+    },
+    "locate": {
+        "synonyms": "locate, place, site, settle, turn_up, situate",
+        "antonyms": ""
+    },
+    "lock": {
+        "synonyms": "lock_chamber, shut_away, ignition_lock, interlace, shut_up, put_away, lock_in, engage, operate, whorl, interlock, mesh, curl, ringlet, lock_up, lock_away, lock",
+        "antonyms": "unlock, disengage"
+    },
+    "look": {
+        "synonyms": "search, take_care, wait, tone, look, see, seem, looking_at, expect, expression, feeling, calculate, bet, smell, facial_expression, reckon, spirit, aspect, appear, attend, depend, count, flavor, flavour, await, face, front, feel, looking",
+        "antonyms": "back"
+    },
+    "loop": {
+        "synonyms": "grummet, eyelet, coil, loop-the-loop, intertwine, cringle, loop, closed_circuit, iteration, loop_topology, curl, grommet",
+        "antonyms": "uncoil, open_circuit"
+    },
+    "loose": {
+        "synonyms": "unaffixed, relax, release, let_loose, easy, promiscuous, loose, on_the_loose, unleash, liberate, sluttish, idle, liberal, loosen, informal, free, lax, wanton, slack, unloosen, unloose, escaped, light, open, at_large",
+        "antonyms": "tight, stiffen, affixed, confine, compact"
+    },
+    "lose": {
+        "synonyms": "drop_off, recede, misplace, lose, suffer, fall_back, miss, mislay, fall_behind, turn_a_loss",
+        "antonyms": "gain, profit, keep, win, find"
+    },
+    "lower": {
+        "synonyms": "turn_down, miserable, lowly, lower, lour, low-toned, modest, small, blue, low, abject, lower_berth, humbled, humiliated, down, low-spirited, down_in_the_mouth, low-down, frown, scummy, broken, glower, depress, let_down, take_down, bring_down, humble, dispirited, crushed, low-pitched, depressed, get_down, scurvy, depleted, downcast, gloomy, grim, downhearted",
+        "antonyms": "high, raise"
+    },
+    "make": {
+        "synonyms": "seduce, constitute, stimulate, pull_in, pee-pee, defecate, attain, reach, cook, wee, throw, induce, earn, wee-wee, create, relieve_oneself, score, lay_down, puddle, take_in, work, make_up, give, pretend, pass_water, take_a_leak, establish, produce, build, stool, get_to, take_a_shit, bring_in, gain, pee, clear, construct, name, ready, urinate, piddle, piss, shuffling, shit, prepare, ca-ca, make_water, shuffle, take, form, take_a_crap, hold, micturate, cause, have, do, brand, realise, draw, progress_to, nominate, hit, arrive_at, crap, fix, make_believe, spend_a_penny, get, make, realize",
+        "antonyms": "unmake, break"
+    },
+    "magnetize": {
+        "synonyms": "magnetise, mesmerise, bewitch, mesmerize, spellbind, magnetize",
+        "antonyms": "demagnetise, demagnetize"
+    },
+    "magnetizing": {
+        "synonyms": "magnetise, mesmerise, bewitch, mesmerize, spellbind, magnetize",
+        "antonyms": "demagnetise, demagnetize"
+    },
+    "mail": {
+        "synonyms": "ring_armor, chain_mail, postal_service, mail, chain_armor, post, ring_mail, send, chain_armour, ring_armour, get_off, mail_service",
+        "antonyms": ""
+    },
+    "maintain": {
+        "synonyms": "uphold, preserve, assert, hold, maintain, conserve, wield, keep_up, sustain, keep, exert, asseverate, defend, observe",
+        "antonyms": ""
+    },
+    "manage": {
+        "synonyms": "superintend, pull_off, manage, carry_off, handle, finagle, wangle, cope, bring_off, oversee, make_out, negociate, wield, deal, supervise, make_do, care, do, contend, grapple, get_by",
+        "antonyms": "fail"
+    },
+    "manipulate": {
+        "synonyms": "pull_strings, rig, pull_wires, keep_in_line, fudge, control, manipulate, cook, wangle, misrepresent, fake, falsify",
+        "antonyms": ""
+    },
+    "marry": {
+        "synonyms": "conjoin, marry, tie, get_hitched_with, wed, splice, hook_up_with, espouse, get_married",
+        "antonyms": ""
+    },
+    "match": {
+        "synonyms": "lucifer, play_off, equalize, gibe, cope_with, compeer, agree, catch, check, equalise, peer, meet, mates, pair, couple, match, twin, touch, equal, jibe, mate, oppose, correspond, pit, fit, equate, tally, rival, friction_match",
+        "antonyms": "disagree"
+    },
+    "mate": {
+        "synonyms": "twin, match, married_person, Ilex_paraguariensis, Paraguay_tea, checkmate, mate, copulate, spouse, first_mate, partner, better_half, fellow, pair, teammate, couple",
+        "antonyms": ""
+    },
+    "mature": {
+        "synonyms": "matured, maturate, age, suppurate, grow, ripen, ripe, fledged, mature, get_on, senesce",
+        "antonyms": "unfledged, green, immature"
+    },
+    "mean": {
+        "synonyms": "imply, average, entail, intend, hateful, signify, mingy, stand_for, base, miserly, beggarly, bastardly, mean_value, think_of, tight, meanspirited, mean, think, have_in_mind",
+        "antonyms": ""
+    },
+    "measure": {
+        "synonyms": "mensurate, value, measuring_stick, cadence, measure, bill, measuring, bar, touchstone, evaluate, quantity, standard, mensuration, valuate, measurement, amount, measuring_rod, appraise, quantify, assess, meter, metre, beat, criterion, measure_out, step",
+        "antonyms": ""
+    },
+    "meet": {
+        "synonyms": "fill, cope_with, gather, conform_to, receive, satisfy, run_across, fulfill, adjoin, see, foregather, take_on, meet, play, suffer, match, come_across, touch, forgather, fulfil, assemble, sports_meeting, converge, contact, get_together, fitting, fit, run_into, encounter",
+        "antonyms": "diverge"
+    },
+    "melt": {
+        "synonyms": "thawing, dissolve, unfreeze, disappear, melt, unthaw, run, melting, evaporate, thaw, melt_down, dethaw, meld, mellow, fade, mellow_out",
+        "antonyms": ""
+    },
+    "migrate": {
+        "synonyms": "migrate, transmigrate",
+        "antonyms": ""
+    },
+    "mine": {
+        "synonyms": "mine",
+        "antonyms": ""
+    },
+    "missing": {
+        "synonyms": "wanting, missing, lack, neglect, escape, lose, omit, absent, lacking, pretermit, drop, miss, leave_out, overlook, overleap",
+        "antonyms": "attend, attend_to, have, hit"
+    },
+    "mix": {
+        "synonyms": "mixture, blend, mix, premix, amalgamate, commingle, desegregate, combine, coalesce, fuse, unify, intermixture, merge, commix, conflate, immix, integrate, mix_in, ruffle, mingle, flux, shuffle, mixing, commixture, admixture, meld",
+        "antonyms": "segregate"
+    },
+    "mixing": {
+        "synonyms": "mixture, blend, mix, amalgamate, commingle, desegregate, combine, coalesce, fuse, unify, intermixture, merge, commix, conflate, immix, integrate, mix_in, ruffle, mingle, flux, shuffle, mixing, commixture, admixture, meld",
+        "antonyms": "segregate"
+    },
+    "mold": {
+        "synonyms": "moulding, form, modeling, work, mould, regulate, influence, forge, mildew, mold, molding, cast, clay_sculpture, shape, stamp, determine, model",
+        "antonyms": ""
+    },
+    "molt": {
+        "synonyms": "molt, shed, exuviate, moult, ecdysis, moulting, slough, molting",
+        "antonyms": ""
+    },
+    "move": {
+        "synonyms": "movement, relocation, travel, act, propel, locomote, prompt, motion, incite, run, affect, be_active, actuate, impress, strike, proceed, move, make_a_motion, displace, motivate, go, motility",
+        "antonyms": "rest, stand_still, stay, refrain, stay_in_place"
+    },
+    "need": {
+        "synonyms": "demand, involve, ask, necessitate, want, call_for, motive, need, pauperism, require, indigence, take, motivation, penury, pauperization, postulate",
+        "antonyms": "obviate"
+    },
+    "nitrifying": {
+        "synonyms": "nitrogenise, nitrify, nitrogenize",
+        "antonyms": "denitrify"
+    },
+    "nurse": {
+        "synonyms": "give_suck, hold, suckle, entertain, suck, nanny, harbor, wet-nurse, nurse, breastfeed, lactate, harbour, nursemaid",
+        "antonyms": "bottlefeed"
+    },
+    "nurture": {
+        "synonyms": "fostering, upbringing, bring_up, nurture, rearing, raise, nourish, breeding, sustain, bringing_up, foster, rear, parent, raising, fosterage",
+        "antonyms": ""
+    },
+    "observe": {
+        "synonyms": "honour, celebrate, watch_over, maintain, follow, notice, keep, mention, honor, watch, respect, keep_an_eye_on, remark, find, discover, note, take_note, abide_by, observe, detect",
+        "antonyms": "break, disrespect"
+    },
+    "obtain": {
+        "synonyms": "hold, prevail, obtain, receive, get, incur, find",
+        "antonyms": ""
+    },
+    "occur": {
+        "synonyms": "come_about, hap, take_place, pass, fall_out, go_on, happen, occur, pass_off, come",
+        "antonyms": ""
+    },
+    "open": {
+        "synonyms": "open_up, open_air, capable, afford, overt, candid, undetermined, exposed, unresolved, undecided, give, loose, undefended, undefendable, assailable, heart-to-heart, clear, outdoors, opened, spread_out, unfold, spread, unfastened, out-of-doors, subject, open, receptive, surface",
+        "antonyms": "covert, shut, fold, unreceptive, closed, close"
+    },
+    "oppose": {
+        "synonyms": "fight_back, oppose, play_off, controvert, pit, fight_down, fight, react, defend, counterbalance, contradict, match",
+        "antonyms": ""
+    },
+    "orbit": {
+        "synonyms": "sphere, area, domain, range, compass, scope, field, revolve, ambit, electron_orbit, reach, arena, eye_socket, cranial_orbit, orb, celestial_orbit, orbital_cavity, orbit",
+        "antonyms": ""
+    },
+    "oxidize": {
+        "synonyms": "oxidize, oxidise, oxidate",
+        "antonyms": "deoxidize, deoxidise"
+    },
+    "oxygenate": {
+        "synonyms": "aerate, oxygenize, oxygenate, oxygenise",
+        "antonyms": ""
+    },
+    "oxygenated": {
+        "synonyms": "aerate, oxygenize, oxygenate, oxygenise",
+        "antonyms": ""
+    },
+    "pack": {
+        "synonyms": "inner_circle, tamp_down, tamp, ring, ingroup, load_down, throng, bundle, multitude, wad, face_pack, backpack, plurality, battalion, compact, gang, carry, pile, large_number, camp, pack, mob, take, clique, coterie, jam",
+        "antonyms": "unpack"
+    },
+    "partake": {
+        "synonyms": "share, touch, partake, partake_in",
+        "antonyms": ""
+    },
+    "pas": {
+        "synonyms": "papa, pop, Keystone_State, P.A., pascal, Pa, PA, dad, P.A._system, Pennsylvania, daddy, pappa, pas, protactinium, public_address_system, protoactinium, PA_system, dada, atomic_number_91, pa",
+        "antonyms": ""
+    },
+    "passing": {
+        "synonyms": "go_by, turn_over, sink, go_across, put_across, expiration, pass_away, pass_by, lead, fade, hap, croak, pass_off, fugacious, perish, overhaul, expire, go, conk, excrete, going, choke, casual, authorise, overstep, devolve, snuff_it, transient, exceed, overtaking, die, loss, kick_the_bucket, exceedingly, legislate, go_along, pass, buy_the_farm, slip_by, pass_on, travel_by, draw, super, extremely, give-up_the_ghost, release, glide_by, short-lived, passing_play, pass_along, drop_dead, ephemeral, slip_away, pop_off, guide, come_about, take_place, fall, passage, clear, run, eliminate, decease, departure, extend, cursory, slide_by, top, reach, spend, happen, communicate, occur, fleet, return, surpass, give, perfunctory, passing_game, go_through, passing, make_it, evanesce, fall_out, transitory, hand, egest, go_on, cash_in_one's_chips, elapse, make_pass, go_past, lapse, blow_over, exit, transcend, overtake, authorize, qualifying",
+        "antonyms": "failing, running, be_born, fail"
+    },
+    "pasteurize": {
+        "synonyms": "pasteurize, pasteurise",
+        "antonyms": ""
+    },
+    "patch": {
+        "synonyms": "piece, dapple, plot_of_land, darn, maculation, mend, speckle, plot_of_ground, spot, temporary_hookup, eyepatch, patch_up, fleck, plot, while, spell, patch, bandage",
+        "antonyms": ""
+    },
+    "peck": {
+        "synonyms": "peck, peck_at, sight, spate, mint, flock, smack, pot, hen-peck, good_deal, quite_a_little, wad, heap, mass, pick, mess, passel, pile, great_deal, slew, pick_at, deal, hatful, tidy_sum, mountain, raft, pick_up, plenty, nag, beak, batch, mickle, lot, muckle, stack",
+        "antonyms": ""
+    },
+    "penetrate": {
+        "synonyms": "perforate, fathom, come_home, sink_in, click, interpenetrate, infiltrate, riddle, pervade, get_through, get_across, penetrate, diffuse, fall_into_place, imbue, permeate, dawn, bottom",
+        "antonyms": ""
+    },
+    "perform": {
+        "synonyms": "perform, execute, do",
+        "antonyms": ""
+    },
+    "permeate": {
+        "synonyms": "percolate, interpenetrate, filter, pervade, diffuse, penetrate, imbue, permeate, riddle, sink_in",
+        "antonyms": ""
+    },
+    "pick": {
+        "synonyms": "cream, plectrum, clean, peck, option, pickaxe, piece, pluck, pick, nibble, cull, blame, picking, choice, pickax, break_up, selection, filling, plunk, foot, find_fault, weft, beak, woof, plectron",
+        "antonyms": ""
+    },
+    "pile": {
+        "synonyms": "atomic_pile, peck, sight, mound, spate, megabucks, spile, throng, bundle, mint, flock, pot, big_money, stilt, cumulus, nap, atomic_reactor, down, chain_reactor, good_deal, quite_a_little, wad, heap, mass, cumulation, mess, passel, galvanic_pile, pile, great_deal, agglomerate, slew, deal, hatful, pack, tidy_sum, mountain, raft, mob, plenty, voltaic_pile, piling, batch, mickle, big_bucks, lot, muckle, jam, stack",
+        "antonyms": ""
+    },
+    "pinch": {
+        "synonyms": "top, nobble, lift, speck, catch, hint, pilfer, cabbage, purloin, sneak, abstract, jot, swipe, snarf, filch, collar, soupcon, emergency, apprehension, touch, hook, tinge, mite, tweet, nip, crimp, vellicate, arrest, twitch, squeeze, exigency, pinch, taking_into_custody, twinge, tweak",
+        "antonyms": ""
+    },
+    "pipe": {
+        "synonyms": "pipage, tube, organ_pipe, piping, pipework, shriek, tobacco_pipe, pipe_up, shrill, pipe",
+        "antonyms": ""
+    },
+    "pitch": {
+        "synonyms": "sales_talk, pitching, tar, slope, vend, tilt, shift, huckster, set_up, sales_pitch, delivery, sky, toss, slant, pitch, deliver, auction_pitch, rake, lurch, cant, gear, incline, hawk, pitch_shot, cant_over, flip, peddle, monger",
+        "antonyms": ""
+    },
+    "place": {
+        "synonyms": "home, place, come_out, site, localise, rate, order, direct, rank, put, lay, seat, station, plaza, aim, commit, berth, stead, billet, shoes, space, piazza, blank_space, range, post, send, identify, pose, come_in, invest, topographic_point, point, office, set, grade, locate, situation, lieu, target, spot, localize, property, position",
+        "antonyms": "divest"
+    },
+    "plan": {
+        "synonyms": "program, plan, design, architectural_plan, contrive, be_after, programme, project",
+        "antonyms": ""
+    },
+    "plant": {
+        "synonyms": "plant_life, institute, set, found, plant, works, flora, constitute, industrial_plant, establish, implant, embed, engraft, imbed",
+        "antonyms": ""
+    },
+    "plug": {
+        "synonyms": "plug, chew, ballyhoo, spark_plug, hoopla, fire_hydrant, hype, stop_up, hack, male_plug, stopper, wad, quid, jade, sparking_plug, punch, secure, chaw, cud, nag, plug_away, stopple, fireplug",
+        "antonyms": ""
+    },
+    "pollinate": {
+        "synonyms": "pollinate, pollenate, cross-pollinate",
+        "antonyms": ""
+    },
+    "pollute": {
+        "synonyms": "pollute, foul, contaminate",
+        "antonyms": ""
+    },
+    "pop": {
+        "synonyms": "papa, soda_pop, belt_down, pour_down, pop, bolt_down, come_out, popping, pop_out, soda_water, tonic, pop_music, down, toss_off, dad, bug_out, daddy, popular, pappa, bulge, crop_up, bulge_out, soda, protrude, start, drink_down, pop_up, kill, dada, pa",
+        "antonyms": ""
+    },
+    "pour": {
+        "synonyms": "pour_out, pelt, rain_cats_and_dogs, pullulate, teem, stream, pour, rain_buckets, swarm, decant",
+        "antonyms": ""
+    },
+    "power": {
+        "synonyms": "powerfulness, tycoon, magnate, mightiness, ability, business_leader, power, big_businessman, index, baron, world_power, exponent, top_executive, office, might, major_power, superpower, great_power, king, mogul, force",
+        "antonyms": "powerlessness, inability"
+    },
+    "prefer": {
+        "synonyms": "opt, prefer, favor, favour, choose",
+        "antonyms": ""
+    },
+    "preheat": {
+        "synonyms": "preheat",
+        "antonyms": ""
+    },
+    "prepare": {
+        "synonyms": "devise, set, groom, set_up, get_up, develop, gear_up, make, ready, cook, organise, fix, train, educate, organize, prepare, machinate",
+        "antonyms": ""
+    },
+    "preserve": {
+        "synonyms": "uphold, preserve, save, conserve, preserves, maintain, keep_up, bear_on, conserves, continue, keep, carry_on",
+        "antonyms": "discontinue"
+    },
+    "press": {
+        "synonyms": "contract, agitate, weightlift, public_press, fight, adjure, insistency, weight-lift, push, constrict, imperativeness, exhort, iron, pressure, entreat, campaign, press, urge, pressing, compact, conjure, beseech, mechanical_press, insistence, crusade, iron_out, printing_press, wardrobe, compress, bid, urge_on, press_out, weigh, crush, squeeze, closet, jam, military_press",
+        "antonyms": ""
+    },
+    "pressure": {
+        "synonyms": "blackmail, force, pressure_sensation, atmospheric_pressure, imperativeness, hale, pressure, coerce, squeeze, pressure_level, insistency, press, blackjack, force_per_unit_area, air_pressure, pressing, insistence",
+        "antonyms": ""
+    },
+    "pressured": {
+        "synonyms": "hale, coerce, pressure, squeeze, blackjack, blackmail, force",
+        "antonyms": ""
+    },
+    "pressurize": {
+        "synonyms": "pressurise, pressurize, supercharge",
+        "antonyms": "depressurise, depressurize"
+    },
+    "prevent": {
+        "synonyms": "forestall, forbid, prevent, foreclose, keep, preclude",
+        "antonyms": "let"
+    },
+    "process": {
+        "synonyms": "process, outgrowth, physical_process, cognitive_operation, work_on, work, mental_process, summons, swear_out, march, treat, cognitive_process, unconscious_process, procedure, sue, serve, operation, litigate, appendage, action",
+        "antonyms": ""
+    },
+    "procreate": {
+        "synonyms": "procreate, reproduce, multiply",
+        "antonyms": ""
+    },
+    "produce": {
+        "synonyms": "develop, raise, acquire, green_groceries, bring_about, bring_out, farm, grow, produce, green_goods, give_rise, garden_truck, bring_on, bring_forth, create, make, get",
+        "antonyms": ""
+    },
+    "proliferate": {
+        "synonyms": "proliferate",
+        "antonyms": ""
+    },
+    "protect": {
+        "synonyms": "protect",
+        "antonyms": ""
+    },
+    "provide": {
+        "synonyms": "ply, cater, leave, bring_home_the_bacon, put_up, supply, offer, allow, allow_for, provide, furnish, render",
+        "antonyms": ""
+    },
+    "pull": {
+        "synonyms": "twist, pull_in, attract, pulling, pull, overstretch, rend, clout, draw_in, pull_out, drag, commit, pluck, get_out, deplume, perpetrate, root_for, extract, deplumate, wrench, rive, draw_out, pull_up, draw, puff, displume, take_out, force, tear, rip",
+        "antonyms": "push, repel"
+    },
+    "pulverize": {
+        "synonyms": "powder, powderize, powderise, pulverise, demolish, pulverize",
+        "antonyms": ""
+    },
+    "pump": {
+        "synonyms": "ticker, heart, pump",
+        "antonyms": ""
+    },
+    "punch": {
+        "synonyms": "poke, lick, plug, perforate, biff, punch, puncher, clout, slug",
+        "antonyms": ""
+    },
+    "purchase": {
+        "synonyms": "buy, purchase, leverage",
+        "antonyms": "sell"
+    },
+    "purify": {
+        "synonyms": "purge, sanctify, distill, purify, make_pure, sublimate",
+        "antonyms": ""
+    },
+    "push": {
+        "synonyms": "thrust, get-up-and-go, agitate, pushing, bear_on, fight, push_button, labour, push, advertise, campaign, drive, press, crusade, labor, tug, promote, button, crowd, advertize, energy, force",
+        "antonyms": "pull"
+    },
+    "put": {
+        "synonyms": "put, set, assign, lay, set_up, arrange, put_option, place, frame, commit, order, redact, pose, cast, invest, couch, position",
+        "antonyms": "call_option, divest"
+    },
+    "rabbit": {
+        "synonyms": "rabbit, cony, coney, lapin, hare",
+        "antonyms": ""
+    },
+    "radiate": {
+        "synonyms": "ray, stellate, beam, radial, radiate, glow, shine, diversify",
+        "antonyms": ""
+    },
+    "rain": {
+        "synonyms": "rain_down, pelting, rainwater, rain, rainfall",
+        "antonyms": ""
+    },
+    "raise": {
+        "synonyms": "rise, bring_up, nurture, kindle, invoke, upraise, lift, heave, erect, rear, advance, resurrect, get_up, set_up, conjure_up, put_up, prove, acclivity, grow, produce, elevate, wage_hike, parent, levy, call_forth, enhance, recruit, conjure, upgrade, salary_increase, raise, evoke, kick_upstairs, ascent, hike, elicit, stir, call_down, promote, put_forward, enkindle, heighten, leaven, farm, fire, climb, arouse, wage_increase, provoke",
+        "antonyms": "lower, demote, descent, level"
+    },
+    "raisethe": {
+        "synonyms": "",
+        "antonyms": ""
+    },
+    "re-enter": {
+        "synonyms": "re-enter",
+        "antonyms": ""
+    },
+    "re-melted": {
+        "synonyms": "",
+        "antonyms": ""
+    },
+    "re": {
+        "synonyms": "ray, re, rhenium, Re, Ra, atomic_number_75",
+        "antonyms": ""
+    },
+    "reach": {
+        "synonyms": "achieve, strive, reaching, attain, reach, reach_out, get_through, strain, turn_over, give, extend_to, get_to, touch, range, gain, pass, ambit, hand, accomplish, contact, stretch, orbit, compass, pass_on, scope, grasp, hit, progress_to, arrive_at, get_hold_of, make",
+        "antonyms": ""
+    },
+    "react": {
+        "synonyms": "react, oppose, respond",
+        "antonyms": ""
+    },
+    "read": {
+        "synonyms": "study, record, learn, interpret, show, say, read, register, translate, scan, understand, take",
+        "antonyms": ""
+    },
+    "rearrange": {
+        "synonyms": "rearrange",
+        "antonyms": ""
+    },
+    "rebuild": {
+        "synonyms": "rebuild, reconstruct",
+        "antonyms": ""
+    },
+    "receive": {
+        "synonyms": "take_in, invite, meet, have, welcome, encounter, obtain, experience, receive, get, incur, pick_up, find",
+        "antonyms": "say_farewell"
+    },
+    "recycle": {
+        "synonyms": "reprocess, recycle, reuse",
+        "antonyms": ""
+    },
+    "reenter": {
+        "synonyms": "",
+        "antonyms": ""
+    },
+    "refine": {
+        "synonyms": "rectify, refine, rarify, down, fine-tune, elaborate, polish, complicate",
+        "antonyms": ""
+    },
+    "reflect": {
+        "synonyms": "think_over, reflect, speculate, ruminate, excogitate, muse, chew_over, mull, meditate, ponder, reverberate, mull_over, contemplate, shine",
+        "antonyms": ""
+    },
+    "refract": {
+        "synonyms": "refract",
+        "antonyms": ""
+    },
+    "register": {
+        "synonyms": "record, show, registry, file, cross-file, register, read, cash_register",
+        "antonyms": ""
+    },
+    "regrowing": {
+        "synonyms": "regrow",
+        "antonyms": ""
+    },
+    "regulate": {
+        "synonyms": "modulate, regulate, influence, regularize, mold, regularise, baffle, govern, shape, determine, order",
+        "antonyms": "deregulate"
+    },
+    "reinforce": {
+        "synonyms": "reenforce, reinforce, reward",
+        "antonyms": ""
+    },
+    "relax": {
+        "synonyms": "unlax, unstrain, loose, slack, make_relaxed, unwind, loosen, slacken, relax, slack_up, decompress, loosen_up, unbend, slow_down",
+        "antonyms": "stiffen, strain, tense"
+    },
+    "release": {
+        "synonyms": "liberation, spill, tone_ending, outlet, discharge, issue, dismission, unblock, firing, unfreeze, loose, vent, let_go_of, loss, secrete, expiration, let_go, passing, give_up, freeing, liberate, eject, publish, bring_out, handout, acquittance, spillage, dismissal, sack, waiver, expel, relinquish, free, press_release, turn, departure, exhaust, unloosen, button, unloose, exit, sacking, resign, put_out, release, going",
+        "antonyms": "hold, block, freeze, confine"
+    },
+    "remain": {
+        "synonyms": "rest, continue, persist, stay, stay_on, remain",
+        "antonyms": "change"
+    },
+    "remove": {
+        "synonyms": "withdraw, bump_off, murder, take_away, off, transfer, remove, absent, get_rid_of, hit, dispatch, polish_off, move_out, slay, take_out, take",
+        "antonyms": ""
+    },
+    "repair": {
+        "synonyms": "quicken, vivify, reparation, bushel, hangout, mend, recreate, doctor, fixing, touch_on, renovate, remedy, compensate, stamping_ground, rectify, restore, mending, amend, recompense, repair, fixture, furbish_up, indemnify, resort, remediate, animate, revivify, reanimate, revive, haunt, fix",
+        "antonyms": "break"
+    },
+    "repeat": {
+        "synonyms": "repetition, take_over, iterate, duplicate, reprise, restate, retell, double, echo, repeat, ingeminate, replicate, reprize, recapitulate, reiterate, recur, reduplicate",
+        "antonyms": ""
+    },
+    "replace": {
+        "synonyms": "supersede, supplant, put_back, supercede, exchange, replace, interchange, substitute, supervene_upon",
+        "antonyms": ""
+    },
+    "replicate": {
+        "synonyms": "retroflex, duplicate, double, replicate, repeat, copy, reduplicate",
+        "antonyms": ""
+    },
+    "reproduce": {
+        "synonyms": "regurgitate, procreate, reproduce, multiply",
+        "antonyms": ""
+    },
+    "require": {
+        "synonyms": "involve, demand, ask, command, want, call_for, need, require, take, necessitate, expect, postulate",
+        "antonyms": "obviate"
+    },
+    "rest": {
+        "synonyms": "rest, relief, quietus, repose, ease, balance, breathe, eternal_sleep, catch_one's_breath, residual, residuum, perch, sleep, relaxation, reside, remainder, respite, eternal_rest, stay, residue, rest_period, take_a_breather, pillow, lie, roost, remain",
+        "antonyms": "change, be_active"
+    },
+    "restore": {
+        "synonyms": "reinstate, rejuvenate, furbish_up, restore, mend, doctor, reestablish, bushel, touch_on, regenerate, reconstruct, fix, repair, restitute",
+        "antonyms": "break"
+    },
+    "result": {
+        "synonyms": "termination, upshot, resultant, answer, leave, lead, effect, resolution, final_result, result, ensue, consequence, solution, solvent, outcome, resultant_role, event, issue",
+        "antonyms": ""
+    },
+    "retire": {
+        "synonyms": "withdraw, go_to_sleep, kip_down, retire, hit_the_sack, crawl_in, adjourn, retreat, strike_out, go_to_bed, hit_the_hay, sack_out, move_back, recede, bed, draw_back, pull_back, pull_away, turn_in, put_out",
+        "antonyms": "advance, get_up, turn_out"
+    },
+    "return": {
+        "synonyms": "devolve, give_back, yield, reelect, paying_back, coming_back, issue, return, counter, give, takings, take_back, regress, recall, rejoin, homecoming, come_back, replication, restoration, deliver, payoff, fall, pass, bring_back, repay, income_tax_return, retort, recurrence, getting_even, hark_back, return_key, regaining, take, rejoinder, restitution, render, refund, generate, proceeds, riposte, reappearance, revert, retrovert, tax_return, turn_back, comeback",
+        "antonyms": ""
+    },
+    "reuse": {
+        "synonyms": "reprocess, recycle, reuse",
+        "antonyms": ""
+    },
+    "rinse": {
+        "synonyms": "rinsing, wash, gargle, rinse, rinse_off",
+        "antonyms": ""
+    },
+    "rise": {
+        "synonyms": "rise, procession, arise, rebel, mount, ascending, lift, rear, jump, advance, resurrect, cost_increase, emanation, come_up, originate, move_up, get_up, climb_up, ascension, prove, acclivity, go_up, grow, wax, wage_hike, upgrade, rise_up, salary_increase, develop, raise, boost, rising, turn_out, ascent, hike, spring_up, uprise, stand_up, heighten, climb, ascend, rising_slope, wage_increase, surface",
+        "antonyms": "sit_down, set, descent, fall, wane, turn_in, go_to_bed"
+    },
+    "rock": {
+        "synonyms": "Rock, rock-and-roll, rock_music, rock_and_roll, careen, rock, John_Rock, shake, rock'n'roll, sway, rock_'n'_roll, tilt, rock_candy, stone",
+        "antonyms": ""
+    },
+    "roll": {
+        "synonyms": "roam, axial_rotation, swan, roll, ramble, turn_over, cast, flap, vagabond, revolve, axial_motion, wrap, pluck, hustle, tramp, paradiddle, bun, rolling_wave, wheel, range, roster, drum_roll, whorl, bowl, seethe, undulate, stray, curl, rolling, pealing, roll_out, gyre, wave, peal, drift, scroll, roller, bankroll, coil, wander, rove, curlicue, ringlet, twine, wind, roll_up",
+        "antonyms": "unwind"
+    },
+    "roost": {
+        "synonyms": "rest, perch, roost",
+        "antonyms": ""
+    },
+    "rot": {
+        "synonyms": "guff, waste, buncombe, molder, putrefaction, bunk, rotting, decomposition, hogwash, decompose, bunkum, rot, moulder",
+        "antonyms": ""
+    },
+    "rotate": {
+        "synonyms": "circumvolve, revolve, splay, go_around, turn_out, rotate, spread_out",
+        "antonyms": ""
+    },
+    "route": {
+        "synonyms": "road, route, itinerary, path",
+        "antonyms": ""
+    },
+    "rub": {
+        "synonyms": "rub, hang-up, scratch, itch, chafe, wipe, hitch, fray, snag, fret",
+        "antonyms": ""
+    },
+    "run": {
+        "synonyms": "running, test, consort, unravel, course, hightail_it, prevail, operate, flow, outpouring, track_down, run_for, rill, running_play, discharge, rivulet, trial, ply, take_to_the_woods, work, running_game, die_hard, be_given, bleed, play, hunt_down, campaign, hunt, footrace, streak, streamlet, turn_tail, lean, escape, lead, function, guide, foot_race, race, range, carry, ladder, lam, pass, endure, melt, run, bunk, feed, tend, melt_down, break_away, head_for_the_hills, fly_the_coop, execute, scat, black_market, scarper, ravel, persist, incline, move, runnel, draw, extend, run_away, political_campaign, tally, go",
+        "antonyms": "malfunction, idle"
+    },
+    "rush": {
+        "synonyms": "step_on_it, rushing, boot, stimulate, speed, upsurge, spate, bucket_along, induce, festinate, bang, rush, cannonball_along, Rush, first-come-first-serve, haste, rushed, hasten, hotfoot, surge, hurry, rush_along, race, belt_along, thrill, kick, flush, hie, Benjamin_Rush, charge, pelt_along, look_sharp",
+        "antonyms": "linger, delay"
+    },
+    "sand": {
+        "synonyms": "moxie, George_Sand, backbone, grit, sand, sandpaper, gumption, Sand, guts, Baroness_Dudevant, Amandine_Aurore_Lucie_Dupin",
+        "antonyms": ""
+    },
+    "sank": {
+        "synonyms": "sink, subside, lapse, pass, fall_off, drop_down, slide_down, drop, settle, go_down, dip, slump, bury, go_under",
+        "antonyms": "float"
+    },
+    "saturate": {
+        "synonyms": "saturate, impregnate",
+        "antonyms": ""
+    },
+    "save": {
+        "synonyms": "write, lay_aside, spare, preserve, save, keep, carry_through, hold_open, redeem, relieve, keep_open, make_unnecessary, pull_through, deliver, economize, bring_through, save_up, salvage, salve, economise",
+        "antonyms": ""
+    },
+    "say": {
+        "synonyms": "sound_out, state, pronounce, suppose, enunciate, aver, allege, articulate, say, enounce, read, enjoin, order, tell",
+        "antonyms": ""
+    },
+    "scatter": {
+        "synonyms": "dot, dissipate, dispel, dust, spread, strewing, break_up, scattering, disperse, sprinkle, scatter, spread_out",
+        "antonyms": ""
+    },
+    "scouring": {
+        "synonyms": "scrub, purge, scrubbing, scouring, abrade, scour, flush",
+        "antonyms": ""
+    },
+    "seal": {
+        "synonyms": "seal, SEAL, varnish, sealskin, cachet, seal_of_approval, seal_off, sealing_wax, Navy_SEAL, stamp",
+        "antonyms": "unseal"
+    },
+    "secrete": {
+        "synonyms": "release, secrete",
+        "antonyms": ""
+    },
+    "secure": {
+        "synonyms": "plug, unassailable, assure, batten_down, unattackable, stop_up, impregnable, unafraid, insure, untroubled, dependable, batten, procure, secure, good, fasten, ensure, guarantee, strong, safe, fix, inviolable",
+        "antonyms": "insecure, unfasten"
+    },
+    "see": {
+        "synonyms": "hear, assure, picture, get_word, visualise, visit, catch, check, take_care, ascertain, run_across, fancy, figure, understand, take_in, look, see, meet, see_to_it, construe, visualize, go_out, go_through, consider, insure, escort, experience, come_across, determine, project, watch, regard, control, reckon, examine, image, pick_up, find, find_out, attend, discover, get_wind, learn, witness, interpret, date, envision, realise, ensure, run_into, go_steady, view, encounter, realize, get_a_line",
+        "antonyms": ""
+    },
+    "seep": {
+        "synonyms": "ooze, seep",
+        "antonyms": ""
+    },
+    "select": {
+        "synonyms": "quality, choice, pick_out, prime, choose, prize, blue-ribbon, select, take",
+        "antonyms": ""
+    },
+    "semi-conducting": {
+        "synonyms": "",
+        "antonyms": ""
+    },
+    "send": {
+        "synonyms": "institutionalize, place, get_off, ship, send_off, direct, transport, station, commit, transmit, beam, post, send, send_out, institutionalise, air, mail, charge, broadcast",
+        "antonyms": ""
+    },
+    "sense": {
+        "synonyms": "common_sense, smell_out, sense, sentience, horse_sense, good_sense, smell, gumption, sentiency, sensory_faculty, mother_wit, sensation, signified, feel",
+        "antonyms": ""
+    },
+    "separate": {
+        "synonyms": "assort, fork, secern, offprint, tell, severalise, branch, sort_out, differentiate, reprint, dissever, distinguish, discriminate, carve_up, part, come_apart, single_out, separate, severalize, break_up, classify, furcate, split_up, class, sort, fall_apart, disjoined, secernate, tell_apart, break, ramify, split, divide, freestanding, disunite",
+        "antonyms": "unite, joint"
+    },
+    "serve": {
+        "synonyms": "attend, serve_well, process, suffice, help, dish_up, answer, do, dish_out, service, assist, serve, swear_out, dish, wait_on, attend_to, serve_up, function",
+        "antonyms": ""
+    },
+    "set": {
+        "synonyms": "solidification, circle, primed, fixed, solidifying, curing, place, fructify, localise, go_down, dictated, rigid, mark, stage_set, hardened, put, lay, set_up, jell, rig, lay_out, coif, coiffure, correct, limit, specify, typeset, countersink, adjust, determine, band, placed, plant, gear_up, define, ready, dress, pose, Seth, situated, exercise_set, prepare, arrange, laid, set, readiness, sic, hardening, do, coiffe, fit, lot, Set, congeal, fix, located, determined, localize, bent, position, go_under",
+        "antonyms": "rise"
+    },
+    "settle": {
+        "synonyms": "resolve, subside, finalise, go_down, reconcile, decide, conciliate, sink, make_up, ensconce, settee, patch_up, descend, determine, finalize, fall, settle, square_off, locate, adjudicate, nail_down, steady_down, settle_down, square_up, get_back, root, take_root, go_under",
+        "antonyms": "float"
+    },
+    "shake": {
+        "synonyms": "shake_up, agitate, milk_shake, stimulate, handshake, handclasp, shake, tremble, trill, wag, shingle, sway, judder, throw_off, excite, milkshake, rock, shake_off, shiver, handshaking, stir, escape_from, didder, waggle",
+        "antonyms": ""
+    },
+    "shape": {
+        "synonyms": "regulate, mould, anatomy, frame, bod, flesh, configuration, contour, figure, physical_body, work, physique, chassis, mold, Supreme_Headquarters_Allied_Powers_Europe, build, determine, human_body, soma, influence, condition, conformation, SHAPE, pattern, material_body, form, forge, embodiment, cast, shape",
+        "antonyms": ""
+    },
+    "shed": {
+        "synonyms": "shed, molt, exuviate, spill, moult, caducous, cast_off, disgorge, pour_forth, shake_off, slough, throw, drop, cast, throw_away, throw_off",
+        "antonyms": "persistent"
+    },
+    "shine": {
+        "synonyms": "glisten, glitter, radiancy, glow, glint, polish, refulgence, radiance, smoothen, beam, reflect, fall, refulgency, effulgence, smooth, strike, radiate, gleam, shine",
+        "antonyms": ""
+    },
+    "ship": {
+        "synonyms": "transport, embark, ship, send",
+        "antonyms": "disembark"
+    },
+    "shoot": {
+        "synonyms": "pip, sprout, dart, pullulate, fool, shoot, dash, bourgeon, scud, dissipate, buck, fool_away, frivol_away, blast, germinate, fritter_away, shoot_down, photograph, film, snap, take, fritter, spud, flash, hit, burgeon_forth, scoot, inject, charge, tear",
+        "antonyms": ""
+    },
+    "shorten": {
+        "synonyms": "contract, bowdlerise, castrate, expurgate, abridge, reduce, bowdlerize, shorten, abbreviate, cut, foreshorten",
+        "antonyms": "expand, lengthen"
+    },
+    "shot": {
+        "synonyms": "pip, sprout, injection, gibe, dart, iridescent, stroke, pullulate, dead_reckoning, fool, shoot, dash, bourgeon, changeable, shaft, inject, scud, dissipate, buck, guess, fool_away, chatoyant, frivol_away, stab, guesswork, blastoff, dig, blast, germinate, shot, slam, fritter_away, shoot_down, jibe, photograph, film, nip, snap, pellet, shooting, take, barb, fritter, scene, spud, shooter, snapshot, crack, hit, flash, burgeon_forth, guessing, scoot, charge, tear",
+        "antonyms": ""
+    },
+    "show": {
+        "synonyms": "show_up, picture, appearance, express, indicate, exhibit, bear_witness, testify, present, evidence, usher, establish, prove, evince, record, show, demo, designate, demonstrate, render, shew, point, display, read, register, depict",
+        "antonyms": "disprove, hide"
+    },
+    "shred": {
+        "synonyms": "tag_end, tittle, smidgeon, scintilla, rip_up, whit, smidge, tatter, smidgin, tag, shred, iota, tear_up, smidgen, rag",
+        "antonyms": ""
+    },
+    "shrink": {
+        "synonyms": "wither, recoil, contract, wince, squinch, reduce, flinch, head-shrinker, shrivel, quail, funk, shrivel_up, cringe, psychiatrist, shrink",
+        "antonyms": "expand, stretch"
+    },
+    "shut": {
+        "synonyms": "shut, unopen, exclude, shut_out, keep_out, closed, close",
+        "antonyms": "admit, open"
+    },
+    "sided": {
+        "synonyms": "side",
+        "antonyms": ""
+    },
+    "signal": {
+        "synonyms": "betoken, signalise, signaling, sign, signal, bespeak, indicate, signalize, point",
+        "antonyms": ""
+    },
+    "sing": {
+        "synonyms": "talk, sing, tattle, let_the_cat_out_of_the_bag, blab_out, whistle, peach, babble, blab, spill_the_beans, babble_out",
+        "antonyms": "keep_quiet"
+    },
+    "sink": {
+        "synonyms": "subside, swallow_hole, cesspit, drop, go_down, dip, bury, sink, sinkhole, slide_down, slump, cesspool, fall_off, sump, pass, settle, lapse, drop_down, go_under",
+        "antonyms": "source, float"
+    },
+    "sit": {
+        "synonyms": "sit, sit_down, seat, pose, posture, ride, baby-sit, sit_around, model",
+        "antonyms": "arise, stand"
+    },
+    "slide": {
+        "synonyms": "slide, swoop, skid, slideway, slue, glide, slew, slip, sliding_board, coast, chute, playground_slide, microscope_slide, sloping_trough, lantern_slide, slither",
+        "antonyms": ""
+    },
+    "slip": {
+        "synonyms": "teddy, fall_away, parapraxis, case, moorage, elusion, shift, miscue, skid, sneak, faux_pas, err, splay, slip_one's_mind, berth, slip_of_paper, gaffe, gaucherie, mooring, slip-up, slide, chemise, mistake, shimmy, cutting, dislocate, slipperiness, slew, pillow_slip, drop_off, slickness, pillowcase, slue, luxate, strip, solecism, steal, slick, trip, drop_away, slip, sideslip, eluding",
+        "antonyms": ""
+    },
+    "slow": {
+        "synonyms": "tardily, obtuse, dumb, deadening, tedious, behind, easy, retard, slacken, dense, irksome, tiresome, decelerate, slow_up, dim, dull, ho-hum, slowly, sluggish, boring, wearisome, slack, slow, slow_down",
+        "antonyms": "fast, quickly, accelerate"
+    },
+    "slowed": {
+        "synonyms": "retard, decelerate, slack, slow_up, slacken, slow, slow_down",
+        "antonyms": "accelerate"
+    },
+    "smash": {
+        "synonyms": "crash, dash, bang, nail, smasher, ruin, smash, bang_up, blast, belt, boom, smash-up, strike, break, knock, hit, crush, bash, bankrupt, demolish, smashingly, smash_up, overhead",
+        "antonyms": ""
+    },
+    "smell": {
+        "synonyms": "smell_out, odour, olfactory_modality, olfactory_property, olfactory_sensation, tone, look, smack, scent, smelling, sense_of_smell, aroma, feeling, reek, sense, olfaction, olfactory_perception, smell, spirit, odor, flavor, flavour, feel",
+        "antonyms": ""
+    },
+    "soak": {
+        "synonyms": "drench, dowse, surcharge, plume, souse, soaking, rob, intoxicate, soak, pawn, pluck, imbue, hock, sop, inebriate, soakage, hook, douse, hit_it_up, gazump, overcharge, fleece",
+        "antonyms": "undercharge"
+    },
+    "soften": {
+        "synonyms": "damp, dampen, cushion, moderate, break, yield, buffer, soften, relent, mince, weaken",
+        "antonyms": "harden, stand, sharpen"
+    },
+    "sell": {
+        "synonyms": "betray, trade, deal, sell",
+        "antonyms": "buy"
+    },
+    "solidify": {
+        "synonyms": "solidify",
+        "antonyms": ""
+    },
+    "sort": {
+        "synonyms": "form, sorting, sort_out, screen_out, sort, variety, class, assort, separate, kind, sieve, classify, screen",
+        "antonyms": ""
+    },
+    "sow": {
+        "synonyms": "sow_in, seed, sow, inseminate",
+        "antonyms": ""
+    },
+    "spawn": {
+        "synonyms": "spawn, breed, engender",
+        "antonyms": ""
+    },
+    "speak": {
+        "synonyms": "address, talk, speak, mouth, utter, verbalise, verbalize",
+        "antonyms": ""
+    },
+    "specialize": {
+        "synonyms": "differentiate, speciate, narrow_down, specialize, specialise, particularise, particularize, specify, narrow",
+        "antonyms": "generalize, diversify"
+    },
+    "spend": {
+        "synonyms": "expend, pass, spend, drop",
+        "antonyms": ""
+    },
+    "spin": {
+        "synonyms": "whirl, twirl, gyrate, twist, reel, birl, spin_out, twisting, tailspin, spin, spin_around",
+        "antonyms": ""
+    },
+    "split": {
+        "synonyms": "disconnected, cleave, dissever, Split, carve_up, part, burst, fragmented, separate, disunited, break_up, rive, break_open, split_up, schism, break, stock_split, split, divide, rent, snag, tear, rip",
+        "antonyms": "unite"
+    },
+    "spoil": {
+        "synonyms": "corrupt, mishandle, bollocks_up, deflower, botch_up, fumble, baffle, bodge, mollycoddle, fuck_up, thwart, bumble, botch, screw_up, foul_up, rape, impair, go_bad, ball_up, baby, louse_up, plunder, cocker, despoilation, muck_up, spoliation, mess_up, spoil, pamper, mar, spoilage, bollocks, coddle, despoliation, queer, cross, scotch, itch, spoiling, bollix, spoilation, bobble, frustrate, vitiate, indulge, muff, fluff, cosset, foil, blow, bilk, despoilment, violate, flub, bollix_up, despoil, featherbed, bungle",
+        "antonyms": ""
+    },
+    "spot": {
+        "synonyms": "pip, maculation, speckle, place, spotlight, fleck, stain, espy, descry, daub, berth, distinguish, billet, smear, patch, recognize, make_out, dapple, touch, recognise, discern, post, smirch, blob, pick_out, bit, smudge, topographic_point, blot, office, point, blemish, situation, tell_apart, slur, spot, spy, position",
+        "antonyms": ""
+    },
+    "spray": {
+        "synonyms": "atomizer, nebulizer, atomiser, sprayer, nebuliser, spray, spraying",
+        "antonyms": ""
+    },
+    "spread": {
+        "synonyms": "bedspread, bed_covering, propagate, paste, go_around, circulate, scatter, circularise, facing_pages, counterpane, spreading, diffuse, overspread, bed_cover, bedcover, ranch, open, dispersed, disseminate, circularize, outspread, cattle_farm, spreadhead, gap, spread_out, feast, unfold, distribute, spread, cattle_ranch, spread_head, pass_around, fan_out, disperse, banquet, broadcast",
+        "antonyms": "gather, fold"
+    },
+    "sprout": {
+        "synonyms": "spud, germinate, sprout, pullulate, stock, burgeon_forth, shoot, bourgeon",
+        "antonyms": ""
+    },
+    "squeeze": {
+        "synonyms": "thrust, contract, extort, hug, squeeze_play, coerce, credit_crunch, mash, constrict, wedge, embrace, pressure, press, compact, shove, squelch, stuff, wring, power_play, tweet, hale, gouge, nip, compress, rack, squeezing, twitch, squash, bosom, crush, squeeze, clinch, liquidity_crisis, pinch, twinge, force",
+        "antonyms": ""
+    },
+    "stabilize": {
+        "synonyms": "stabilize, brace, stabilise, steady",
+        "antonyms": "destabilize, destabilise"
+    },
+    "standing": {
+        "synonyms": "brook, standing, support, stand_up, stand, remain_firm, endure, stick_out, stomach, abide, put_up, resist, tolerate, suffer, place_upright, fend, bear, digest",
+        "antonyms": "sit, running, seated, yield"
+    },
+    "start": {
+        "synonyms": "get-go, start_up, set_about, pop, come_out, jump, pop_out, showtime, starting_time, originate, set_out, get_going, set_off, first, starting_signal, initiate, kickoff, bug_out, set_forth, part, take_off, take_up, offset, embark_on, starting, starting_line, bulge, commence, scratch_line, bulge_out, commencement, startle, protrude, start, scratch, get_down, lead_off, begin, outset, beginning, depart, head_start, get, start_out, go",
+        "antonyms": "finish, middle, end, stop"
+    },
+    "stay": {
+        "synonyms": "rest, abide, stop, check, quell, stay_on, stoppage, appease, delay, stay, detain, bide, stick_around, outride, last_out, arrest, continue, persist, hitch, ride_out, halt, stick, stay_put, remain",
+        "antonyms": "change, move, depart"
+    },
+    "stick": {
+        "synonyms": "cling, amaze, perplex, sting, joystick, spliff, baffle, cohere, stand_by, cleave, stupefy, wedge, bond, peg, reefer, hold_fast, puzzle, mystify, pin, stick_to, stay, bewilder, pose, dumbfound, adhere, stick_around, vex, joint, gravel, flummox, beat, nonplus, bind, marijuana_cigarette, stick, stay_put, control_stick, get, stick_by, deposit, lodge",
+        "antonyms": "move, dislodge"
+    },
+    "stimulate": {
+        "synonyms": "brace, shake_up, perk_up, cause, hasten, stimulate, have, energize, shake, energise, induce, arouse, stir, get, make, excite, provoke, rush",
+        "antonyms": "de-energize, sedate, de-energise, stifle"
+    },
+    "stir": {
+        "synonyms": "shake_up, agitate, bring_up, invoke, stimulate, shake, shift, budge, conjure_up, bustle, fuss, hustle, call_forth, excite, conjure, touch, raise, evoke, ado, stir, call_down, put_forward, splash, flurry, arouse",
+        "antonyms": ""
+    },
+    "stitch": {
+        "synonyms": "stitch, run_up, sew_together, sew",
+        "antonyms": ""
+    },
+    "stop": {
+        "synonyms": "diaphragm, layover, stop_consonant, break_off, stop, plosive, plosive_consonant, catch, check, plosive_speech_sound, block, period, hold_on, bar, give_up, closure, stopover, cease, stoppage, blockage, quit, contain, stop_over, stay, block_up, blockade, hold_back, full_point, point, terminate, arrest, full_stop, finish, break, hitch, discontinue, halt, kibosh, end, turn_back, barricade, lay_off, block_off, occlusion, occlusive, intercept",
+        "antonyms": "start, continue, begin, continuant_consonant"
+    },
+    "store": {
+        "synonyms": "hive_away, fund, stack_away, store, computer_memory, computer_storage, depot, lay_in, put_in, storehouse, shop, memory, stock, salt_away, stash_away, storage, memory_board, entrepot",
+        "antonyms": ""
+    },
+    "strain": {
+        "synonyms": "tense_up, puree, sift, distort, mental_strain, strive, filter, reach, strain, separate_out, filtrate, filter_out, melodic_phrase, melody, straining, tenor, stock, nisus, breed, tense, deform, stress, pains, song, nervous_strain, var., form, variant, try, air, line, striving, tune, extend, melodic_line, sieve",
+        "antonyms": "unstrain, relax"
+    },
+    "streaming": {
+        "synonyms": "streaming, pelt, rain_cats_and_dogs, pullulate, teem, stream, pour, cyclosis, rain_buckets, swarm, well_out",
+        "antonyms": ""
+    },
+    "strengthen": {
+        "synonyms": "tone, beef_up, fortify, strengthen, tone_up",
+        "antonyms": "weaken"
+    },
+    "stretch": {
+        "synonyms": "load, stint, stretch_along, unfold, elongate, adulterate, reaching, dilute, reach, stretchiness, stretchability, extend, debase, stretching, stretch, stretch_out",
+        "antonyms": "shrink"
+    },
+    "strike": {
+        "synonyms": "chance_on, attain, work_stoppage, collide_with, bang, mint, smasher, expunge, rap, smash, come_upon, come_to, chance_upon, come_across, light_upon, take_up, strickle, fall, impinge_on, ten-strike, excise, coin, happen_upon, affect, assume, take, fall_upon, discover, tap, impress, strike, scratch, move, hit, run_into, walk_out, shine",
+        "antonyms": "miss"
+    },
+    "string": {
+        "synonyms": "drawing_string, string, string_along, chain, string_up, strand, cosmic_string, bowed_stringed_instrument, draw, thread, train, twine, drawstring",
+        "antonyms": "unstring"
+    },
+    "strip": {
+        "synonyms": "divest, uncase, clean, disinvest, ransack, funnies, leach, rifle, strip_down, plunder, loot, denude, flight_strip, airstrip, unclothe, deprive, striptease, cartoon_strip, peel, comic_strip, reave, landing_strip, dismantle, denudate, bare, disrobe, strip, strip_show, undress, pillage, foray, slip, discase, despoil",
+        "antonyms": "dress"
+    },
+    "stuck": {
+        "synonyms": "cling, stuck, perplex, baffle, cohere, stand_by, cleave, stupefy, wedge, bond, hold_fast, puzzle, mystify, stick_to, stay, bewilder, stay_put, pose, dumbfound, adhere, stick_around, vex, gravel, flummox, beat, nonplus, bind, stick, sting, amaze, get, stick_by, deposit, lodge",
+        "antonyms": "unstuck, move, dislodge"
+    },
+    "subject": {
+        "synonyms": "guinea_pig, capable, discipline, subjugate, content, case, field_of_study, issue, national, field, subject_area, matter, bailiwick, study, dependent, submit, theme, depicted_object, subject_field, topic, subject, open",
+        "antonyms": ""
+    },
+    "suck": {
+        "synonyms": "suction, soak_up, absorb, imbibe, give_suck, take_in, suck_in, sucking, fellate, take_up, suckle, lactate, suck, wet-nurse, breastfeed, nurse, go_down_on, suck_up, draw, blow, sop_up",
+        "antonyms": "bottlefeed"
+    },
+    "supercool": {
+        "synonyms": "",
+        "antonyms": ""
+    },
+    "support": {
+        "synonyms": "financial_backing, stick_out, indorse, sustain, affirm, patronize, stomach, abide, underpin, digest, financial_support, brook, fend_for, plunk_for, documentation, put_up, keep, musical_accompaniment, supporting, tolerate, hold_up, defend, suffer, reinforcement, back_up, patronise, living, endure, backing, endorse, sustenance, livelihood, substantiate, keep_going, back, bread_and_butter, support, plump_for, hold, confirm, stand, reenforcement, backup, corroborate, accompaniment, subscribe, bear, funding, bear_out, patronage",
+        "antonyms": "negate"
+    },
+    "surprise": {
+        "synonyms": "storm, surprise, surprisal",
+        "antonyms": ""
+    },
+    "surround": {
+        "synonyms": "environs, hem_in, fence, wall, palisade, environ, surround, smother, beleaguer, border, skirt, ring, fence_in, circumvent, besiege, environment, surroundings",
+        "antonyms": ""
+    },
+    "survive": {
+        "synonyms": "survive, last, pull_through, live, outlast, endure, live_on, come_through, subsist, hold_up, pull_round, make_it, exist, hold_out, outlive, go",
+        "antonyms": "succumb"
+    },
+    "sustaining": {
+        "synonyms": "confirm, support, nourish, nurture, maintain, hold, keep_up, substantiate, have, sustain, corroborate, affirm, suffer, keep, hold_up, get, prolong",
+        "antonyms": "negate"
+    },
+    "swallow": {
+        "synonyms": "accept, deglutition, withdraw, eat_up, unsay, get_down, immerse, take_back, drink, swallow_up, live_with, sup, swallow, bury",
+        "antonyms": ""
+    },
+    "swim": {
+        "synonyms": "swimming, drown, swim, float",
+        "antonyms": "sink"
+    },
+    "swirling": {
+        "synonyms": "swirl, whirl, twirl, whirlpool, purl, eddy, twiddle",
+        "antonyms": ""
+    },
+    "switch": {
+        "synonyms": "permutation, alternate, throw, shift, switching, swop, trade, substitution, switch, transposition, change, electric_switch, exchange, tack, interchange, replacement, swap, change_over, switch_over, flip-flop, electrical_switch, flip",
+        "antonyms": ""
+    },
+    "swoop": {
+        "synonyms": "slide, swoop, swoop_up, pounce",
+        "antonyms": ""
+    },
+    "take": {
+        "synonyms": "withdraw, contract, ask, acquire, look_at, fill, ingest, yield, call_for, choose, bring, need, use_up, shoot, direct, select, return, issue, take_in, take_on, adopt, takings, take_away, take_aim, aim, engage, consider, drive, necessitate, lead, guide, accept, involve, demand, take_up, study, exact, rent, carry, payoff, subscribe_to, contain, consume, pick_out, remove, deal, occupy, film, require, submit, pack, assume, take, claim, hold, learn, convey, conduct, strike, have, proceeds, lease, hire, charter, admit, subscribe, get_hold_of, read, train, get, make, postulate",
+        "antonyms": "refuse, obviate, give, disclaim, abstain"
+    },
+    "talk": {
+        "synonyms": "speak, spill, babble_out, mouth, babble, blab, verbalise, talk_of_the_town, tattle, let_the_cat_out_of_the_bag, blab_out, public_lecture, spill_the_beans, verbalize, talk, sing, peach, utter, lecture, talking",
+        "antonyms": "keep_quiet"
+    },
+    "taste": {
+        "synonyms": "gustatory_sensation, gustatory_perception, predilection, sample, savour, discernment, gustation, smack, try_out, appreciation, perceptiveness, taste_sensation, gustatory_modality, tasting, penchant, taste_perception, sense_of_taste, try, taste, preference, mouthful, savor",
+        "antonyms": ""
+    },
+    "teach": {
+        "synonyms": "teach, Blackbeard, instruct, Edward_Thatch, learn, Edward_Teach, Teach, Thatch",
+        "antonyms": ""
+    },
+    "tear": {
+        "synonyms": "pull, shoot, binge, bust, buck, pluck, deplume, teardrop, shoot_down, deplumate, snap, bout, rupture, split, charge, displume, rent, snag, tear, rip",
+        "antonyms": ""
+    },
+    "tell": {
+        "synonyms": "state, narrate, assure, Tell, secern, order, tell, severalise, recount, differentiate, evidence, distinguish, William_Tell, recite, separate, severalize, secernate, tell_apart, say, enjoin",
+        "antonyms": ""
+    },
+    "thaw": {
+        "synonyms": "thawing, dissolve, warming, unfreeze, melt, unthaw, melting, thaw, dethaw",
+        "antonyms": ""
+    },
+    "thin": {
+        "synonyms": "thin, slight, slenderize, slim, thinly, thin_out, dilute, reduce, flimsy, fragile, sparse, lean, tenuous, cut, slender, slim_down, lose_weight, melt_off",
+        "antonyms": "gain, thicken, thickly, thick, fat, full"
+    },
+    "think": {
+        "synonyms": "opine, cerebrate, cogitate, intend, remember, suppose, imagine, recall, guess, consider, call_up, retrieve, conceive, reckon, recollect, believe, call_back, mean, think",
+        "antonyms": "forget"
+    },
+    "thrive": {
+        "synonyms": "fly_high, expand, thrive, boom, prosper, flourish",
+        "antonyms": ""
+    },
+    "throw": {
+        "synonyms": "thrust, cam_stroke, stroke, throw, drop, discombobulate, bedevil, bemuse, give, befuddle, throw_off, project, shed, switch, shake_off, contrive, bewilder, throw_away, fuddle, confound, hold, confuse, have, hurl, cast_off, cast, flip, make, fox",
+        "antonyms": ""
+    },
+    "till": {
+        "synonyms": "public_treasury, money_box, till, trough, cashbox, boulder_clay",
+        "antonyms": ""
+    },
+    "tilt": {
+        "synonyms": "contention, tip, arguing, careen, tilt, argument, joust, shift, leaning, wobble, disputation, controversy, sway, list, lean, disceptation, slant, pitch, rock, angle, cant, cant_over, inclination, contestation",
+        "antonyms": ""
+    },
+    "touch": {
+        "synonyms": "bear_upon, trace, bear_on, concern, signature, tactual_sensation, touch_modality, speck, cutaneous_senses, reach, ghost, tactile_sensation, hint, skin_senses, sense_of_touch, adjoin, advert, jot, touching, meet, tinct, disturb, touch_on, touch_sensation, come_to, soupcon, match, extend_to, touch, feeling, tinge, mite, tint, equal, refer, stir, contact, have-to_doe_with, affect, relate, allude, partake, impact, spot, pertain, pinch, rival",
+        "antonyms": ""
+    },
+    "track": {
+        "synonyms": "track, running, tag, trail, course, raceway, rails, racecourse, racetrack, cart_track, traverse, chase, go_after, pass_over, cut, lead, cover, cross, cartroad, tail, dog, get_across, path, runway, data_track, caterpillar_tread, caterpillar_track, cut_through, give_chase, get_over, cut_across, chase_after, rail",
+        "antonyms": ""
+    },
+    "tranfer": {
+        "synonyms": "",
+        "antonyms": ""
+    },
+    "transcribe": {
+        "synonyms": "transcribe, transliterate",
+        "antonyms": ""
+    },
+    "transfer": {
+        "synonyms": "conveyance, transfer, shift, transpose, carry-over, transport, transference, channel, transplant, transmit, change, remove, transfer_of_training, transportation, transferee, channelise, transferral, reassign, channelize",
+        "antonyms": ""
+    },
+    "transform": {
+        "synonyms": "transmute, transubstantiate, transform, metamorphose, translate",
+        "antonyms": ""
+    },
+    "translate": {
+        "synonyms": "interpret, render, transform, read, translate, understand",
+        "antonyms": ""
+    },
+    "transmit": {
+        "synonyms": "beam, communicate, air, convey, conduct, carry, transport, send, transfer, channel, channelise, impart, transmit, channelize, broadcast",
+        "antonyms": ""
+    },
+    "transport": {
+        "synonyms": "raptus, conveyance, transfer, enthrall, ecstasy, ship, transport, channel, transmit, exaltation, carry, send, tape_drive, enrapture, enchant, delight, tape_transport, ravish, transportation, rapture, shipping, channelise, transferral, enthral, channelize",
+        "antonyms": "disenchant"
+    },
+    "trap": {
+        "synonyms": "sand_trap, hole, cakehole, maw, ambush, ensnare, immobilise, trap, pin, entrap, ambuscade, pin_down, immobilize, yap, snare, lying_in_wait, bunker, trammel, gob",
+        "antonyms": ""
+    },
+    "travel": {
+        "synonyms": "change_of_location, locomotion, move, journey, move_around, locomote, trip, traveling, travelling, travel, go, jaunt",
+        "antonyms": "stay_in_place"
+    },
+    "treat": {
+        "synonyms": "process, cover, address, treat, goody, handle, do_by, regale, care_for, dainty, plow, deal, kickshaw, delicacy",
+        "antonyms": ""
+    },
+    "try": {
+        "synonyms": "hear, test, sample, judge, strain, attempt, try_out, prove, assay, endeavour, effort, endeavor, stress, examine, try_on, render, try, taste, adjudicate, seek, essay",
+        "antonyms": ""
+    },
+    "turn": {
+        "synonyms": "twist, turn_of_events, round, plough, bend, good_turn, plow, turning, turn_over, release, sprain, spell, work, flex, act, change_by_reversal, routine, play, grow, become, deform, move_around, sour, wrench, tour, bit, bout, reverse, wrick, number, change_state, call_on, turn, ferment, rick, go, crook",
+        "antonyms": "unbend"
+    },
+    "type": {
+        "synonyms": "typewrite, eccentric, typecast, character, type, case",
+        "antonyms": "antitype"
+    },
+    "undergo": {
+        "synonyms": "undergo",
+        "antonyms": ""
+    },
+    "understand": {
+        "synonyms": "see, interpret, infer, sympathise, empathize, realise, empathise, read, sympathize, translate, realize, understand",
+        "antonyms": ""
+    },
+    "unload": {
+        "synonyms": "unlade, set_down, unload, put_down, drop, offload, discharge, drop_off",
+        "antonyms": ""
+    },
+    "unused": {
+        "synonyms": "unused, idle, fresh",
+        "antonyms": ""
+    },
+    "unwound": {
+        "synonyms": "wind_off, unlax, unstrain, make_relaxed, unwind, loosen_up, relax, unroll, decompress, disentangle, unbend, slow_down",
+        "antonyms": "strain, tense, wind"
+    },
+    "upset": {
+        "synonyms": "upturned, bowl_over, overturned, upset, knock_over, turn_over, swage, discomfit, perturbation, turnover, disquieted, disturbed, trouble, disturb, untune, broken, tump_over, derangement, disconcert, overturn, confused, worried, overthrow, tip_over, discompose, distressed, disorder, disturbance, disordered",
+        "antonyms": ""
+    },
+    "use": {
+        "synonyms": "utilize, usage, usance, utilisation, economic_consumption, enjoyment, use, practice, exercise, expend, manipulation, function, employment, employ, consumption, habituate, use_of_goods_and_services, role, habit, apply, purpose, utilization, utilise",
+        "antonyms": ""
+    },
+    "vent": {
+        "synonyms": "give_vent, air, ventilate, vent, venthole, vent-hole, outlet, air_out, blowhole, volcano, release",
+        "antonyms": ""
+    },
+    "venture": {
+        "synonyms": "venture, jeopardize, pretend, stake, guess, hazard, speculation, adventure, embark",
+        "antonyms": ""
+    },
+    "vibrate": {
+        "synonyms": "hover, vacillate, oscillate, tickle, resonate, thrill, vibrate",
+        "antonyms": ""
+    },
+    "visit": {
+        "synonyms": "confab, call, impose, visit, inspect, confabulate, shoot_the_breeze, see, sojourn, chaffer, chit-chat, call_in, chatter, travel_to, jaw, chat, natter, bring_down, chew_the_fat, claver, gossip, inflict, chitchat",
+        "antonyms": ""
+    },
+    "wait": {
+        "synonyms": "hold, look, delay, time_lag, waitress, postponement, await, hold_back, hold_off, wait, expect, waiting",
+        "antonyms": ""
+    },
+    "wake": {
+        "synonyms": "awake, come_alive, arouse, ignite, rouse, viewing, awaken, inflame, heat, fire_up, Wake, Wake_Island, wake_up, backwash, stir_up, wake, aftermath, waken",
+        "antonyms": "sleep, cause_to_sleep, fall_asleep"
+    },
+    "wander": {
+        "synonyms": "roam, swan, roll, ramble, thread, cheat, vagabond, tramp, digress, betray, weave, range, divagate, meander, cheat_on, stray, drift, cuckold, wander, rove, cast, wind",
+        "antonyms": ""
+    },
+    "want": {
+        "synonyms": "deficiency, desire, privation, deprivation, neediness, want, need, wishing, wish, require, lack",
+        "antonyms": ""
+    },
+    "warm": {
+        "synonyms": "warm, lovesome, quick, fond, strong, warm_up, affectionate, tender, warmly, ardent",
+        "antonyms": "cool"
+    },
+    "warming": {
+        "synonyms": "thawing, calefacient, warm, warming, heating, warm_up, thaw",
+        "antonyms": ""
+    },
+    "wash": {
+        "synonyms": "launder, dampen, slipstream, washables, backwash, dry_wash, washing, wash_drawing, washout, laundry, moisten, wash_away, race, wash_off, wash, rinse, lavation, lap, wash_out, lave, airstream",
+        "antonyms": ""
+    },
+    "waste": {
+        "synonyms": "devastate, waste, squander, neutralise, permissive_waste, emaciate, knock_off, pine_away, rot, ware, macerate, waste_matter, godforsaken, run_off, wild, waste_material, liquidate, languish, scourge, waste_product, consume, desolate, ravage, wastefulness, dissipation, thriftlessness, lay_waste_to, neutralize, blow, do_in, barren, wasteland",
+        "antonyms": "conserve"
+    },
+    "water": {
+        "synonyms": "body_of_water, water_supply, urine, pee, irrigate, H2O, piss, water_system, piddle, weewee, water",
+        "antonyms": ""
+    },
+    "weaken": {
+        "synonyms": "undermine, damp, countermine, sabotage, dampen, step_down, subvert, break, de-escalate, soften, counteract, weaken",
+        "antonyms": "strengthen, escalate"
+    },
+    "wear": {
+        "synonyms": "wear, tire, wear_out, have_on, get_into, clothing, wear_off, hold_out, bust, fatigue, put_on, don, article_of_clothing, tire_out, fag, vesture, fag_out, jade, habiliment, wear_upon, endure, weary, assume, fall_apart, wear_down, outwear, break, wearing, bear, wearable, wear_thin",
+        "antonyms": "refresh"
+    },
+    "weather": {
+        "synonyms": "weather, upwind, atmospheric_condition, endure, brave, weather_condition, brave_out, conditions",
+        "antonyms": ""
+    },
+    "wedge": {
+        "synonyms": "deposit, submarine, poor_boy, submarine_sandwich, wedge_heel, wedge_shape, hero, chock, sub, wedge, hoagy, grinder, Italian_sandwich, bomber, zep, cuneus, hero_sandwich, hacek, Cuban_sandwich, stick, squeeze, torpedo, hoagie, force, lodge",
+        "antonyms": "dislodge"
+    },
+    "wither": {
+        "synonyms": "wither, shrivel, shrivel_up, fade, shrink",
+        "antonyms": ""
+    },
+    "work": {
+        "synonyms": "process, mould, operate, bring, act_upon, work_on, work, put_to_work, act, exploit, figure_out, piece_of_work, play, exercise, mold, puzzle_out, make_for, cultivate, wreak, function, study, oeuvre, employment, influence, workplace, solve, sour, knead, run, body_of_work, lick, form, do_work, forge, turn, ferment, shape, work_out, make, go, crop",
+        "antonyms": "malfunction, idle"
+    },
+    "wrap": {
+        "synonyms": "wrapping, envelop, enclose, enwrap, enfold, roll, wrap, wrapper, wrap_up, twine, wind",
+        "antonyms": "unwrap, unwind"
+    },
+    "write": {
+        "synonyms": "write, pen, drop_a_line, save, publish, compose, indite, spell",
+        "antonyms": ""
+    },
+    "zip": {
+        "synonyms": "nil, zip_fastener, zip_up, speed, nix, ZIP, postcode, ZIP_code, vigour, zipper, goose_egg, naught, slide_fastener, zip, hurry, postal_code, zilch, null, nothing, zippo, zero, travel_rapidly, cipher, vigor, nada, energy, aught, cypher",
+        "antonyms": "unzip"
+    }
+}
